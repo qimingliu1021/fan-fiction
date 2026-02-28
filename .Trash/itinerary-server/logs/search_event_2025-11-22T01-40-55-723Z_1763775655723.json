@@ -1,0 +1,306 @@
+{
+  "organic": [
+    {
+      "link": "https://www.fortworthtexas.gov/events",
+      "display_link": "https://www.fortworthtexas.gov › events",
+      "title": "City of Fort Worth's Calendar Activities, Events & Meetings",
+      "description": "City Calendar of events and meetings throughout the City of Fort Worth.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Crafts,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Swimming,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 5
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.fortworth.com/print-events/?startDate=11/17/2025&endDate=11/23/2025",
+      "display_link": "https://www.fortworth.com › print-events › 23 › 2025",
+      "title": "Print Events",
+      "description": "Saturday, November 22, 2025. AC Hotel Fort Worth Live Music Weekends ... Sunday, November 23, 2025. Amazing Scavenger Hunt Adventure- Fort Worth.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "4 days ago",
+          "rank": 1
+        }
+      ],
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://www.eventbrite.com/b/tx--fort-worth/health/mental-health/",
+      "display_link": "https://www.eventbrite.com › ... › Health",
+      "title": "Mental health Events & Tickets in Fort Worth, TX",
+      "description": "Looking for mental health events in Fort Worth? Whether you're a local, new in town, or just passing through, you'll be sure to find something on Eventbrite ...",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Crafts,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Swimming,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "meetups",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 5
+        }
+      ],
+      "rank": 3,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.meetup.com/find/us--tx--fort-worth/board-games/",
+      "display_link": "https://www.meetup.com › find › board-games",
+      "title": "Board games events near Fort Worth, TX",
+      "description": "Find groups in Fort Worth, TX to connect with people who share your interests. Join now to attend online or in person events.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Beach,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Crafts,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "networking",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "conferences",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "November",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 8
+        },
+        {
+          "type": "missing",
+          "text": "2025",
+          "rank": 9
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 10
+        }
+      ],
+      "rank": 4,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.fortworthtexas.gov/files/assets/public/v/19/library/documents/sgn-event-calendar.pdf",
+      "display_link": "https://www.fortworthtexas.gov › documents › s...",
+      "title": "NOVEMBER 2025",
+      "description": "Family Board Game Hour - Play fun, interactive games at the library. Summerglen Anniversary Event - Help us celebrate our 25th Anniversary! TEEN. Anime Club ...",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "TX",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Beach,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "networking",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "conferences",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 8
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 9
+        }
+      ],
+      "rank": 5,
+      "global_rank": 9
+    },
+    {
+      "link": "https://fortworth.culturemap.com/news/entertainment/events-weekend-11-20-2025/",
+      "display_link": "https://fortworth.culturemap.com › news › entertainment",
+      "title": "Festive parks and plays top Fort Worth's 15 best weekend events",
+      "description": "The 15 best events in Fort Worth this weekend (Nov. 20-23, 2025) include Stockyards Rodeo Rink, Adam Carolla, Texas Christkindl Market, ...",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "2 days ago",
+          "rank": 1
+        }
+      ],
+      "rank": 6,
+      "global_rank": 10
+    },
+    {
+      "link": "https://fortworth.events/november/",
+      "display_link": "https://fortworth.events › november",
+      "title": "Fort Worth Events November 2025: Concerts, Shows, Sports",
+      "description": "Check out the complete schedule of all current and upcoming events this month. Find the best events, buy verified tickets today, and save!",
+      "rank": 7,
+      "global_rank": 11
+    },
+    {
+      "link": "https://www.monroenc.org/m/NewsFlash?cat=1",
+      "display_link": "https://www.monroenc.org › NewsFlash",
+      "title": "News Flash • Monroe, NC",
+      "description": "Posted on September 23, 2025 | Last Updated on September 23, 2025. City of Monroe Presents Incentive Payment to Windsor Windows & Doors. The City of Monroe ...",
+      "rank": 8,
+      "global_rank": 12
+    },
+    {
+      "link": "https://vendelux.com/blog/sports-conferences/",
+      "display_link": "https://vendelux.com › Blog",
+      "title": "Sports Conferences Event Guide for 2025",
+      "description": "In this guide, expect to explore the most anticipated conferences of 2025, complete with travel stops, key themes and unique opportunities that await attendees.",
+      "rank": 9,
+      "global_rank": 13
+    },
+    {
+      "link": "https://beaconpointe.com/employee-directory/",
+      "display_link": "https://beaconpointe.com › employee-directory",
+      "title": "Our Leadership",
+      "description": "We are a team of talented, diverse, upstanding, and passionate individuals dedicated to serving our clients and supporting our nationwide professional team.",
+      "rank": 10,
+      "global_rank": 14
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "text": "City of Fort Worth public Meetings",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=City+of+Fort+Worth+public+Meetings&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAgvEAE",
+      "rank": 1,
+      "global_rank": 15
+    },
+    {
+      "text": "Workshops Fort Worth",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Workshops+Fort+Worth&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAhNEAE",
+      "rank": 2,
+      "global_rank": 16
+    },
+    {
+      "text": "Sporting events Fort Worth",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Sporting+events+Fort+Worth&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAhKEAE",
+      "rank": 3,
+      "global_rank": 17
+    },
+    {
+      "text": "Fort Worth Community classes",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Fort+Worth+Community+classes&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAhDEAE",
+      "rank": 4,
+      "global_rank": 18
+    },
+    {
+      "text": "Things to do in Dallas Fort Worth in November",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+Dallas+Fort+Worth+in+November&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAg9EAE",
+      "rank": 5,
+      "global_rank": 19
+    },
+    {
+      "text": "Marine creek park events",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Marine+creek+park+events&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAg6EAE",
+      "rank": 6,
+      "global_rank": 20
+    },
+    {
+      "text": "Fort Worth classes",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Fort+Worth+classes&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAg1EAE",
+      "rank": 7,
+      "global_rank": 21
+    },
+    {
+      "text": "Fort Worth address",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Fort+Worth+address&sa=X&ved=2ahUKEwjg28es0ISRAxVLlokEHZsLNg8Q1QJ6BAgyEAE",
+      "rank": 8,
+      "global_rank": 22
+    }
+  ],
+  "ai_overview": null
+}

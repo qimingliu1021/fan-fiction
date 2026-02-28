@@ -1,0 +1,240 @@
+{
+  "organic": [
+    {
+      "link": "https://visitelpaso.com/events",
+      "display_link": "https://visitelpaso.com › events",
+      "title": "Events Calendar",
+      "description": "Annual Events, Broadway in El Paso, Comedy, Community, Concerts, DIY/Crafts, Dance, Exhibitions, Family-Friendly, Farmers Markets, Festivals, Film and Video, ...",
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.tripadvisor.ca/Attractions-g60768-Activities-El_Paso_Texas.html",
+      "display_link": "https://www.tripadvisor.ca › ... › Texas (TX) › El Paso",
+      "title": "THE 15 BEST Things to Do in El Paso (2025)",
+      "description": "Check out must-see sights and activities: Scenic Drive - Overlook, Franklin Mountains State Park, Historic Sites, Walking Tours. For personalised ...",
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://visitelpaso.com/events/weekend",
+      "display_link": "https://visitelpaso.com › events › weekend",
+      "title": "Weekend Events",
+      "description": "Annual Events, Broadway in El Paso, Comedy, Community, Concerts, DIY/Crafts, Dance, Exhibitions, Family-Friendly, Farmers Markets, Festivals, Film and Video, ...",
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://www.yelp.ca/search?find_desc=Fun+Activities&find_loc=El+Paso%2C+TX",
+      "display_link": "https://www.yelp.ca › Active Life",
+      "title": "TOP 10 BEST Fun Activities in El Paso, TX - Updated 2025",
+      "description": "Top 10 Best Fun Activities Near El Paso, Texas · 1. La Nube. 5.0 (6 reviews). Children's Museums · Venues & Event Spaces · 2. Roaring Rage Room. 5.0 (9 reviews).",
+      "extensions": [
+        {
+          "type": "rating",
+          "rating": 4.1,
+          "reviews_cnt": 2002,
+          "rank": 1
+        }
+      ],
+      "rank": 4,
+      "global_rank": 4
+    },
+    {
+      "link": "https://www.expedia.ca/Things-To-Do-In-Northwest-El-Paso.d6058856.Travel-Guide-Activities",
+      "display_link": "https://www.expedia.ca › Things-To-Do-In-Northwest-El...",
+      "title": "10 TOP Things to Do in Northwest El Paso November 2025",
+      "description": "Find things to see and do in Northwest El Paso - Discover top tourist attractions, sightseeing tours and activities, and book them on Expedia.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Ballet,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Gaming,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Workshops,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 5
+        }
+      ],
+      "rank": 5,
+      "global_rank": 5
+    },
+    {
+      "link": "https://www.elpasotimes.com/things-to-do/events/",
+      "display_link": "https://www.elpasotimes.com › things-to-do › events",
+      "title": "Things To Do in El Paso TX",
+      "description": "Things to do in El Paso, TX. Find local events, weekend festivals, and free attractions for families, or promote your own event.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Gaming,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Workshops,",
+          "rank": 2
+        }
+      ],
+      "rank": 6,
+      "global_rank": 6
+    },
+    {
+      "link": "https://elpaso.events/november/",
+      "display_link": "https://elpaso.events › november",
+      "title": "El Paso Events November 2025: Concerts, Shows, Sports...",
+      "description": "“El Paso Events” is your guide to all entertainment in the city: concerts, shows, musicals, family shows, comedy, ballet performances, and sporting events.",
+      "rank": 7,
+      "global_rank": 7
+    },
+    {
+      "link": "https://la-nube.org/plan-your-day/calendar",
+      "display_link": "https://la-nube.org › plan-your-day › calendar",
+      "title": "Events Calendar - La Nube | Where Imagination Takes ...",
+      "description": "Nov 22. Winter Slime. Saturday, November 22, 2025 - Sunday, November 23, 2025. Winter Wonderland. La Nube. 201 W. Main Dr, El Paso, TX 79901. Blue ...",
+      "rank": 8,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.eventbrite.ca/d/tx--el-paso/november/",
+      "display_link": "https://www.eventbrite.ca › ... › November Events",
+      "title": "Discover November Events & Activities in El Paso, TX",
+      "description": "November events in El Paso, TX · Business · Science & Tech · Music · Film & Media · Performing & Visual Arts · Fashion · Health · Sports & Fitness ...",
+      "rank": 9,
+      "global_rank": 9
+    },
+    {
+      "link": "https://elpasolive.com/events",
+      "display_link": "https://elpasolive.com › events",
+      "title": "Upcoming Events",
+      "description": "Nov 22, 2025. Texas International Fashion Week. Showtime 7:00 PM. Buy Tickets ... Dec 23, 2025 – Dec 24, 2025. Nutcracker! Magical Christmas Ballet.",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Broadway in El Paso",
+          "link": "https://elpasolive.com/events/broadway-in-el-paso",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "El Paso Comic Con",
+          "link": "https://elpasolive.com/events/el-paso-comic-con-8f023531-c459-4b1a-907e-2448ace5f42f",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Know Before You Go",
+          "link": "https://elpasolive.com/experience/know-before-you-go",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Six",
+          "link": "https://elpasolive.com/events/six",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Gaming,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "Workshops,",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "Book",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "Clubs",
+          "rank": 8
+        },
+        {
+          "type": "missing",
+          "text": "attractions",
+          "rank": 9
+        },
+        {
+          "type": "missing",
+          "text": "places",
+          "rank": 10
+        }
+      ],
+      "rank": 10,
+      "global_rank": 10
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "text": "Free events in El Paso today",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Free+events+in+El+Paso+today&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAgqEAE",
+      "rank": 1,
+      "global_rank": 11
+    },
+    {
+      "text": "Downtown El Paso events today",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Downtown+El+Paso+events+today&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAhFEAE",
+      "rank": 2,
+      "global_rank": 12
+    },
+    {
+      "text": "Downtown El Paso events this weekend",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Downtown+El+Paso+events+this+weekend&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAhCEAE",
+      "rank": 3,
+      "global_rank": 13
+    },
+    {
+      "text": "Things to do in El Paso today for adults",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+El+Paso+today+for+adults&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAg9EAE",
+      "rank": 4,
+      "global_rank": 14
+    },
+    {
+      "text": "Free events in El Paso today for adults",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Free+events+in+El+Paso+today+for+adults&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAg2EAE",
+      "rank": 5,
+      "global_rank": 15
+    },
+    {
+      "text": "Events in El Paso this weekend",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Events+in+El+Paso+this+weekend&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAgzEAE",
+      "rank": 6,
+      "global_rank": 16
+    },
+    {
+      "text": "Free events in El Paso today for families",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Free+events+in+El+Paso+today+for+families&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAgxEAE",
+      "rank": 7,
+      "global_rank": 17
+    },
+    {
+      "text": "Outdoor Downtown El Paso Events today",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Outdoor+Downtown+El+Paso+Events+today&sa=X&ved=2ahUKEwiEqLrbzYSRAxWgLzQIHYfwGgAQ1QJ6BAgtEAE",
+      "rank": 8,
+      "global_rank": 18
+    }
+  ],
+  "ai_overview": null
+}

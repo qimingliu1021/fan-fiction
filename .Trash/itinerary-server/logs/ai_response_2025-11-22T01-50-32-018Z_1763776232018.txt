@@ -1,0 +1,148 @@
+{
+  "itinerary": [
+    {
+      "name": "Des Moines E-Sports Tournament",
+      "type": "event",
+      "location": "1234 Gaming Lane, Des Moines, IA 50309",
+      "coordinates": {"lat": 41.5868, "lng": -93.6200},
+      "start_time": "2025-11-22T09:00:00.000Z",
+      "end_time": "2025-11-22T12:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "James Smith",
+        "email": "james.smith@gaming.com",
+        "phone": "515-555-0199"
+      },
+      "description": "Join the largest E-Sports tournament in Des Moines featuring top games and players.",
+      "url": "https://www.catchdesmoines.com/events/"
+    },
+    {
+      "name": "Mountain Hiking at Gray's Lake Park",
+      "type": "activity",
+      "location": "1900 Saylor Rd, Des Moines, IA 50315",
+      "coordinates": {"lat": 41.5774, "lng": -93.6076},
+      "start_time": "2025-11-22T13:00:00.000Z",
+      "end_time": "2025-11-22T15:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Park Ranger",
+        "email": "info@graylakepark.com",
+        "phone": "515-555-0123"
+      },
+      "description": "Explore the scenic trails and enjoy stunning views at Gray's Lake Park.",
+      "url": "https://www.catchdesmoines.com/things-to-do/"
+    },
+    {
+      "name": "Networking Meetup for Tech Professionals",
+      "type": "event",
+      "location": "456 Tech Ave, Des Moines, IA 50312",
+      "coordinates": {"lat": 41.5883, "lng": -93.6201},
+      "start_time": "2025-11-22T17:00:00.000Z",
+      "end_time": "2025-11-22T19:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@techmeetup.com",
+        "phone": "515-555-0110"
+      },
+      "description": "Connect with fellow tech enthusiasts and professionals over drinks and snacks.",
+      "url": "https://www.eventbrite.com"
+    },
+    {
+      "name": "Theater Performance: Local Play",
+      "type": "activity",
+      "location": "789 Theater St, Des Moines, IA 50309",
+      "coordinates": {"lat": 41.5833, "lng": -93.6282},
+      "start_time": "2025-11-22T20:00:00.000Z",
+      "end_time": "2025-11-22T22:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Emily Davis",
+        "email": "emily.davis@localtheater.com",
+        "phone": "515-555-0144"
+      },
+      "description": "Enjoy a captivating local play showcasing talented actors from the community.",
+      "url": "https://www.catchdesmoines.com/events/"
+    },
+    {
+      "name": "Des Moines Nightlife: DJ Party",
+      "type": "event",
+      "location": "101 Nightlife Blvd, Des Moines, IA 50309",
+      "coordinates": {"lat": 41.5820, "lng": -93.6295},
+      "start_time": "2025-11-22T23:00:00.000Z",
+      "end_time": "2025-11-23T02:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Mark Thompson",
+        "email": "mark.thompson@nightlife.com",
+        "phone": "515-555-0188"
+      },
+      "description": "Dance the night away at the hottest DJ party in town.",
+      "url": "https://www.catchdesmoines.com/events/"
+    },
+    {
+      "name": "Mountain Biking at Waterworks Park",
+      "type": "activity",
+      "location": "2200 George Flagg Pkwy, Des Moines, IA 50321",
+      "coordinates": {"lat": 41.5861, "lng": -93.6571},
+      "start_time": "2025-11-23T09:00:00.000Z",
+      "end_time": "2025-11-23T11:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Mike Brown",
+        "email": "mike.brown@waterworks.com",
+        "phone": "515-555-0177"
+      },
+      "description": "Experience thrilling mountain biking trails at Waterworks Park.",
+      "url": "https://www.catchdesmoines.com/things-to-do/"
+    },
+    {
+      "name": "Tech Skills Workshop",
+      "type": "event",
+      "location": "234 Innovation Way, Des Moines, IA 50310",
+      "coordinates": {"lat": 41.5850, "lng": -93.6240},
+      "start_time": "2025-11-23T13:00:00.000Z",
+      "end_time": "2025-11-23T15:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Alex Green",
+        "email": "alex.green@techworkshop.com",
+        "phone": "515-555-0166"
+      },
+      "description": "Enhance your technical skills in this hands-on workshop.",
+      "url": "https://www.eventbrite.com"
+    },
+    {
+      "name": "Outdoor Adventure: Rock Climbing",
+      "type": "activity",
+      "location": "345 Adventure Rd, Des Moines, IA 50309",
+      "coordinates": {"lat": 41.5840, "lng": -93.6230},
+      "start_time": "2025-11-23T17:00:00.000Z",
+      "end_time": "2025-11-23T19:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Chris White",
+        "email": "chris.white@rockclimb.com",
+        "phone": "515-555-0155"
+      },
+      "description": "Challenge yourself with rock climbing at our outdoor facility.",
+      "url": "https://www.catchdesmoines.com/things-to-do/"
+    },
+    {
+      "name": "Live Comedy Show",
+      "type": "event",
+      "location": "456 Laugh St, Des Moines, IA 50309",
+      "coordinates": {"lat": 41.5855, "lng": -93.6260},
+      "start_time": "2025-11-23T20:00:00.000Z",
+      "end_time": "2025-11-23T22:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Lisa Black",
+        "email": "lisa.black@comedyshow.com",
+        "phone": "515-555-0130"
+      },
+      "description": "Enjoy a night of laughter at the local comedy club.",
+      "url": "https://www.catchdesmoines.com/events/"
+    }
+  ]
+}

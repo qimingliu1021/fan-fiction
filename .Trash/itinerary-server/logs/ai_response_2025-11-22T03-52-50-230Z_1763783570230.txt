@@ -1,0 +1,164 @@
+{
+  "itinerary": [
+    {
+      "name": "Noche de Muertos Celebration",
+      "type": "event",
+      "location": "Grand Park, 200 N Grand Ave, Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0505, "lng": -118.2525},
+      "start_time": "2025-11-22T10:00:00.000Z",
+      "end_time": "2025-11-22T13:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Grand Park Events",
+        "email": "info@grandparkla.org",
+        "phone": "213-972-8080"
+      },
+      "description": "A vibrant celebration honoring Day of the Dead with art, performances, and food.",
+      "url": "https://www.timeout.com/los-angeles/noche-de-muertos"
+    },
+    {
+      "name": "LA Auto Show",
+      "type": "event",
+      "location": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
+      "coordinates": {"lat": 34.0407, "lng": -118.2673},
+      "start_time": "2025-11-22T14:00:00.000Z",
+      "end_time": "2025-11-22T18:00:00.000Z",
+      "duration_minutes": 240,
+      "contact": {
+        "name": "Auto Show Team",
+        "email": "contact@laautoshow.com",
+        "phone": "213-741-1151"
+      },
+      "description": "Explore the latest innovations in the automotive industry at the annual LA Auto Show.",
+      "url": "https://www.laautoshow.com"
+    },
+    {
+      "name": "Enchanted Forest of Light",
+      "type": "activity",
+      "location": "Descanso Gardens, 1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+      "coordinates": {"lat": 34.2019, "lng": -118.2001},
+      "start_time": "2025-11-22T19:00:00.000Z",
+      "end_time": "2025-11-22T21:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Descanso Gardens",
+        "email": "info@descansogardens.org",
+        "phone": "818-949-4200"
+      },
+      "description": "A magical evening event featuring illuminated gardens and art installations.",
+      "url": "https://www.descansogardens.org"
+    },
+    {
+      "name": "CicLAvia: Strangers Things Edition",
+      "type": "event",
+      "location": "Downtown Los Angeles",
+      "coordinates": {"lat": 34.0407, "lng": -118.2673},
+      "start_time": "2025-11-23T09:00:00.000Z",
+      "end_time": "2025-11-23T14:00:00.000Z",
+      "duration_minutes": 300,
+      "contact": {
+        "name": "CicLAvia Team",
+        "email": "info@ciclavia.org",
+        "phone": "213-355-8500"
+      },
+      "description": "A car-free event where people can walk, bike, and explore the city.",
+      "url": "https://www.ciclavia.org"
+    },
+    {
+      "name": "Innovation Social at the Music Center",
+      "type": "event",
+      "location": "135 N Grand Ave, Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0505, "lng": -118.2499},
+      "start_time": "2025-11-22T17:00:00.000Z",
+      "end_time": "2025-11-22T20:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Music Center",
+        "email": "info@musiccenter.org",
+        "phone": "213-972-8001"
+      },
+      "description": "Network with local innovators and creatives in a vibrant atmosphere.",
+      "url": "https://www.musiccenter.org"
+    },
+    {
+      "name": "Art Walk in Downtown LA",
+      "type": "activity",
+      "location": "Downtown Los Angeles",
+      "coordinates": {"lat": 34.0407, "lng": -118.2673},
+      "start_time": "2025-11-22T15:00:00.000Z",
+      "end_time": "2025-11-22T17:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Art Walk Team",
+        "email": "info@artwalkla.org",
+        "phone": "213-555-0123"
+      },
+      "description": "Explore galleries and exhibitions featuring local artists.",
+      "url": "https://www.downtownla.com/artwalk"
+    },
+    {
+      "name": "Sunday Strum 'n' Chat",
+      "type": "event",
+      "location": "Online Event - Zoom",
+      "coordinates": {"lat": 34.0522, "lng": -118.2437},
+      "start_time": "2025-11-23T14:00:00.000Z",
+      "end_time": "2025-11-23T16:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "50 Plus Guitar Club",
+        "email": "info@50plusguitarclub.com",
+        "phone": "310-555-0142"
+      },
+      "description": "Join fellow guitar enthusiasts for an online jam and chat session.",
+      "url": "https://www.meetup.com/50-plus-guitar-club-all-levels/events/311233496"
+    },
+    {
+      "name": "Networking Brunch at The Grove",
+      "type": "event",
+      "location": "The Grove, 189 The Grove Dr, Los Angeles, CA 90036",
+      "coordinates": {"lat": 34.0713, "lng": -118.3595},
+      "start_time": "2025-11-23T11:00:00.000Z",
+      "end_time": "2025-11-23T13:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Networking Team",
+        "email": "info@networkingevent.com",
+        "phone": "323-555-0198"
+      },
+      "description": "A casual brunch for professionals to meet and network.",
+      "url": "https://www.meetup.com/networking-brunch"
+    },
+    {
+      "name": "Running Meetup at Griffith Park",
+      "type": "event",
+      "location": "Griffith Park, Los Angeles, CA 90027",
+      "coordinates": {"lat": 34.1367, "lng": -118.2872},
+      "start_time": "2025-11-23T08:00:00.000Z",
+      "end_time": "2025-11-23T10:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Run LA Team",
+        "email": "info@runla.org",
+        "phone": "323-555-0137"
+      },
+      "description": "Join us for a morning run and meet fellow runners.",
+      "url": "https://www.meetup.com/runla"
+    },
+    {
+      "name": "Craft and Art Fair at Pasadena",
+      "type": "activity",
+      "location": "Pasadena Convention Center, 300 E Green St, Pasadena, CA 91101",
+      "coordinates": {"lat": 34.1478, "lng": -118.1445},
+      "start_time": "2025-11-22T10:00:00.000Z",
+      "end_time": "2025-11-22T16:00:00.000Z",
+      "duration_minutes": 360,
+      "contact": {
+        "name": "Pasadena Convention Center",
+        "email": "info@pasadenacivic.com",
+        "phone": "626-793-2122"
+      },
+      "description": "Find unique crafts and artwork from local artisans.",
+      "url": "https://www.pasadenacivic.com"
+    }
+  ]
+}

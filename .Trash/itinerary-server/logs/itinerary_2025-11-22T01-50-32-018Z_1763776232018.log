@@ -1,0 +1,68 @@
+[2025-11-22T01:50:32.018Z] 
+📥 Request ID: 1763776232018
+[2025-11-22T01:50:32.019Z] 📥 Request: Des Moines, IA / Mountains, Parties, Theater, E-Sports
+[2025-11-22T01:50:32.020Z] 
+📍 Generating itinerary for Mountains, Parties, Theater, E-Sports in Des Moines, IA
+[2025-11-22T01:50:32.055Z] 🔍 Searching activities: Des Moines, IA Mountains, Parties, Theater, E-Sports attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:50:35.879Z] 
+================================================================================
+[2025-11-22T01:50:35.879Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:50:35.879Z] Query: Des Moines, IA Mountains, Parties, Theater, E-Sports attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:50:35.879Z] Results count: 10
+[2025-11-22T01:50:35.879Z] ================================================================================
+
+[2025-11-22T01:50:35.880Z] 📁 Full search results saved to: search_activity_2025-11-22T01-50-32-018Z_1763776232018.json
+[2025-11-22T01:50:35.880Z] 🔍 Searching events: Des Moines, IA Mountains, Parties, Theater, E-Sports networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:50:37.585Z] 
+================================================================================
+[2025-11-22T01:50:37.586Z] 🔍 EVENT SEARCH
+[2025-11-22T01:50:37.586Z] Query: Des Moines, IA Mountains, Parties, Theater, E-Sports networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:50:37.586Z] Results count: 9
+[2025-11-22T01:50:37.586Z] ================================================================================
+
+[2025-11-22T01:50:37.587Z] 📁 Full search results saved to: search_event_2025-11-22T01-50-32-018Z_1763776232018.json
+[2025-11-22T01:50:39.787Z] 
+📄 Scraping [1/6]: https://www.catchdesmoines.com/events/
+[2025-11-22T01:50:39.787Z] Type: activity
+[2025-11-22T01:50:39.788Z] Content length: 7922 characters
+[2025-11-22T01:50:43.139Z] 
+📄 Scraping [2/6]: https://allevents.in/des-moines/november
+[2025-11-22T01:50:43.139Z] Type: activity
+[2025-11-22T01:50:43.140Z] Content length: 26527 characters
+[2025-11-22T01:50:46.278Z] 
+📄 Scraping [3/6]: https://desmoinesmom.com/things-to-do-in-des-moines-in-november/
+[2025-11-22T01:50:46.278Z] Type: activity
+[2025-11-22T01:50:46.279Z] Content length: 34886 characters
+[2025-11-22T01:50:47.848Z] 
+📄 Scraping [4/6]: https://www.catchdesmoines.com/events/
+[2025-11-22T01:50:47.848Z] Type: event
+[2025-11-22T01:50:47.849Z] Content length: 7922 characters
+[2025-11-22T01:50:50.456Z] 
+📄 Scraping [5/6]: https://www.eventbrite.com/d/ia--west-des-moines/november-22/
+[2025-11-22T01:50:50.457Z] Type: event
+[2025-11-22T01:50:50.458Z] Content length: 56052 characters
+[2025-11-22T01:50:53.109Z] 
+📄 Scraping [6/6]: https://khak.com/november-2025-events-eastern-iowa/
+[2025-11-22T01:50:53.109Z] Type: event
+[2025-11-22T01:50:53.109Z] Content length: 77841 characters
+[2025-11-22T01:50:53.110Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:50:53.110Z] 
+================================================================================
+[2025-11-22T01:50:53.110Z] 🤖 AI PROMPT
+[2025-11-22T01:50:53.110Z] Prompt length: 13707 characters
+[2025-11-22T01:50:53.111Z] ================================================================================
+
+[2025-11-22T01:50:53.111Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-50-32-018Z_1763776232018.txt
+[2025-11-22T01:51:42.392Z] 
+================================================================================
+[2025-11-22T01:51:42.392Z] 🤖 AI RESPONSE
+[2025-11-22T01:51:42.392Z] Response length: 5492 characters
+[2025-11-22T01:51:42.392Z] ================================================================================
+
+[2025-11-22T01:51:42.393Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-50-32-018Z_1763776232018.txt
+[2025-11-22T01:51:42.393Z] 
+✅ Final itinerary generated with undefined items
+[2025-11-22T01:51:42.397Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-50-32-018Z_1763776232018.json
+[2025-11-22T01:51:42.397Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

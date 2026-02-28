@@ -1,0 +1,43 @@
+{
+  "name": "naviya",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock": "^3.859.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.859.0",
+    "@google/genai": "^1.13.0",
+    "@google/generative-ai": "^0.24.1",
+    "@remotion/cli": "^4.0.339",
+    "@supabase/supabase-js": "^2.54.0",
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
+    "dotenv": "^17.2.1",
+    "firebase": "^12.1.0",
+    "firebase-admin": "^13.4.0",
+    "http2": "^3.3.7",
+    "lucide-react": "^0.536.0",
+    "net": "^1.0.2",
+    "next": "15.4.3",
+    "postcss": "^8.5.6",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "^4.0.339",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19",
+    "tsx": "^4.20.4",
+    "typescript": "^5.8.3"
+  },
+  "browser": {
+    "child_process": false
+  }
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Flattop Mountain Trail",
+        "type": "activity",
+        "location": "Flattop Mountain, Anchorage, AK 99516",
+        "coordinates": {"lat": 61.178, "lng": -149.865},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T12:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Anchorage Parks", "email": "parks@anchorageak.gov", "phone": "(907) 343-4355"},
+        "description": "Hike to the summit of Flattop Mountain for stunning views of Anchorage.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60880-d191368-Reviews-Flattop_Mountain-Anchorage_Alaska.html"
+    },
+    {
+        "name": "Alaska Native Heritage Center",
+        "type": "activity",
+        "location": "8800 Heritage Center Dr, Anchorage, AK 99504",
+        "coordinates": {"lat": 61.196, "lng": -149.765},
+        "start_time": "2025-11-22T14:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Alaska Native Heritage Center", "email": "info@alaskanative.net", "phone": "(907) 330-8000"},
+        "description": "Explore the rich culture and history of Alaska's Native peoples.",
+        "url": "https://www.alaskanative.net/"
+    },
+    {
+        "name": "Kincaid Park",
+        "type": "activity",
+        "location": "9401 Raspberry Rd, Anchorage, AK 99516",
+        "coordinates": {"lat": 61.167, "lng": -149.973},
+        "start_time": "2025-11-22T18:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Anchorage Parks", "email": "parks@anchorageak.gov", "phone": "(907) 343-4355"},
+        "description": "Enjoy the trails and scenic views at Kincaid Park.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60880-d191367-Reviews-Kincaid_Park-Anchorage_Alaska.html"
+    },
+    {
+        "name": "Anchorage Market & Festival",
+        "type": "event",
+        "location": "3rd Avenue & E Street, Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-23T10:00:00.000Z",
+        "end_time": "2025-11-23T15:00:00.000Z",
+        "duration_minutes": 300,
+        "contact": {"name": "Anchorage Market", "email": "info@anchorage.market", "phone": "(907) 555-0123"},
+        "description": "A bustling market featuring local vendors, food, and crafts.",
+        "url": "https://www.anchorage.net/events/"
+    },
+    {
+        "name": "Startup Weekend Anchorage",
+        "type": "event",
+        "location": "Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-22T17:00:00.000Z",
+        "end_time": "2025-11-23T01:00:00.000Z",
+        "duration_minutes": 480,
+        "contact": {"name": "Startup Weekend", "email": "contact@startupweekend.org", "phone": "(907) 555-0234"},
+        "description": "An event where aspiring entrepreneurs pitch ideas and form teams.",
+        "url": "https://www.startupweekend.org/"
+    },
+    {
+        "name": "Anchorage Board Game Meetup",
+        "type": "event",
+        "location": "Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-22T19:00:00.000Z",
+        "end_time": "2025-11-22T22:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Anchorage Board Game Group", "email": "meetup@anchorageboardgames.com", "phone": "(907) 555-0456"},
+        "description": "Join fellow board game enthusiasts for an evening of fun.",
+        "url": "https://www.meetup.com/find/us--ak--anchorage/"
+    },
+    {
+        "name": "Mental Health Awareness Workshop",
+        "type": "event",
+        "location": "Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T12:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Alaska Mental Health Trust", "email": "info@alaskamentalhealthtrust.org", "phone": "(907) 555-0678"},
+        "description": "A workshop focused on mental health strategies and support.",
+        "url": "https://alaskamentalhealthtrust.org/event-directory/"
+    },
+    {
+        "name": "Networking Breakfast for Startups",
+        "type": "event",
+        "location": "Downtown Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-23T08:00:00.000Z",
+        "end_time": "2025-11-23T09:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "Anchorage Startup Network", "email": "network@anchoragestartup.com", "phone": "(907) 555-0789"},
+        "description": "Connect with local entrepreneurs and innovators over breakfast.",
+        "url": "https://www.eventbrite.com/d/ak--anchorage/calendar-2025/"
+    },
+    {
+        "name": "Alaska Health Summit",
+        "type": "event",
+        "location": "Anchorage, AK 99501",
+        "coordinates": {"lat": 61.217, "lng": -149.865},
+        "start_time": "2025-11-23T13:00:00.000Z",
+        "end_time": "2025-11-23T17:00:00.000Z",
+        "duration_minutes": 240,
+        "contact": {"name": "Alaska Health Summit", "email": "info@alaskahealthsummit.com", "phone": "(907) 555-0890"},
+        "description": "A summit focused on health initiatives and networking.",
+        "url": "https://quilltherapysolutions.com/conferences/2025/alaska/"
+    }
+]

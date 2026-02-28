@@ -1,0 +1,68 @@
+[2025-11-24T05:50:16.568Z] 
+📥 Request ID: 1763963416568
+[2025-11-24T05:50:16.569Z] 📥 Request: Los Angeles, CA / Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences
+[2025-11-24T05:50:16.569Z] 
+📍 Generating itinerary for Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences in Los Angeles, CA
+[2025-11-24T05:50:16.580Z] 🔍 Searching activities: Los Angeles, CA Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences attractions activities places to visit things to do November 29, 2025 to November 30, 2025
+[2025-11-24T05:50:18.768Z] 
+================================================================================
+[2025-11-24T05:50:18.770Z] 🔍 ACTIVITY SEARCH
+[2025-11-24T05:50:18.770Z] Query: Los Angeles, CA Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences attractions activities places to visit things to do November 29, 2025 to November 30, 2025
+[2025-11-24T05:50:18.770Z] Results count: 10
+[2025-11-24T05:50:18.770Z] ================================================================================
+
+[2025-11-24T05:50:18.771Z] 📁 Full search results saved to: search_activity_2025-11-24T05-50-16-568Z_1763963416568.json
+[2025-11-24T05:50:18.771Z] 🔍 Searching events: Los Angeles, CA Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences networking events conferences meetups competitions November 29, 2025 to November 30, 2025
+[2025-11-24T05:50:20.199Z] 
+================================================================================
+[2025-11-24T05:50:20.199Z] 🔍 EVENT SEARCH
+[2025-11-24T05:50:20.199Z] Query: Los Angeles, CA Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences networking events conferences meetups competitions November 29, 2025 to November 30, 2025
+[2025-11-24T05:50:20.199Z] Results count: 10
+[2025-11-24T05:50:20.199Z] ================================================================================
+
+[2025-11-24T05:50:20.200Z] 📁 Full search results saved to: search_event_2025-11-24T05-50-16-568Z_1763963416568.json
+[2025-11-24T05:50:24.522Z] 
+📄 Scraping [1/6]: https://www.discoverlosangeles.com/events
+[2025-11-24T05:50:24.522Z] Type: activity
+[2025-11-24T05:50:24.523Z] Content length: 91003 characters
+[2025-11-24T05:50:25.805Z] 
+📄 Scraping [2/6]: https://secretlosangeles.com/things-to-do-november-2025/
+[2025-11-24T05:50:25.806Z] Type: activity
+[2025-11-24T05:50:25.806Z] Content length: 31841 characters
+[2025-11-24T05:50:28.056Z] 
+📄 Scraping [3/6]: https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/
+[2025-11-24T05:50:28.057Z] Type: activity
+[2025-11-24T05:50:28.057Z] Content length: 26256 characters
+[2025-11-24T05:50:29.240Z] 
+📄 Scraping [4/6]: https://www.discoverlosangeles.com/events
+[2025-11-24T05:50:29.241Z] Type: event
+[2025-11-24T05:50:29.241Z] Content length: 91003 characters
+[2025-11-24T05:50:37.216Z] 
+📄 Scraping [5/6]: https://www.groundfloorclub.com/events/
+[2025-11-24T05:50:37.217Z] Type: event
+[2025-11-24T05:50:37.217Z] Content length: 190076 characters
+[2025-11-24T05:50:41.002Z] 
+📄 Scraping [6/6]: https://www.eventbrite.com/e/women-of-wellness-group-hike-tickets-1967701907374
+[2025-11-24T05:50:41.003Z] Type: event
+[2025-11-24T05:50:41.003Z] Content length: 11547 characters
+[2025-11-24T05:50:41.004Z] 
+✅ Successfully scraped 6 pages
+[2025-11-24T05:50:41.005Z] 
+================================================================================
+[2025-11-24T05:50:41.005Z] 🤖 AI PROMPT
+[2025-11-24T05:50:41.006Z] Prompt length: 13793 characters
+[2025-11-24T05:50:41.006Z] ================================================================================
+
+[2025-11-24T05:50:41.006Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-24T05-50-16-568Z_1763963416568.txt
+[2025-11-24T05:51:21.853Z] 
+================================================================================
+[2025-11-24T05:51:21.853Z] 🤖 AI RESPONSE
+[2025-11-24T05:51:21.853Z] Response length: 6150 characters
+[2025-11-24T05:51:21.853Z] ================================================================================
+
+[2025-11-24T05:51:21.853Z] 📁 Full AI response saved to: ai_response_2025-11-24T05-50-16-568Z_1763963416568.txt
+[2025-11-24T05:51:21.854Z] 
+✅ Final itinerary generated with undefined items
+[2025-11-24T05:51:21.860Z] 
+📦 Complete log data saved to: itinerary_2025-11-24T05-50-16-568Z_1763963416568.json
+[2025-11-24T05:51:21.860Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

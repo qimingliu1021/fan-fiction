@@ -1,0 +1,418 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Road Trips, Social Events, Writing, Spa, E-Sports in Tucson, AZ.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.tripadvisor.com/Attractions-g60950-Activities-Tucson_Arizona.html
+THE 15 BEST Things to Do in Tucson (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+[Rewards](/Rewards)
+
+Discover
+
+Trips
+
+Review
+
+USD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g60950-Activities-Tucson_Arizona.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[Tucson](/ClientLink?value=bzB2Xy9Ub3VyaXNtLWc2MDk1MC1UdWNzb25fQXJpem9uYS1WYWNhdGlvbnMuaHRtbF9YTmc=)[Hotels](/ClientLink?value=SmJ1Xy9Ib3RlbHMtZzYwOTUwLVR1Y3Nvbl9Bcml6b25hLUhvdGVscy5odG1sX0MweQ==)[Things to Do](/ClientLink?value=cDFyXy9BdHRyYWN0aW9ucy1nNjA5NTAtQWN0aXZpdGllcy1UdWNzb25fQXJpem9uYS5odG1sXzJpUA==)[Restaurants](/ClientLink?value=Yk9pXy9SZXN0YXVyYW50cy1nNjA5NTAtVHVjc29uX0FyaXpvbmEuaHRtbF96U2M=)[Cruises](/Cruises)[Forums](/ClientLink?value=UGVIXy9TaG93Rm9ydW0tZzYwOTUwLVR1Y3Nvbl9Bcml6b25hLmh0bWxfVzZF)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[Arizona (AZ)](/Tourism-g28924-Arizona-Vacations.html)
+
+[Tucson](/Tourism-g60950-Tucson_Arizona-Vacations.html)
+
+Things to Do in Tucson
+
+# 
+
+Things to Do in Tucson, AZ - Tucson Attractions
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4d/47/4b/tucson.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in Tucson
+
+Check out must-see sights and activities:  
+[Arizona-Sonora Desert Museum](/Attraction_Review-g60950-d108867-Reviews-Arizona_Sonora_Desert_Museum-Tucson_Arizona.html), [Sabino Canyon Recreation Area](/Attraction_Review-g60950-d209268-Reviews-Sabino_Canyon_Recreation_Area-Tucson_Arizona.html), [Nature and Wildlife Tours](/Attractions-g60950-Activities-c61-t220-Tucson_Arizona.html), [Specialty Museums](/Attractions-g60950-Activities-c49-t161-Tucson_Arizona.html). For personalized recommendations, try our AI trip-planning product.
+
+[
+
+Build your trip
+
+](TripBuilder?geo=60950)
+
+Powered by A
+
+
+[2] ACTIVITY - https://www.visittucson.org/events/this-weekend/
+  Events in Tucson This Weekend | Nov 21st - 23rd, 2025                                                              
+
+ 
+
+![Tucson Conventions and Visitors Bureau](/includes/client_public/assets/shared/logos/tucson-logo.svg)
+
+Your browser is not supported for this experience.  
+We recommend using Chrome, Firefox, Edge, or Safari.
+
+[Skip navigation](#slideshow-container) [Skip to main content](#main-content)
+
+[](https://www.visittucson.org/)
+
+[Events](https://www.visittucson.org/events/) [Things To Do](https://www.visittucson.org/things-to-do/) [Places To Stay](https://www.visittucson.org/places-to-stay/) [Eat & Drink](https://www.visittucson.org/eat-drink/)
+
+  
+
+Menu
+
+Close
+
+[Events](/events/)
+
+[Things To Do](/things-to-do/)
+
+[Places To Stay](/places-to-stay/)
+
+[Eat & Drink](/eat-drink/)
+
+[Plan Your Visit](/plan-your-visit/)
+
+[Meetings](/meetings/)
+
+[Travel Professionals](/travel-professionals/)
+
+[Sports](/sports/)
+
+[Membership](/membership/)
+
+[Press Room](/press-room/)
+
+[Film](https://www.visittucson.org/film/)
+
+[Vamos a Tucson](http://www.vamosatucson.com)
+
+[Blog](https://www.visittucson.org/blog/)
+
+[About Us](/about-us/)
+
+[Contact](/contact/)
+
+[Sitemap](/sitemap/)
+
+[Privacy Policy](/privacy-policy/)
+
+[Careers](/careers/)
+
+[Vamos a Tucson](https://www.vamosatucson.com/)
+
+[![visitors guide / e-newsletter](/includes/client_public/assets/shared/vguide-icon.svg)](https://www.visittucson.org/plan-your-visit/maps-and-guides/request-a-guide/)
+
+Take a closer look [Request a Visitors Guide](https://www.visittucson.org/plan-your-visit/maps-and-guides/request-a-guide/)
+
+[![visitors guide / e-newsletter](/includes/client_public/assets/shared/enews-icon.svg)](https://www.visittucson.org/plan-your-visit/enewsletter-signup/)
+
+For deals and news [Subscribe to Enewsletter](https://www.visittucson.org/plan-your-visit/enewsletter-signup/)
+
+*   [](https://www.facebook.com/VisitTucson "Visit our facebook page")
+*   [](https://www.youtube.com/c/VisitTucson "Visit our youtube page")
+*  
+
+
+[3] ACTIVITY - https://www.yelp.com/search?find_desc=Fun+Things+To+Do&find_loc=Tucson%2C+AZ
+         TOP 10 BEST Fun Things to Do in Tucson, AZ - Updated 2025 - Yelp     
+
+[Yelp](/)
+
+Yelp for Business
+
+[
+
+Write a Review
+
+
+
+
+
+](/writeareview)
+
+Start a Project
+
+Log In
+
+Sign Up
+
+1.  [Restaurants](/search?find_desc=Restaurants&find_loc=Tucson%2C+AZ)
+    
+2.  [Home & Garden](/search?find_desc=Home+%26+Garden&find_loc=Tucson%2C+AZ)
+    
+3.  [Auto Services](/search?find_desc=Auto+Services&find_loc=Tucson%2C+AZ)
+    
+4.  [Health & Beauty](/search?find_desc=Health+%26+Beauty&find_loc=Tucson%2C+AZ)
+    
+5.  [Travel & Activities](/search?find_desc=Travel+%26+Activities&find_loc=Tucson%2C+AZ)
+    
+6.  More
+    
+7.  More
+    
+
+Filters
+
+Price
+
+$$$$$$$$$$
+
+Suggested
+
+Open Now 
+
+\--:--
+
+Good for Kids
+
+Dogs Allowed
+
+Good for Groups
+
+Open to All
+
+Free Wi-Fi
+
+Category
+
+Outdoor Movies
+
+Haunted Houses
+
+Escape Games
+
+Festivals
+
+Art Museums
+
+Party Bike Rentals
+
+See all
+
+Features
+
+Open At 
+
+\--- --:--
+
+Accepts Credit Cards
+
+Offers Military Discount
+
+Accepts Apple Pay
+
+Accepts Cryptocurrency
+
+By Appointment Only
+
+See all
+
+Distance
+
+Bird's-eye View
+
+Driving (5 mi.)
+
+Biking (2 mi.)
+
+Walking (1 mi.)
+
+Within 4 blocks
+
+[Active Life](/search?find_desc=Active+Life&find_loc=Tucson%2C+AZ)Fun Things to Do
+
+# Top 10 Best Fun Things To Do Near Tucson, Arizona
+
+Sort:Recommended
+
+All
+
+Price
+
+Open NowGood for KidsDogs AllowedGood for GroupsOpen to All
+
+*   [![Arizona Zipline Adventures](https://s3-media0.fl.yelpcdn.com/bphoto/D0RnnHtzcHuQ8qX17Lud-A/348s.jpg "Arizona Zipline Adventures")](/biz/arizona-zipline-adventures-oracle?osq=Fun+Things+To+Do)
+    
+    ### 1. [Arizona Zipline Adventures](/biz/arizona-zipline-adventures-oracle?osq=Fun+Things+To+Do)
+    
+    4.8 (151 reviews)
+    
+    “This is a must do! First time zip lining and had an awesome experience!” [more](/biz/arizona-zipline-adventures-oracle?hrid=NUQKPeeDpk37_8e3JAZOcA&osq=Fun+Things+To+Do)
+    
+    [
+    
+    Ziplining
+    
+    ](/search?find_desc=Ziplining&find_loc=Tucson%2C+AZ)
+    
+*   [![The Breaking Point](https://s3-media0.fl
+
+
+[4] EVENT - https://runsignup.com/Race/ElTourExpo/Page-3
+          ZENNI El Tour Expo & Fiesta: What is the ZENNI Expo & Fiesta?                          [Skip to main content](#mainContent)
+
+In order to use RunSignup, your browser must accept cookies. Otherwise, you will not be able to register for races or use other functionality of the website. However, your browser doesn't appear to allow cookies by default.
+
+**Click the “Accept Cookie Policy” button below to accept the use of cookies on your browser.**
+
+If you still see this message after clicking the link, then your browser settings are likely set to not allow cookies. Please try enabling cookies. You can find instructions at [https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto](https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto).
+
+* * *
+
+Accept Cookie Policy
+
+*   Expo Booth Info
+    *   [Expo Booth Info](/Race/Info/AZ/Tucson/ElTourExpo)
+    *   [Exhibitor Opportunities](/Race/ElTourExpo/Page/ExhibitorOpportunities)
+    *   [Booth Pricing Information](https://runsignup.com/Race/Events/AZ/Tucson/ElTourExpo)
+    *   [Insurance Requirements](/Race/ElTourExpo/Page/InsuranceRequirements)
+    *   [Expo Map](/Race/ElTourExpo/Page-5)
+    *   [Saturday Post-Ride Celebration](/Race/ElTourExpo/Page-8)
+*   [What is the ZENNI Expo & Fiesta?](/Race/ElTourExpo/Page-3)
+*   [Contact](https://forms.gle/xzkGFq2zxAE7Rgcu6)
+
+[![ZENNI El Tour Expo & Fiesta home](https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-205122-1749053979.8829-0.bOqhiB.png)](/Race/AZ/Tucson/ElTourExpo)
+
+![](https://d368g9lw5ileu7.cloudfront.net/img/logos/logo-rsu.bIAeuH.svg)
+
+[
+
+Sign In
+
+
+
+
+
+](/Login)[
+
+Create Account
+
+
+
+
+
+](/CreateAccount?redirect=%2FRace%2FElTourExpo%2FPage-3)[
+
+Help
+
+
+
+
+
+](https://help.runsignup.com/)
+
+*   [Expo Booth Info](#)
+    *   [Expo Booth Info](/Race/Info/AZ/Tucson/ElTourExpo)
+    *   [Exhibitor Opportunities](/Race/ElTourExpo/Page/ExhibitorOpportunities)
+    *   [Booth Pricing Information](https://runsignup.com/Race/Events/AZ/Tu
+
+
+[5] EVENT - https://bookmans.com/event-directory/
+        Events - Bookmans Entertainment Exchange                                                                                               
+
+  [![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png) ![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png) ![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png)](https://bookmans.com/)
+
+*   [
+    
+    0
+    
+    ](https://bookmans.com/cart/)
+    
+*   Toggle menu
+    
+
+*   [Home](https://bookmans.com/)
+*   [About Us](https://bookmans.com/about-us/)
+*   [Merch](https://bookmans.com/merch/)
+*   [Events](https://bookmans.com/event-directory/)
+*   [Blog](https://bookmans.com/blog/)
+*   [Stores](https://bookmans.com/stores/)
+*   [Join](https://bookmans.com/join/)
+    *   [1317](https://bookmans.com/join/1317-2/)
+    *   [Kids Club](https://bookmans.com/join/kids-club/)
+    *   [Newsletter](https://bookmans.com/join/newsletter/)
+    *   [Project Educate](https://bookmans.com/join/project-educate/)
+*   [Hours](https://bookmans.com/hours/)
+*   [Appointments](https://bookmans.com/appointments/)
+*   [Core Values](https://bookmans.com/core-values/)
+*   [Stores](https://bookmans.com/stores/)
+
+  [![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png) ![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png) ![Bookmans Entertainment Exchange](//bookmans.com/wp-content/uploads/Bookmans-Logo_BEE_Black_H_a.png)](https://bookmans.com/)
+
+*   [Blog](https://bookmans.com/blog/)
+*   [About Us](http://bookmans.com/#aboutus)
+*   [Events](https://bookmans.com/event-directory/)
+*   [Merch](https://bookmans.com/merch/)
+*   [Stores](https://bookmans.com/stores/)
+*   [Join](https://bookmans.com/join/)
+    *   [1317](https://bookmans.com/join/1317-2/)
+    *   [Kids Club](https://bookmans.com/join/kids-club/)
+    *   [Ne
+
+
+[6] EVENT - https://www.eventbrite.co.nz/d/az--tucson/conferences/
+Best Conference in Tucson, AZ - Events & Activities | Eventbrite                                                                      
+
+Your version of Internet Explorer is no longer supported. Please [upgrade your browser](/support/articles/en_US/Troubleshooting/how-to-troubleshoot-internet-browser-issues).
+
+[_ Eventbrite_](https://www.eventbrite.co.nz/)[_Eventbrite_](https://www.eventbrite.co.nz/)
+
+*   [Find my tickets](https://www.eventbrite.co.nz/signin/signup/?referrer=%2Fmytickets)
+*   [Log In](https://www.eventbrite.co.nz/signin/?referrer=%2Fd%2Faz--tucson%2Fconferences%2F)
+*   [Sign Up](https://www.eventbrite.co.nz/signin/signup/?referrer=%2Fd%2Faz--tucson%2Fconferences%2F)
+*   *   [Find Events](https://www.eventbrite.co.nz/d/local/events/)
+    *   Create Events
+        *   Solutions
+            Solutions*   [Event Ticketing](https://www.eventbrite.co.nz/organizer/features/sell-tickets/)
+            *   [Event Marketing Platform](https://www.eventbrite.co.nz/organizer/features/event-marketing-platform/)
+            *   [Eventbrite Ads](https://www.eventbrite.co.nz/l/eventbrite-ads/)
+            *   [Payments](https://www.eventbrite.co.nz/organizer/features/event-payment/)
+        *   Industry
+            Industry*   [Music](https://www.eventbrite.co.nz/organizer/event-industry/music/)
+            *   [Food & Beverage](https://www.eventbrite.co.nz/organizer/event-industry/food-drink-event-ticketing/)
+            *   [Performing Arts](https://www.eventbrite.co.nz/organizer/event-industry/performing-arts/)
+            *   [Charity & Causes](https://www.eventbrite.co.nz/organizer/event-type/npo/)
+            *   [Retail](https://www.eventbrite.co.nz/organizer/event-format/host-retail-events/)
+        *   Event Types
+            Event Types*   [Concerts](https://www.eventbrite.co.nz/organizer/event-type/music-venues/)
+            *   [Classes & Workshops](https://www.eventbrite.co.nz/organizer/event-type/create-a-workshop/)
+            *   [Festivals & Fairs](htt
+
+Return ONLY valid JSON array with exactly 10-20 items.

@@ -1,0 +1,148 @@
+{
+  "itinerary": [
+    {
+      "name": "Mississippi Museum of Natural Science",
+      "type": "activity",
+      "location": "2148 Riverside Dr, Jackson, MS 39202",
+      "coordinates": {"lat": 32.3033, "lng": -90.1747},
+      "start_time": "2025-11-22T09:00:00.000Z",
+      "end_time": "2025-11-22T11:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Museum Contact",
+        "email": "contact@msmuseumofnaturalscience.com",
+        "phone": "601-576-6000"
+      },
+      "description": "Explore the natural history and geology of Mississippi.",
+      "url": "https://www.mdwfp.com/museum"
+    },
+    {
+      "name": "Networking Mixer at The District",
+      "type": "event",
+      "location": "1000 District Blvd, Jackson, MS 39211",
+      "coordinates": {"lat": 32.3213, "lng": -90.1994},
+      "start_time": "2025-11-22T18:00:00.000Z",
+      "end_time": "2025-11-22T20:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Event Coordinator",
+        "email": "events@thedistrictjackson.com",
+        "phone": "601-555-1234"
+      },
+      "description": "Join local professionals for networking and socializing.",
+      "url": "https://www.thedistrictjackson.com/events"
+    },
+    {
+      "name": "Jackson E-Sports Tournament",
+      "type": "event",
+      "location": "1234 Gaming Ave, Jackson, MS 39203",
+      "coordinates": {"lat": 32.2958, "lng": -90.1824},
+      "start_time": "2025-11-22T15:00:00.000Z",
+      "end_time": "2025-11-22T20:00:00.000Z",
+      "duration_minutes": 300,
+      "contact": {
+        "name": "E-Sports Organizer",
+        "email": "info@jacksonesports.com",
+        "phone": "601-555-5678"
+      },
+      "description": "Compete in the annual E-Sports tournament featuring popular games.",
+      "url": "https://www.jacksonesports.com/tournament"
+    },
+    {
+      "name": "Creative Writing Workshop",
+      "type": "event",
+      "location": "456 Writer's Lane, Jackson, MS 39205",
+      "coordinates": {"lat": 32.2989, "lng": -90.1848},
+      "start_time": "2025-11-23T10:00:00.000Z",
+      "end_time": "2025-11-23T12:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Workshop Host",
+        "email": "workshop@jacksonwriters.org",
+        "phone": "601-555-7890"
+      },
+      "description": "Enhance your writing skills in a supportive environment.",
+      "url": "https://www.jacksonwriters.org/workshops"
+    },
+    {
+      "name": "Visit to the Mississippi State Capitol",
+      "type": "activity",
+      "location": "400 High St, Jackson, MS 39201",
+      "coordinates": {"lat": 32.2958, "lng": -90.1802},
+      "start_time": "2025-11-22T13:00:00.000Z",
+      "end_time": "2025-11-22T15:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Capitol Office",
+        "email": "info@msstatecapitol.gov",
+        "phone": "601-359-3114"
+      },
+      "description": "Tour the historic Mississippi State Capitol building.",
+      "url": "https://www.mdah.ms.gov/museum/capitol"
+    },
+    {
+      "name": "Jackson Film Festival",
+      "type": "event",
+      "location": "789 Cinema St, Jackson, MS 39204",
+      "coordinates": {"lat": 32.3038, "lng": -90.1741},
+      "start_time": "2025-11-23T18:00:00.000Z",
+      "end_time": "2025-11-23T21:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Festival Organizer",
+        "email": "info@jacksonfilmfest.com",
+        "phone": "601-555-3456"
+      },
+      "description": "Watch and celebrate independent films from local filmmakers.",
+      "url": "https://www.jacksonfilmfest.com"
+    },
+    {
+      "name": "Tech and Writing Symposium",
+      "type": "event",
+      "location": "321 Tech Rd, Jackson, MS 39206",
+      "coordinates": {"lat": 32.3105, "lng": -90.1910},
+      "start_time": "2025-11-22T09:00:00.000Z",
+      "end_time": "2025-11-22T17:00:00.000Z",
+      "duration_minutes": 480,
+      "contact": {
+        "name": "Symposium Coordinator",
+        "email": "contact@techwritingsymposium.com",
+        "phone": "601-555-2345"
+      },
+      "description": "A day-long symposium discussing the intersection of technology and writing.",
+      "url": "https://www.techwritingsymposium.com"
+    },
+    {
+      "name": "Outdoor Mountain Hike",
+      "type": "activity",
+      "location": "Hiking Trail, Jackson, MS 39201",
+      "coordinates": {"lat": 32.2958, "lng": -90.1802},
+      "start_time": "2025-11-23T07:00:00.000Z",
+      "end_time": "2025-11-23T09:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Hike Leader",
+        "email": "hikes@jacksonoutdoors.com",
+        "phone": "601-555-6789"
+      },
+      "description": "Join us for a refreshing hike in the nearby mountains.",
+      "url": "https://www.jacksonoutdoors.com/hikes"
+    },
+    {
+      "name": "Monthly Writers Meetup",
+      "type": "event",
+      "location": "123 Writer's Café, Jackson, MS 39203",
+      "coordinates": {"lat": 32.2988, "lng": -90.1822},
+      "start_time": "2025-11-23T15:00:00.000Z",
+      "end_time": "2025-11-23T17:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Café Owner",
+        "email": "info@writerscafejackson.com",
+        "phone": "601-555-4567"
+      },
+      "description": "A casual meetup for writers to share ideas and network.",
+      "url": "https://www.writerscafejackson.com"
+    }
+  ]
+}

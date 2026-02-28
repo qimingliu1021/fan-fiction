@@ -1,0 +1,126 @@
+{
+  "organic": [
+    {
+      "link": "https://pdknine.com/event/looking-for-group/",
+      "display_link": "https://pdknine.com › event › looking-for-group",
+      "title": "Events for November 2025",
+      "description": "Whether you're flying solo or coming with friends, our Looking for Group event is the perfect chance to meet new gamers, play board games, and ...",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 15, 2024",
+          "rank": 1
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.newarknj.gov/Calendar.aspx?EID=1030",
+      "display_link": "https://www.newarknj.gov › Calendar",
+      "title": "Calendar • National League Conference",
+      "description": "Wednesday, November 19, 2025. Date: November 19, 2025 - November 22, 2025. 2025-11-19T00:00:00. Time: All Day. Location: Event Location. Address: Newark, NJ ...",
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://www.newarkhappening.com/events/calendar/?skip=0&startDate=11%2F17%2F2025&endDate=11%2F23%2F2025&sort=date",
+      "display_link": "https://www.newarkhappening.com › events › calendar",
+      "title": "Newark, NJ Events Calendar | Annual Events, Festivals & ...",
+      "description": "Browse the latest happening in Newark, NJ events calendar! Find exciting live shows, festivals and fairs.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "4 days ago",
+          "rank": 1
+        }
+      ],
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://fancons.com/events/schedule.php?type=gaming&year=2025&loc=usNJ",
+      "display_link": "https://fancons.com › events › schedule › year=2025",
+      "title": "2025 New Jersey Gaming Convention Schedule",
+      "description": "List of 2025 New Jersey Gaming Conventions ; DerpyCon 2025 · Philcon 2025 ; October 31 - November 2, 2025 · November 21-23, 2025 ; Hyatt Regency New Brunswick New ...",
+      "rank": 4,
+      "global_rank": 6
+    },
+    {
+      "link": "https://newjerseyisntboring.com/new-jersey-events-november-21-23-2025/",
+      "display_link": "https://newjerseyisntboring.com › new-jersey-events-no...",
+      "title": "NJIB's Guide to New Jersey Events November 21-23, 2025",
+      "description": "New Jersey Isn't Boring's Guide to New Jersey Events November 21-23, 2025. Holiday markets, holiday festivals, Fall Events & more.",
+      "rank": 5,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.rimonlaw.com/team/",
+      "display_link": "https://www.rimonlaw.com › team",
+      "title": "Team",
+      "description": "Rimon's attorneys are an all-star team with decades of experience in law, business, finance, science, and academia.",
+      "rank": 6,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.ingramspark.com/blog/ultimate-list-of-upcoming-book-festivals-2025",
+      "display_link": "https://www.ingramspark.com › blog › ultimate-list-of-...",
+      "title": "The Ultimate List of Book Fairs, Festivals, and Conferences ...",
+      "description": "Below, you'll find a list of upcoming festivals and events (big and small, national and international) scheduled for 2025, organized by date and state, that ...",
+      "rank": 7,
+      "global_rank": 9
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/Ohio",
+      "display_link": "https://en.wikipedia.org › wiki › Ohio",
+      "title": "Ohio",
+      "description": "Ohio is a state in the Midwestern region of the United States. It borders Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, ...",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Ohio State University",
+          "link": "https://en.wikipedia.org/wiki/Ohio_State_University",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "History",
+          "link": "https://en.wikipedia.org/wiki/History_of_Ohio",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "List of municipalities in Ohio",
+          "link": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Ohio",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Columbus, Ohio",
+          "link": "https://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "rank": 4
+        }
+      ],
+      "rank": 8,
+      "global_rank": 10
+    },
+    {
+      "link": "https://www.congress.gov/event/113th-congress/senate-event/LC22681/text",
+      "display_link": "https://www.congress.gov › event › senate-event › text",
+      "title": "S.Hrg. 113-331 — ENERGY DRINKS: EXPLORING ...",
+      "description": "S.Hrg. 113-331 explores concerns about marketing energy drinks to youth. The hearing was held by the Senate Commerce, Science, and Transportation committee on ...",
+      "rank": 9,
+      "global_rank": 11
+    }
+  ],
+  "images": [
+    "https://www.eventbrite.com/e/startup-pitch-networking-newark-tickets-1738265692479",
+    "https://www.eventbrite.com/e/aen-november-partner-meeting-fy26-tickets-1774961460509",
+    "https://www.newarkarts.org/event/the-2025-new-jersey-creative-communities-conference/"
+  ],
+  "current_page": 1,
+  "related": [],
+  "ai_overview": null
+}

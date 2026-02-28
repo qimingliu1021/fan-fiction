@@ -1,0 +1,68 @@
+[2025-11-22T01:48:29.456Z] 
+📥 Request ID: 1763776109456
+[2025-11-22T01:48:29.457Z] 📥 Request: Sioux Falls, SD / Mountains, Parties, Opera, E-Sports, Book Clubs
+[2025-11-22T01:48:29.457Z] 
+📍 Generating itinerary for Mountains, Parties, Opera, E-Sports, Book Clubs in Sioux Falls, SD
+[2025-11-22T01:48:29.459Z] 🔍 Searching activities: Sioux Falls, SD Mountains, Parties, Opera, E-Sports, Book Clubs attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:48:33.296Z] 
+================================================================================
+[2025-11-22T01:48:33.297Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:48:33.297Z] Query: Sioux Falls, SD Mountains, Parties, Opera, E-Sports, Book Clubs attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:48:33.297Z] Results count: 10
+[2025-11-22T01:48:33.297Z] ================================================================================
+
+[2025-11-22T01:48:33.297Z] 📁 Full search results saved to: search_activity_2025-11-22T01-48-29-456Z_1763776109456.json
+[2025-11-22T01:48:33.297Z] 🔍 Searching events: Sioux Falls, SD Mountains, Parties, Opera, E-Sports, Book Clubs networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:48:35.322Z] 
+================================================================================
+[2025-11-22T01:48:35.322Z] 🔍 EVENT SEARCH
+[2025-11-22T01:48:35.323Z] Query: Sioux Falls, SD Mountains, Parties, Opera, E-Sports, Book Clubs networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:48:35.323Z] Results count: 10
+[2025-11-22T01:48:35.323Z] ================================================================================
+
+[2025-11-22T01:48:35.324Z] 📁 Full search results saved to: search_event_2025-11-22T01-48-29-456Z_1763776109456.json
+[2025-11-22T01:48:37.328Z] 
+📄 Scraping [1/6]: https://www.tripadvisor.com/Attractions-g54805-Activities-Sioux_Falls_South_Dakota.html
+[2025-11-22T01:48:37.329Z] Type: activity
+[2025-11-22T01:48:37.329Z] Content length: 63315 characters
+[2025-11-22T01:48:39.040Z] 
+📄 Scraping [2/6]: https://www.experiencesiouxfalls.com/events
+[2025-11-22T01:48:39.040Z] Type: activity
+[2025-11-22T01:48:39.040Z] Content length: 7992 characters
+[2025-11-22T01:48:41.191Z] 
+📄 Scraping [3/6]: https://siouxfallsevents.com/
+[2025-11-22T01:48:41.192Z] Type: activity
+[2025-11-22T01:48:41.192Z] Content length: 191236 characters
+[2025-11-22T01:48:47.783Z] 
+📄 Scraping [4/6]: https://siouxfallsypn.com/events/category/networking/2025-11/
+[2025-11-22T01:48:47.783Z] Type: event
+[2025-11-22T01:48:47.783Z] Content length: 11590 characters
+[2025-11-22T01:48:49.508Z] 
+📄 Scraping [5/6]: https://siouxfallsevents.com/
+[2025-11-22T01:48:49.509Z] Type: event
+[2025-11-22T01:48:49.509Z] Content length: 191236 characters
+[2025-11-22T01:48:53.032Z] 
+📄 Scraping [6/6]: https://www.eventbrite.ie/d/sd--sioux-falls/conferences/
+[2025-11-22T01:48:53.032Z] Type: event
+[2025-11-22T01:48:53.033Z] Content length: 26702 characters
+[2025-11-22T01:48:53.033Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:48:53.033Z] 
+================================================================================
+[2025-11-22T01:48:53.033Z] 🤖 AI PROMPT
+[2025-11-22T01:48:53.033Z] Prompt length: 13731 characters
+[2025-11-22T01:48:53.033Z] ================================================================================
+
+[2025-11-22T01:48:53.034Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-48-29-456Z_1763776109456.txt
+[2025-11-22T01:49:30.996Z] 
+================================================================================
+[2025-11-22T01:49:30.997Z] 🤖 AI RESPONSE
+[2025-11-22T01:49:30.997Z] Response length: 5618 characters
+[2025-11-22T01:49:30.997Z] ================================================================================
+
+[2025-11-22T01:49:30.998Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-48-29-456Z_1763776109456.txt
+[2025-11-22T01:49:30.998Z] 
+✅ Final itinerary generated with 9 items
+[2025-11-22T01:49:31.008Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-48-29-456Z_1763776109456.json
+[2025-11-22T01:49:31.008Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

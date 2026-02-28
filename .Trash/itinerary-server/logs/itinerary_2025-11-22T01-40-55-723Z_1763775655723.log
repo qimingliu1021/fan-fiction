@@ -1,0 +1,68 @@
+[2025-11-22T01:40:55.723Z] 
+📥 Request ID: 1763775655723
+[2025-11-22T01:40:55.724Z] 📥 Request: Fort Worth, TX / Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games
+[2025-11-22T01:40:55.724Z] 
+📍 Generating itinerary for Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games in Fort Worth, TX
+[2025-11-22T01:40:55.726Z] 🔍 Searching activities: Fort Worth, TX Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:40:57.494Z] 
+================================================================================
+[2025-11-22T01:40:57.495Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:40:57.495Z] Query: Fort Worth, TX Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:40:57.495Z] Results count: 10
+[2025-11-22T01:40:57.495Z] ================================================================================
+
+[2025-11-22T01:40:57.495Z] 📁 Full search results saved to: search_activity_2025-11-22T01-40-55-723Z_1763775655723.json
+[2025-11-22T01:40:57.495Z] 🔍 Searching events: Fort Worth, TX Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:40:59.410Z] 
+================================================================================
+[2025-11-22T01:40:59.411Z] 🔍 EVENT SEARCH
+[2025-11-22T01:40:59.411Z] Query: Fort Worth, TX Beach, Social Events, Crafts, Swimming, Mental Health, Startups, Board Games networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:40:59.411Z] Results count: 10
+[2025-11-22T01:40:59.411Z] ================================================================================
+
+[2025-11-22T01:40:59.411Z] 📁 Full search results saved to: search_event_2025-11-22T01-40-55-723Z_1763775655723.json
+[2025-11-22T01:41:00.761Z] 
+📄 Scraping [1/6]: https://www.fortworth.com/print-events/?startDate=11/17/2025&endDate=11/23/2025
+[2025-11-22T01:41:00.761Z] Type: activity
+[2025-11-22T01:41:00.761Z] Content length: 3533 characters
+[2025-11-22T01:41:07.799Z] 
+📄 Scraping [2/6]: https://www.fortworthtexas.gov/files/assets/public/v/19/library/documents/sgn-event-calendar.pdf
+[2025-11-22T01:41:07.800Z] Type: activity
+[2025-11-22T01:41:07.800Z] Content length: 507383 characters
+[2025-11-22T01:41:12.758Z] 
+📄 Scraping [3/6]: https://whatsupfortworth.com/events/month/
+[2025-11-22T01:41:12.759Z] Type: activity
+[2025-11-22T01:41:12.759Z] Content length: 79127 characters
+[2025-11-22T01:41:15.538Z] 
+📄 Scraping [4/6]: https://www.fortworthtexas.gov/events
+[2025-11-22T01:41:15.539Z] Type: event
+[2025-11-22T01:41:15.539Z] Content length: 54723 characters
+[2025-11-22T01:41:16.365Z] 
+📄 Scraping [5/6]: https://www.fortworth.com/print-events/?startDate=11/17/2025&endDate=11/23/2025
+[2025-11-22T01:41:16.365Z] Type: event
+[2025-11-22T01:41:16.365Z] Content length: 3533 characters
+[2025-11-22T01:41:18.026Z] 
+📄 Scraping [6/6]: https://www.eventbrite.com/b/tx--fort-worth/health/mental-health/
+[2025-11-22T01:41:18.026Z] Type: event
+[2025-11-22T01:41:18.026Z] Content length: 19084 characters
+[2025-11-22T01:41:18.027Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:41:18.027Z] 
+================================================================================
+[2025-11-22T01:41:18.027Z] 🤖 AI PROMPT
+[2025-11-22T01:41:18.027Z] Prompt length: 13852 characters
+[2025-11-22T01:41:18.027Z] ================================================================================
+
+[2025-11-22T01:41:18.028Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-40-55-723Z_1763775655723.txt
+[2025-11-22T01:41:48.533Z] 
+================================================================================
+[2025-11-22T01:41:48.533Z] 🤖 AI RESPONSE
+[2025-11-22T01:41:48.533Z] Response length: 5773 characters
+[2025-11-22T01:41:48.533Z] ================================================================================
+
+[2025-11-22T01:41:48.534Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-40-55-723Z_1763775655723.txt
+[2025-11-22T01:41:48.534Z] 
+✅ Final itinerary generated with 10 items
+[2025-11-22T01:41:48.547Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-40-55-723Z_1763775655723.json
+[2025-11-22T01:41:48.547Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

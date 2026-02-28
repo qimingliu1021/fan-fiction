@@ -1,0 +1,490 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Ballet, Gaming, Workshops, Book Clubs in El Paso, TX.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://visitelpaso.com/events
+Calendar - Visit El Paso               
+
+Menu
+
+61° Clear
+
+[![Visit EP](/assets/logo-1cbb73cb7d738da7e109d20b15bb013083f02f9192d2bb120049b62d89d942d9.svg)](/)
+
+[Home](/)
+
+[Plan Your Trip](#planyourtrip)
+
+[Overview](/plan-your-trip)
+
+[Trip Ideas](/plan-your-trip/trip-ideas)
+
+[Book Now](/plan-your-trip/book-now)
+
+[Hotels](/plan-your-trip/hotels)
+
+[Transportation](/plan-your-trip/transportation)
+
+[Guía Oficial de Visit El Paso](/plan-your-trip/guia-oficial)
+
+[Visitors Guide](/plan-your-trip/visitors-guide-and-app)
+
+[Digital Brochures](/plan-your-trip/digital-brochures)
+
+[Things to Do](#things)
+
+[Attractions](/things-to-do/attractions)
+
+[Shopping](/things-to-do/shopping)
+
+[Nightlife](/things-to-do/nightlife)
+
+[Golf Courses & Clubs](/things-to-do/golf-courses-clubs)
+
+[Excursions](/things-to-do/excursions)
+
+[Outdoors](/things-to-do/outdoors)
+
+[Juarez, Mexico](/things-to-do/juarez-mexico)
+
+[Music Scene](/things-to-do/music-scene)
+
+[LGBTQIA+](/things-to-do/lgbtqia+)
+
+[Dining](/things-to-do/dining)
+
+[Parks](/things-to-do/parks)
+
+[Events](#events)
+
+[Calendar](/events)
+
+[Annual Events & Festivals](/events/annual-events-and-festivals)
+
+[Submit an Event](/user/sign_in)
+
+[Meeting Planners](#meeting)
+
+[Overview](/meeting-planners)
+
+[Why El Paso](/meeting-planners/why-el-paso)
+
+[Destination Services](/meeting-planners/destination-services)
+
+[Meeting Accommodations](/meeting-planners/accommodations)
+
+[Submit RFP](/meeting-planners/submit-rfp)
+
+[Familiarization Tour](/meeting-planners/familiarization-tour)
+
+[Hotels](/meeting-planners/hotels)
+
+[Sports Planners](#sports)
+
+[Overview](/sports-planners/)
+
+[Venue Guide](/sports-planners/venue-guide)
+
+[Submit RFP](/sports-planners/submit-rfp)
+
+[Sporting Events](/sports-planners/sports-events)
+
+[Travel Professionals](#travel)
+
+[Overview](/travel-professionals)
+
+[Itineraries](/travel-professionals/itineraries)
+
+[Story Ideas](/travel-professionals/story-ideas)
+
+[Fort Bliss](/fort-bliss)
+
+[creativElPaso](#creative)
+
+[Overview](/creativelpaso/)
+
+
+
+
+[2] ACTIVITY - https://www.tripadvisor.ca/Attractions-g60768-Activities-El_Paso_Texas.html
+THE 15 BEST Things to Do in El Paso (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+Discover
+
+Trips
+
+Review
+
+CAD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g60768-Activities-El_Paso_Texas.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[El Paso](/ClientLink?value=dTBlXy9Ub3VyaXNtLWc2MDc2OC1FbF9QYXNvX1RleGFzLVZhY2F0aW9ucy5odG1sX2ZkTw==)[Hotels](/ClientLink?value=cVp3Xy9Ib3RlbHMtZzYwNzY4LUVsX1Bhc29fVGV4YXMtSG90ZWxzLmh0bWxfaHZJ)[Things to Do](/ClientLink?value=TnFDXy9BdHRyYWN0aW9ucy1nNjA3NjgtQWN0aXZpdGllcy1FbF9QYXNvX1RleGFzLmh0bWxfajBn)[Restaurants](/ClientLink?value=MFdWXy9SZXN0YXVyYW50cy1nNjA3NjgtRWxfUGFzb19UZXhhcy5odG1sX1JvWA==)[Cruises](/Cruises)[Forums](/ClientLink?value=WkwxXy9TaG93Rm9ydW0tZzYwNzY4LUVsX1Bhc29fVGV4YXMuaHRtbF8wSG4=)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[Texas (TX)](/Tourism-g28964-Texas-Vacations.html)
+
+[El Paso](/Tourism-g60768-El_Paso_Texas-Vacations.html)
+
+Things to do in El Paso
+
+# 
+
+THE 15 BEST Things to Do in El Paso
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/34/00/d7/el-paso.jpg?w=1200&h=700&s=1)
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/34/00/d7/el-paso.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in El Paso
+
+Check out must-see sights and activities:  
+[Scenic Drive - Overlook](/Attraction_Review-g60768-d6988231-Reviews-Scenic_Drive_Overlook-El_Paso_Texas.html), [Franklin Mountains State Park](/Attraction_Review-g60768-d271418-Reviews-Franklin_Mountains_State_Park-El_Paso_Texas.html), [Historic Sites](/Attractions-g60768-Activities-c47-t17-El_Paso_Texas.html), [Walking Tours](/Attractions-g60768-Activities-c42-t183-El_Paso_Texas.html). For personalised recommendations, try our AI trip-planning product.
+
+[
+
+Build your trip
+
+](TripB
+
+
+[3] ACTIVITY - https://visitelpaso.com/events/weekend
+Weekend Events - Visit El Paso               
+
+Menu
+
+61° Clear
+
+[![Visit EP](/assets/logo-1cbb73cb7d738da7e109d20b15bb013083f02f9192d2bb120049b62d89d942d9.svg)](/)
+
+[Home](/)
+
+[Plan Your Trip](#planyourtrip)
+
+[Overview](/plan-your-trip)
+
+[Trip Ideas](/plan-your-trip/trip-ideas)
+
+[Book Now](/plan-your-trip/book-now)
+
+[Hotels](/plan-your-trip/hotels)
+
+[Transportation](/plan-your-trip/transportation)
+
+[Guía Oficial de Visit El Paso](/plan-your-trip/guia-oficial)
+
+[Visitors Guide](/plan-your-trip/visitors-guide-and-app)
+
+[Digital Brochures](/plan-your-trip/digital-brochures)
+
+[Things to Do](#things)
+
+[Attractions](/things-to-do/attractions)
+
+[Shopping](/things-to-do/shopping)
+
+[Nightlife](/things-to-do/nightlife)
+
+[Golf Courses & Clubs](/things-to-do/golf-courses-clubs)
+
+[Excursions](/things-to-do/excursions)
+
+[Outdoors](/things-to-do/outdoors)
+
+[Juarez, Mexico](/things-to-do/juarez-mexico)
+
+[Music Scene](/things-to-do/music-scene)
+
+[LGBTQIA+](/things-to-do/lgbtqia+)
+
+[Dining](/things-to-do/dining)
+
+[Parks](/things-to-do/parks)
+
+[Events](#events)
+
+[Calendar](/events)
+
+[Annual Events & Festivals](/events/annual-events-and-festivals)
+
+[Submit an Event](/user/sign_in)
+
+[Meeting Planners](#meeting)
+
+[Overview](/meeting-planners)
+
+[Why El Paso](/meeting-planners/why-el-paso)
+
+[Destination Services](/meeting-planners/destination-services)
+
+[Meeting Accommodations](/meeting-planners/accommodations)
+
+[Submit RFP](/meeting-planners/submit-rfp)
+
+[Familiarization Tour](/meeting-planners/familiarization-tour)
+
+[Hotels](/meeting-planners/hotels)
+
+[Sports Planners](#sports)
+
+[Overview](/sports-planners/)
+
+[Venue Guide](/sports-planners/venue-guide)
+
+[Submit RFP](/sports-planners/submit-rfp)
+
+[Sporting Events](/sports-planners/sports-events)
+
+[Travel Professionals](#travel)
+
+[Overview](/travel-professionals)
+
+[Itineraries](/travel-professionals/itineraries)
+
+[Story Ideas](/travel-professionals/story-ideas)
+
+[Fort Bliss](/fort-bliss)
+
+[creativElPaso](#creative)
+
+[Overview](/creativelpa
+
+
+[4] EVENT - https://visitelpaso.com/events
+Calendar - Visit El Paso               
+
+Menu
+
+61° Clear
+
+[![Visit EP](/assets/logo-1cbb73cb7d738da7e109d20b15bb013083f02f9192d2bb120049b62d89d942d9.svg)](/)
+
+[Home](/)
+
+[Plan Your Trip](#planyourtrip)
+
+[Overview](/plan-your-trip)
+
+[Trip Ideas](/plan-your-trip/trip-ideas)
+
+[Book Now](/plan-your-trip/book-now)
+
+[Hotels](/plan-your-trip/hotels)
+
+[Transportation](/plan-your-trip/transportation)
+
+[Guía Oficial de Visit El Paso](/plan-your-trip/guia-oficial)
+
+[Visitors Guide](/plan-your-trip/visitors-guide-and-app)
+
+[Digital Brochures](/plan-your-trip/digital-brochures)
+
+[Things to Do](#things)
+
+[Attractions](/things-to-do/attractions)
+
+[Shopping](/things-to-do/shopping)
+
+[Nightlife](/things-to-do/nightlife)
+
+[Golf Courses & Clubs](/things-to-do/golf-courses-clubs)
+
+[Excursions](/things-to-do/excursions)
+
+[Outdoors](/things-to-do/outdoors)
+
+[Juarez, Mexico](/things-to-do/juarez-mexico)
+
+[Music Scene](/things-to-do/music-scene)
+
+[LGBTQIA+](/things-to-do/lgbtqia+)
+
+[Dining](/things-to-do/dining)
+
+[Parks](/things-to-do/parks)
+
+[Events](#events)
+
+[Calendar](/events)
+
+[Annual Events & Festivals](/events/annual-events-and-festivals)
+
+[Submit an Event](/user/sign_in)
+
+[Meeting Planners](#meeting)
+
+[Overview](/meeting-planners)
+
+[Why El Paso](/meeting-planners/why-el-paso)
+
+[Destination Services](/meeting-planners/destination-services)
+
+[Meeting Accommodations](/meeting-planners/accommodations)
+
+[Submit RFP](/meeting-planners/submit-rfp)
+
+[Familiarization Tour](/meeting-planners/familiarization-tour)
+
+[Hotels](/meeting-planners/hotels)
+
+[Sports Planners](#sports)
+
+[Overview](/sports-planners/)
+
+[Venue Guide](/sports-planners/venue-guide)
+
+[Submit RFP](/sports-planners/submit-rfp)
+
+[Sporting Events](/sports-planners/sports-events)
+
+[Travel Professionals](#travel)
+
+[Overview](/travel-professionals)
+
+[Itineraries](/travel-professionals/itineraries)
+
+[Story Ideas](/travel-professionals/story-ideas)
+
+[Fort Bliss](/fort-bliss)
+
+[creativElPaso](#creative)
+
+[Overview](/creativelpaso/)
+
+
+
+
+[5] EVENT - https://www.angelo.edu/events/calendar/
+                  Events Calendar · Angelo State University              [Skip to Main content](#main-content)
+
+ [![Angelo State University](/live/resource/image/_i/themes/global/assets/images/asu-logo-white-gold.rev.1600281398.svg) Angelo State University](/)
+
+ Search
+
+Toggle Search Form [Apply](/admissions-and-aid/?utm_source=mobile-cta) Toggle Main Menu
+
+*   [Academics](/academics/)
+    *   [Academic Programs](/academics/programs/)
+    *   [Departments](/departments/)
+    *   [Colleges](/colleges/)
+    *   [Courses](/courses/)
+    *   [Academic Advising](/academics/advising/)
+    *   [Academic Calendar](/current-students/registrar/academic_calendar.php)
+*   [About ASU](/about-asu/)
+    *   [History](/about-asu/history.php)
+    *   [Core Values](/about-asu/core-values/)
+    *   [News](/about-asu/news/)
+    *   [Traditions](/about-asu/traditions/)
+    *   [About San Angelo](/about-asu/san-angelo.php)
+    *   [Welcome from the President](/about-asu/president/)
+    *   [Mission Statement](/about-asu/mission-statement.php)
+*   [Admissions & Aid](/admissions-and-aid/)
+    *   [Apply to ASU](/admissions-and-aid/apply/)
+    *   [Admitted Students](/admissions-and-aid/admitted/)
+    *   [Request More Information](/admissions-and-aid/info/)
+    *   [Visit Angelo State University](/admissions-and-aid/visit/)
+    *   [Paying for College](/admissions-and-aid/paying-for-college/)
+*   [Life on Campus](/life-on-campus/)
+    *   [Live](/life-on-campus/live/)
+    *   [Play](/life-on-campus/play/)
+    *   [Lead](/life-on-campus/lead/)
+    *   [Work](/career/)
+    *   [Explore](/life-on-campus/explore/)
+*   [Community](/community/)
+    *   [ASU Mayer Museum](/community/mayer-museum/)
+    *   [Alumni Association](/alumni/)
+    *   [Small Business Development Center](/community/small-business-development-center/)
+    *   [West Texas Collection](/community/west-texas-collection/)
+    *   [Natural History Collections](/departments/biology/angelo-state-natural-history-collection/)
+    * 
+
+
+[6] EVENT - https://www.norrispenrose.com/
+Colorado Springs Event Center - Norris Penrose 
+
+[![Norris Penrose Colorado Springs Event Center](https://images.cdn-files-a.com/uploads/1423563/400_5b845ee6a49ba.jpg)Norris Penrose Colorado Springs Event Center](/)
+
+*   [Home](/)
+*   [Events](/events-1)
+*   [Event Gallery](/event-gallery)
+*   [RV/Camper & Other Services](/rv-camper-other-services)
+*   [Facility Descriptions](/facility-descriptions)
+*   [Directions](/directions)
+*   [Our Sponsors](/our-sponsors)
+*   [About](/about)
+*   [Contact us](/contact-us)
+
+ 
+
+[![Norris Penrose Colorado Springs Event Center](https://images.cdn-files-a.com/uploads/1423563/400_5b845ee6a49ba.jpg)Norris Penrose Colorado Springs Event Center](/)
+
+*   [Home](/)
+*   [Events](/events-1)
+*   [Event Gallery](/event-gallery)
+*   [RV/Camper & Other Services](/rv-camper-other-services)
+*   [Facility Descriptions](/facility-descriptions)
+*   [Directions](/directions)
+*   [Our Sponsors](/our-sponsors)
+*   [About](/about)
+*   [Contact us](/contact-us)
+
+# Norris Penrose Event Center
+
+## Colorado Springs Premier Event Center
+
+#### TOUR OUR INDOOR EVENT CENTER
+
+ [](https://www.youtube.com/embed/RJPNL4lUa1Y?rel=0&showinfo=0&color=white&iv_load_policy=3&enablejsapi=1&playsinline=1&autoplay=1)
+
+## Events
+
+* * *
+
+*   [Upcoming Events](#)
+*   [Past Events](#)
+
+[
+
+22Nov
+
+](/events-1/vintage-market-days-of-colorado-springs-12)
+
+## [Vintage Market Days of Colorado Springs](/events-1/vintage-market-days-of-colorado-springs-12)
+
+*    11/22/2025 10:00 AM - 11/22/2025 04:00 PM
+*     1045 Lower Gold Camp Road, Colorado Springs, CO, USA
+
+Vintage Market Days® is an upscale vintage-inspired indoor/outdoor market featuring original art, antiques, clothing, jewelry, handmade treasures, home décor, outdoor furnishings, consumable yummies, seasonal plantings and a little more. Vintage Market Days® events are so much more than a flea market. Each Vintage Market Days® event is a unique opportunity for vendors to display their talents and passions in creative venues. T
+
+Return ONLY valid JSON array with exactly 10-20 items.

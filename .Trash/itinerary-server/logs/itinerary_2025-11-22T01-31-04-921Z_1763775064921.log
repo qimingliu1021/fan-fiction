@@ -1,0 +1,68 @@
+[2025-11-22T01:31:04.921Z] 
+📥 Request ID: 1763775064921
+[2025-11-22T01:31:04.922Z] 📥 Request: Tucson, AZ / Road Trips, Social Events, Writing, Spa, E-Sports
+[2025-11-22T01:31:04.922Z] 
+📍 Generating itinerary for Road Trips, Social Events, Writing, Spa, E-Sports in Tucson, AZ
+[2025-11-22T01:31:04.923Z] 🔍 Searching activities: Tucson, AZ Road Trips, Social Events, Writing, Spa, E-Sports attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:31:06.778Z] 
+================================================================================
+[2025-11-22T01:31:06.778Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:31:06.779Z] Query: Tucson, AZ Road Trips, Social Events, Writing, Spa, E-Sports attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:31:06.779Z] Results count: 10
+[2025-11-22T01:31:06.779Z] ================================================================================
+
+[2025-11-22T01:31:06.779Z] 📁 Full search results saved to: search_activity_2025-11-22T01-31-04-921Z_1763775064921.json
+[2025-11-22T01:31:06.779Z] 🔍 Searching events: Tucson, AZ Road Trips, Social Events, Writing, Spa, E-Sports networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:31:12.771Z] 
+================================================================================
+[2025-11-22T01:31:12.772Z] 🔍 EVENT SEARCH
+[2025-11-22T01:31:12.772Z] Query: Tucson, AZ Road Trips, Social Events, Writing, Spa, E-Sports networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:31:12.773Z] Results count: 10
+[2025-11-22T01:31:12.773Z] ================================================================================
+
+[2025-11-22T01:31:12.773Z] 📁 Full search results saved to: search_event_2025-11-22T01-31-04-921Z_1763775064921.json
+[2025-11-22T01:31:15.580Z] 
+📄 Scraping [1/6]: https://www.tripadvisor.com/Attractions-g60950-Activities-Tucson_Arizona.html
+[2025-11-22T01:31:15.580Z] Type: activity
+[2025-11-22T01:31:15.580Z] Content length: 123412 characters
+[2025-11-22T01:31:19.884Z] 
+📄 Scraping [2/6]: https://www.visittucson.org/events/this-weekend/
+[2025-11-22T01:31:19.884Z] Type: activity
+[2025-11-22T01:31:19.884Z] Content length: 11864 characters
+[2025-11-22T01:31:39.855Z] 
+📄 Scraping [3/6]: https://www.yelp.com/search?find_desc=Fun+Things+To+Do&find_loc=Tucson%2C+AZ
+[2025-11-22T01:31:39.856Z] Type: activity
+[2025-11-22T01:31:39.856Z] Content length: 31574 characters
+[2025-11-22T01:31:43.521Z] 
+📄 Scraping [4/6]: https://runsignup.com/Race/ElTourExpo/Page-3
+[2025-11-22T01:31:43.521Z] Type: event
+[2025-11-22T01:31:43.521Z] Content length: 5703 characters
+[2025-11-22T01:31:54.810Z] 
+📄 Scraping [5/6]: https://bookmans.com/event-directory/
+[2025-11-22T01:31:54.810Z] Type: event
+[2025-11-22T01:31:54.811Z] Content length: 131789 characters
+[2025-11-22T01:31:59.299Z] 
+📄 Scraping [6/6]: https://www.eventbrite.co.nz/d/az--tucson/conferences/
+[2025-11-22T01:31:59.299Z] Type: event
+[2025-11-22T01:31:59.299Z] Content length: 38293 characters
+[2025-11-22T01:31:59.300Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:31:59.301Z] 
+================================================================================
+[2025-11-22T01:31:59.301Z] 🤖 AI PROMPT
+[2025-11-22T01:31:59.301Z] Prompt length: 13759 characters
+[2025-11-22T01:31:59.301Z] ================================================================================
+
+[2025-11-22T01:31:59.301Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-31-04-921Z_1763775064921.txt
+[2025-11-22T01:32:43.770Z] 
+================================================================================
+[2025-11-22T01:32:43.771Z] 🤖 AI RESPONSE
+[2025-11-22T01:32:43.771Z] Response length: 6052 characters
+[2025-11-22T01:32:43.771Z] ================================================================================
+
+[2025-11-22T01:32:43.771Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-31-04-921Z_1763775064921.txt
+[2025-11-22T01:32:43.773Z] 
+✅ Final itinerary generated with 9 items
+[2025-11-22T01:32:43.778Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-31-04-921Z_1763775064921.json
+[2025-11-22T01:32:43.778Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

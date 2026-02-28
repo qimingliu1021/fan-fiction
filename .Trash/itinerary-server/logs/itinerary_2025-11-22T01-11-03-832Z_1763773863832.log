@@ -1,0 +1,78 @@
+[2025-11-22T01:11:03.833Z] 
+📥 Request ID: 1763773863832
+[2025-11-22T01:11:03.835Z] 📥 Request: Newark, NJ / Mountains, Parties, Gaming
+[2025-11-22T01:11:03.836Z] 
+📍 Generating itinerary for Mountains, Parties, Gaming in Newark, NJ
+[2025-11-22T01:11:03.846Z] 🔍 Searching activities: Newark, NJ Mountains, Parties, Gaming attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:11:05.856Z] 
+================================================================================
+[2025-11-22T01:11:05.857Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:11:05.857Z] Query: Newark, NJ Mountains, Parties, Gaming attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:11:05.857Z] Results count: 10
+[2025-11-22T01:11:05.857Z] ================================================================================
+
+[2025-11-22T01:11:05.858Z] 📁 Full search results saved to: search_activity_2025-11-22T01-11-03-832Z_1763773863832.json
+[2025-11-22T01:11:05.858Z] 🔍 Searching events: Newark, NJ Mountains, Parties, Gaming networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:11:08.247Z] 
+================================================================================
+[2025-11-22T01:11:08.248Z] 🔍 EVENT SEARCH
+[2025-11-22T01:11:08.248Z] Query: Newark, NJ Mountains, Parties, Gaming networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:11:08.248Z] Results count: 10
+[2025-11-22T01:11:08.249Z] ================================================================================
+
+[2025-11-22T01:11:08.249Z] 📁 Full search results saved to: search_event_2025-11-22T01-11-03-832Z_1763773863832.json
+[2025-11-22T01:11:12.494Z] 
+📄 Scraping [1/6]: https://www.njfamily.com/best-things-to-do-in-new-jersey-this-weekend-november-21-23-2025/
+[2025-11-22T01:11:12.495Z] Type: activity
+[2025-11-22T01:11:12.495Z] Content length: 66239 characters
+[2025-11-22T01:11:12.495Z] ❌ Failed to scrape https://www.njfamily.com/best-things-to-do-in-new-jersey-this-weekend-november-21-23-2025/: scrapeFile is not defined
+[2025-11-22T01:12:01.729Z] 
+📄 Scraping [2/6]: https://www.yelp.com/search?find_desc=Fun+Places+To+Go&find_loc=Newark%2C+NJ
+[2025-11-22T01:12:01.730Z] Type: activity
+[2025-11-22T01:12:01.730Z] Content length: 32370 characters
+[2025-11-22T01:12:01.730Z] ❌ Failed to scrape https://www.yelp.com/search?find_desc=Fun+Places+To+Go&find_loc=Newark%2C+NJ: scrapeFile is not defined
+[2025-11-22T01:12:02.897Z] 
+📄 Scraping [3/6]: https://www.newarkhappening.com/events/this-weekend/?startDate=11%2F19%2F2025&endDate=11%2F25%2F2025&sort=title
+[2025-11-22T01:12:02.897Z] Type: activity
+[2025-11-22T01:12:02.897Z] Content length: 41491 characters
+[2025-11-22T01:12:02.897Z] ❌ Failed to scrape https://www.newarkhappening.com/events/this-weekend/?startDate=11%2F19%2F2025&endDate=11%2F25%2F2025&sort=title: scrapeFile is not defined
+[2025-11-22T01:12:04.360Z] 
+📄 Scraping [4/6]: https://www.newarknj.gov/Calendar.aspx?EID=1030
+[2025-11-22T01:12:04.361Z] Type: event
+[2025-11-22T01:12:04.361Z] Content length: 4559 characters
+[2025-11-22T01:12:04.361Z] ❌ Failed to scrape https://www.newarknj.gov/Calendar.aspx?EID=1030: scrapeFile is not defined
+[2025-11-22T01:12:05.590Z] 
+📄 Scraping [5/6]: https://www.newarkhappening.com/events/calendar/?skip=0&startDate=11%2F20%2F2025&endDate=12%2F20%2F2025&sort=distance
+[2025-11-22T01:12:05.591Z] Type: event
+[2025-11-22T01:12:05.591Z] Content length: 31326 characters
+[2025-11-22T01:12:05.591Z] ❌ Failed to scrape https://www.newarkhappening.com/events/calendar/?skip=0&startDate=11%2F20%2F2025&endDate=12%2F20%2F2025&sort=distance: scrapeFile is not defined
+[2025-11-22T01:12:06.590Z] 
+📄 Scraping [6/6]: https://www.ingramspark.com/blog/ultimate-list-of-upcoming-book-festivals-2025
+[2025-11-22T01:12:06.590Z] Type: event
+[2025-11-22T01:12:06.590Z] Content length: 65360 characters
+[2025-11-22T01:12:06.590Z] ❌ Failed to scrape https://www.ingramspark.com/blog/ultimate-list-of-upcoming-book-festivals-2025: scrapeFile is not defined
+[2025-11-22T01:12:06.590Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:12:06.591Z] 
+================================================================================
+[2025-11-22T01:12:06.591Z] 🤖 AI PROMPT
+[2025-11-22T01:12:06.591Z] Prompt length: 13919 characters
+[2025-11-22T01:12:06.591Z] ================================================================================
+
+[2025-11-22T01:12:06.591Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-11-03-832Z_1763773863832.txt
+[2025-11-22T01:12:53.684Z] 
+================================================================================
+[2025-11-22T01:12:53.685Z] 🤖 AI RESPONSE
+[2025-11-22T01:12:53.686Z] Response length: 5643 characters
+[2025-11-22T01:12:53.686Z] ================================================================================
+
+[2025-11-22T01:12:53.686Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-11-03-832Z_1763773863832.txt
+[2025-11-22T01:12:53.687Z] 
+✅ Final itinerary generated with 8 items
+[2025-11-22T01:12:53.687Z] ❌ Error: Cannot read properties of undefined (reading 'itinerary')
+[2025-11-22T01:12:53.687Z] Stack: TypeError: Cannot read properties of undefined (reading 'itinerary')
+    at file:///Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/src/api_server.js:415:52
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-11-22T01:12:53.692Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-11-03-832Z_1763773863832.json
+[2025-11-22T01:12:53.692Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

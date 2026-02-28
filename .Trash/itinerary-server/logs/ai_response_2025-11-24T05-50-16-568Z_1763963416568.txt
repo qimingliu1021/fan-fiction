@@ -1,0 +1,164 @@
+{
+  "itinerary": [
+    {
+      "name": "Noche de Muertos Celebration",
+      "type": "event",
+      "location": "Grand Park, 200 N Grand Ave, Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0505, "lng": -118.2506},
+      "start_time": "2025-11-29T10:00:00.000Z",
+      "end_time": "2025-11-29T18:00:00.000Z",
+      "duration_minutes": 480,
+      "contact": {
+        "name": "Grand Park Events",
+        "email": "info@grandparkla.org",
+        "phone": "213-228-7430"
+      },
+      "description": "A vibrant celebration honoring the Day of the Dead with altars, performances, and food.",
+      "url": "https://www.discoverlosangeles.com/events"
+    },
+    {
+      "name": "LA Auto Show",
+      "type": "event",
+      "location": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
+      "coordinates": {"lat": 34.0407, "lng": -118.2690},
+      "start_time": "2025-11-29T09:00:00.000Z",
+      "end_time": "2025-11-29T18:00:00.000Z",
+      "duration_minutes": 540,
+      "contact": {
+        "name": "LA Auto Show",
+        "email": "info@laautoshow.com",
+        "phone": "213-741-1151"
+      },
+      "description": "Explore the latest in automotive technology and innovation.",
+      "url": "https://www.laautoshow.com"
+    },
+    {
+      "name": "Wellness Yoga Retreat",
+      "type": "activity",
+      "location": "The Yoga Collective, 2118 Wilshire Blvd, Santa Monica, CA 90403",
+      "coordinates": {"lat": 34.0258, "lng": -118.4912},
+      "start_time": "2025-11-29T09:00:00.000Z",
+      "end_time": "2025-11-29T11:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Sarah Johnson",
+        "email": "sarah@yogacollective.com",
+        "phone": "310-555-0123"
+      },
+      "description": "Join us for a refreshing yoga session focused on wellness and relaxation.",
+      "url": "https://www.yogacollective.com"
+    },
+    {
+      "name": "Art Gallery Tour",
+      "type": "activity",
+      "location": "The Getty Center, 1200 Getty Center Dr, Los Angeles, CA 90049",
+      "coordinates": {"lat": 34.0780, "lng": -118.4741},
+      "start_time": "2025-11-29T12:15:00.000Z",
+      "end_time": "2025-11-29T14:15:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Getty Center",
+        "email": "info@getty.edu",
+        "phone": "310-440-7300"
+      },
+      "description": "Explore the latest exhibitions and enjoy the stunning architecture.",
+      "url": "https://www.getty.edu"
+    },
+    {
+      "name": "Renegade Craft Fair",
+      "type": "event",
+      "location": "Los Angeles State Historic Park, 1245 N Spring St, Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0834, "lng": -118.2398},
+      "start_time": "2025-11-29T10:00:00.000Z",
+      "end_time": "2025-11-29T18:00:00.000Z",
+      "duration_minutes": 480,
+      "contact": {
+        "name": "Renegade Craft",
+        "email": "info@renegadecraft.com",
+        "phone": "312-455-3280"
+      },
+      "description": "A marketplace featuring handmade goods from local artisans.",
+      "url": "https://www.renegadecraft.com"
+    },
+    {
+      "name": "Women of Wellness Group Hike",
+      "type": "event",
+      "location": "Griffith Park, Los Angeles, CA 90027",
+      "coordinates": {"lat": 34.1365, "lng": -118.2942},
+      "start_time": "2025-11-30T07:00:00.000Z",
+      "end_time": "2025-11-30T09:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Event Organizer",
+        "email": "wellnessgroup@gmail.com",
+        "phone": "310-555-0199"
+      },
+      "description": "Join other women for a refreshing hike in Griffith Park.",
+      "url": "https://www.eventbrite.com/e/women-of-wellness-group-hike-tickets-1967701907374"
+    },
+    {
+      "name": "Innovation Social",
+      "type": "event",
+      "location": "The Music Center, 135 N Grand Ave, Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0503, "lng": -118.2487},
+      "start_time": "2025-11-30T16:00:00.000Z",
+      "end_time": "2025-11-30T20:00:00.000Z",
+      "duration_minutes": 240,
+      "contact": {
+        "name": "Music Center Events",
+        "email": "info@musiccenter.org",
+        "phone": "213-972-7211"
+      },
+      "description": "Network with innovators and entrepreneurs in a creative atmosphere.",
+      "url": "https://www.musiccenter.org"
+    },
+    {
+      "name": "MidCity Night Market",
+      "type": "event",
+      "location": "Mid City, Los Angeles, CA 90019",
+      "coordinates": {"lat": 34.0219, "lng": -118.3609},
+      "start_time": "2025-11-30T17:00:00.000Z",
+      "end_time": "2025-11-30T21:00:00.000Z",
+      "duration_minutes": 240,
+      "contact": {
+        "name": "MidCity Market",
+        "email": "info@midcitymarket.com",
+        "phone": "323-555-0246"
+      },
+      "description": "Enjoy food, crafts, and live music at this vibrant night market.",
+      "url": "https://www.midcitymarket.com"
+    },
+    {
+      "name": "Vintage Fashion Meetup",
+      "type": "event",
+      "location": "The Vintage Showroom, 123 E 5th St, Los Angeles, CA 90013",
+      "coordinates": {"lat": 34.0455, "lng": -118.2498},
+      "start_time": "2025-11-30T11:00:00.000Z",
+      "end_time": "2025-11-30T13:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Vintage Fashion Network",
+        "email": "contact@vintagefashion.com",
+        "phone": "213-555-0135"
+      },
+      "description": "Connect with fellow vintage fashion lovers and share your finds.",
+      "url": "https://www.vintagefashionnetwork.com"
+    },
+    {
+      "name": "Art Walk in Downtown LA",
+      "type": "activity",
+      "location": "Downtown Los Angeles, CA 90012",
+      "coordinates": {"lat": 34.0453, "lng": -118.2460},
+      "start_time": "2025-11-30T14:00:00.000Z",
+      "end_time": "2025-11-30T16:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Downtown Art Walk",
+        "email": "info@downtownartwalk.org",
+        "phone": "213-555-0456"
+      },
+      "description": "Explore art galleries and installations in the heart of downtown LA.",
+      "url": "https://www.downtownartwalk.org"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[2025-11-22T01:45:12.972Z] 
+📥 Request ID: 1763775912971
+[2025-11-22T01:45:12.973Z] 📥 Request: Anchorage, AK / Mountains, Social Events, Mental Health, Startups, Board Games
+[2025-11-22T01:45:12.973Z] 
+📍 Generating itinerary for Mountains, Social Events, Mental Health, Startups, Board Games in Anchorage, AK
+[2025-11-22T01:45:12.975Z] 🔍 Searching activities: Anchorage, AK Mountains, Social Events, Mental Health, Startups, Board Games attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:45:14.703Z] 
+================================================================================
+[2025-11-22T01:45:14.704Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:45:14.704Z] Query: Anchorage, AK Mountains, Social Events, Mental Health, Startups, Board Games attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:45:14.704Z] Results count: 10
+[2025-11-22T01:45:14.704Z] ================================================================================
+
+[2025-11-22T01:45:14.704Z] 📁 Full search results saved to: search_activity_2025-11-22T01-45-12-971Z_1763775912971.json
+[2025-11-22T01:45:14.704Z] 🔍 Searching events: Anchorage, AK Mountains, Social Events, Mental Health, Startups, Board Games networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:45:16.087Z] 
+================================================================================
+[2025-11-22T01:45:16.088Z] 🔍 EVENT SEARCH
+[2025-11-22T01:45:16.088Z] Query: Anchorage, AK Mountains, Social Events, Mental Health, Startups, Board Games networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:45:16.088Z] Results count: 10
+[2025-11-22T01:45:16.088Z] ================================================================================
+
+[2025-11-22T01:45:16.089Z] 📁 Full search results saved to: search_event_2025-11-22T01-45-12-971Z_1763775912971.json
+[2025-11-22T01:45:17.831Z] 
+📄 Scraping [1/6]: https://www.anchorage.net/events/
+[2025-11-22T01:45:17.831Z] Type: activity
+[2025-11-22T01:45:17.831Z] Content length: 6254 characters
+[2025-11-22T01:45:20.358Z] 
+📄 Scraping [2/6]: https://www.tripadvisor.com/Attractions-g60880-Activities-Anchorage_Alaska.html
+[2025-11-22T01:45:20.358Z] Type: activity
+[2025-11-22T01:45:20.358Z] Content length: 187184 characters
+[2025-11-22T01:45:22.946Z] 
+📄 Scraping [3/6]: https://www.eventbrite.com/d/ak--anchorage/calendar-2025/
+[2025-11-22T01:45:22.947Z] Type: activity
+[2025-11-22T01:45:22.947Z] Content length: 52501 characters
+[2025-11-22T01:45:33.037Z] 
+📄 Scraping [4/6]: https://quilltherapysolutions.com/conferences/2025/alaska/
+[2025-11-22T01:45:33.037Z] Type: event
+[2025-11-22T01:45:33.037Z] Content length: 11424 characters
+[2025-11-22T01:45:35.056Z] 
+📄 Scraping [5/6]: https://alaskamentalhealthtrust.org/event-directory/
+[2025-11-22T01:45:35.056Z] Type: event
+[2025-11-22T01:45:35.056Z] Content length: 56394 characters
+[2025-11-22T01:45:37.554Z] 
+📄 Scraping [6/6]: https://www.meetup.com/find/us--ak--anchorage/
+[2025-11-22T01:45:37.555Z] Type: event
+[2025-11-22T01:45:37.555Z] Content length: 13578 characters
+[2025-11-22T01:45:37.556Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:45:37.556Z] 
+================================================================================
+[2025-11-22T01:45:37.557Z] 🤖 AI PROMPT
+[2025-11-22T01:45:37.557Z] Prompt length: 13764 characters
+[2025-11-22T01:45:37.557Z] ================================================================================
+
+[2025-11-22T01:45:37.557Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-45-12-971Z_1763775912971.txt
+[2025-11-22T01:46:09.451Z] 
+================================================================================
+[2025-11-22T01:46:09.452Z] 🤖 AI RESPONSE
+[2025-11-22T01:46:09.452Z] Response length: 5467 characters
+[2025-11-22T01:46:09.452Z] ================================================================================
+
+[2025-11-22T01:46:09.452Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-45-12-971Z_1763775912971.txt
+[2025-11-22T01:46:09.453Z] 
+✅ Final itinerary generated with 9 items
+[2025-11-22T01:46:09.456Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-45-12-971Z_1763775912971.json
+[2025-11-22T01:46:09.456Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

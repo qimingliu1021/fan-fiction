@@ -1,0 +1,110 @@
+[
+    {
+        "name": "El Paso Ballet Theatre Performance",
+        "type": "event",
+        "location": "700 W San Antonio Ave, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7612, "lng": -106.4875},
+        "start_time": "2025-11-22T19:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "El Paso Ballet Theatre", "email": "info@epballet.org", "phone": "(915) 123-4567"},
+        "description": "Join us for a captivating ballet performance by the El Paso Ballet Theatre featuring classic and contemporary pieces.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Gaming Expo 2025",
+        "type": "event",
+        "location": "El Paso Convention Center, 1 Civic Center Plaza, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7614, "lng": -106.4850},
+        "start_time": "2025-11-22T10:00:00.000Z",
+        "end_time": "2025-11-22T18:00:00.000Z",
+        "duration_minutes": 480,
+        "contact": {"name": "Gaming Expo Team", "email": "contact@gamingexpo.com", "phone": "(915) 765-4321"},
+        "description": "Explore the latest in gaming technology, participate in competitions, and network with fellow gaming enthusiasts.",
+        "url": "https://www.tripadvisor.ca/Attractions-g60768-Activities-El_Paso_Texas.html"
+    },
+    {
+        "name": "Creative Writing Workshop",
+        "type": "event",
+        "location": "El Paso Public Library, 501 N Oregon St, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7620, "lng": -106.4873},
+        "start_time": "2025-11-22T14:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "El Paso Public Library", "email": "info@epl.org", "phone": "(915) 543-5433"},
+        "description": "Join local authors for a workshop that explores creative writing techniques and prompts.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Book Club: Recent Reads",
+        "type": "event",
+        "location": "Barnes & Noble, 8900 Gateway Blvd W, El Paso, TX 79925",
+        "coordinates": {"lat": 31.7907, "lng": -106.4270},
+        "start_time": "2025-11-22T17:00:00.000Z",
+        "end_time": "2025-11-22T19:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Barnes & Noble", "email": "contact@barnesandnoble.com", "phone": "(915) 833-8000"},
+        "description": "Join our book club to discuss the latest bestsellers and share your thoughts with fellow readers.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Game Development Meetup",
+        "type": "event",
+        "location": "The Hub of Human Innovation, 400 W San Antonio Ave, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7624, "lng": -106.4856},
+        "start_time": "2025-11-22T15:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "El Paso Game Developers", "email": "info@epgamedev.com", "phone": "(915) 987-6543"},
+        "description": "Network with local game developers and share ideas, projects, and experiences in game design.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Ballet Workshop for Beginners",
+        "type": "event",
+        "location": "El Paso Ballet Academy, 600 W San Antonio Ave, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7608, "lng": -106.4870},
+        "start_time": "2025-11-23T10:00:00.000Z",
+        "end_time": "2025-11-23T12:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "El Paso Ballet Academy", "email": "info@epballetacademy.org", "phone": "(915) 234-5678"},
+        "description": "A beginner's ballet workshop to learn the basics of ballet techniques and movements.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Indie Game Showcase",
+        "type": "event",
+        "location": "El Paso Museum of Art, 1 Arts Festival Plaza, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7611, "lng": -106.4854},
+        "start_time": "2025-11-23T13:00:00.000Z",
+        "end_time": "2025-11-23T15:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "El Paso Indie Game Developers", "email": "info@epigdevs.com", "phone": "(915) 654-3210"},
+        "description": "Showcasing the latest indie games developed by local creators. Play and provide feedback!",
+        "url": "https://www.tripadvisor.ca/Attractions-g60768-Activities-El_Paso_Texas.html"
+    },
+    {
+        "name": "Literary Festival",
+        "type": "event",
+        "location": "El Paso Community College, 9050 Viscount Blvd, El Paso, TX 79925",
+        "coordinates": {"lat": 31.7920, "lng": -106.3959},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T17:00:00.000Z",
+        "duration_minutes": 480,
+        "contact": {"name": "EP Community College", "email": "info@epcc.edu", "phone": "(915) 831-2000"},
+        "description": "A day-long festival celebrating literature with author panels, book signings, and workshops.",
+        "url": "https://visitelpaso.com/events"
+    },
+    {
+        "name": "Networking Mixer for Creatives",
+        "type": "event",
+        "location": "Café Central, 109 N Oregon St, El Paso, TX 79901",
+        "coordinates": {"lat": 31.7615, "lng": -106.4862},
+        "start_time": "2025-11-23T18:00:00.000Z",
+        "end_time": "2025-11-23T20:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Creative El Paso", "email": "network@creativeelpaso.com", "phone": "(915) 123-9876"},
+        "description": "An evening mixer for local creatives to network, share ideas, and collaborate on projects.",
+        "url": "https://visitelpaso.com/events"
+    }
+]

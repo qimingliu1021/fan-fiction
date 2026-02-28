@@ -1,0 +1,387 @@
+{
+  "1": {
+    "id": 1,
+    "city": "New York",
+    "state": "NY",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  "2": {
+    "id": 2,
+    "city": "Los Angeles",
+    "state": "CA",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  "3": {
+    "id": 3,
+    "city": "Chicago",
+    "state": "IL",
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  "4": {
+    "id": 4,
+    "city": "Houston",
+    "state": "TX",
+    "lat": 29.7604,
+    "lon": -95.3698
+  },
+  "5": {
+    "id": 5,
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  "6": {
+    "id": 6,
+    "city": "Philadelphia",
+    "state": "PA",
+    "lat": 39.9526,
+    "lon": -75.1652
+  },
+  "7": {
+    "id": 7,
+    "city": "San Antonio",
+    "state": "TX",
+    "lat": 29.4241,
+    "lon": -98.4936
+  },
+  "8": {
+    "id": 8,
+    "city": "San Diego",
+    "state": "CA",
+    "lat": 32.7157,
+    "lon": -117.1611
+  },
+  "9": {
+    "id": 9,
+    "city": "Dallas",
+    "state": "TX",
+    "lat": 32.7767,
+    "lon": -96.797
+  },
+  "10": {
+    "id": 10,
+    "city": "San Jose",
+    "state": "CA",
+    "lat": 37.3382,
+    "lon": -121.8863
+  },
+  "11": {
+    "id": 11,
+    "city": "Austin",
+    "state": "TX",
+    "lat": 30.2672,
+    "lon": -97.7431
+  },
+  "12": {
+    "id": 12,
+    "city": "Jacksonville",
+    "state": "FL",
+    "lat": 30.3322,
+    "lon": -81.6557
+  },
+  "13": {
+    "id": 13,
+    "city": "Fort Worth",
+    "state": "TX",
+    "lat": 32.7555,
+    "lon": -97.3308
+  },
+  "14": {
+    "id": 14,
+    "city": "Columbus",
+    "state": "OH",
+    "lat": 39.9612,
+    "lon": -82.9988
+  },
+  "15": {
+    "id": 15,
+    "city": "Charlotte",
+    "state": "NC",
+    "lat": 35.2271,
+    "lon": -80.8431
+  },
+  "16": {
+    "id": 16,
+    "city": "Indianapolis",
+    "state": "IN",
+    "lat": 39.7684,
+    "lon": -86.1581
+  },
+  "17": {
+    "id": 17,
+    "city": "San Francisco",
+    "state": "CA",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  "18": {
+    "id": 18,
+    "city": "Seattle",
+    "state": "WA",
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "19": {
+    "id": 19,
+    "city": "Denver",
+    "state": "CO",
+    "lat": 39.7392,
+    "lon": -104.9903
+  },
+  "20": {
+    "id": 20,
+    "city": "Washington",
+    "state": "DC",
+    "lat": 38.9072,
+    "lon": -77.0369
+  },
+  "21": {
+    "id": 21,
+    "city": "Anchorage",
+    "state": "AK",
+    "lat": 61.2181,
+    "lon": -149.9003
+  },
+  "22": {
+    "id": 22,
+    "city": "Birmingham",
+    "state": "AL",
+    "lat": 33.5186,
+    "lon": -86.8104
+  },
+  "23": {
+    "id": 23,
+    "city": "Little Rock",
+    "state": "AR",
+    "lat": 34.7465,
+    "lon": -92.2896
+  },
+  "24": {
+    "id": 24,
+    "city": "Wilmington",
+    "state": "DE",
+    "lat": 39.7391,
+    "lon": -75.5398
+  },
+  "25": {
+    "id": 25,
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.749,
+    "lon": -84.388
+  },
+  "26": {
+    "id": 26,
+    "city": "Boise",
+    "state": "ID",
+    "lat": 43.615,
+    "lon": -116.2023
+  },
+  "27": {
+    "id": 27,
+    "city": "Des Moines",
+    "state": "IA",
+    "lat": 41.5868,
+    "lon": -93.625
+  },
+  "28": {
+    "id": 28,
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.6872,
+    "lon": -97.3301
+  },
+  "29": {
+    "id": 29,
+    "city": "Louisville",
+    "state": "KY",
+    "lat": 38.2527,
+    "lon": -85.7585
+  },
+  "30": {
+    "id": 30,
+    "city": "New Orleans",
+    "state": "LA",
+    "lat": 29.9511,
+    "lon": -90.0715
+  },
+  "31": {
+    "id": 31,
+    "city": "Portland",
+    "state": "ME",
+    "lat": 43.6591,
+    "lon": -70.2568
+  },
+  "32": {
+    "id": 32,
+    "city": "Baltimore",
+    "state": "MD",
+    "lat": 39.2904,
+    "lon": -76.6122
+  },
+  "33": {
+    "id": 33,
+    "city": "Detroit",
+    "state": "MI",
+    "lat": 42.3314,
+    "lon": -83.0458
+  },
+  "34": {
+    "id": 34,
+    "city": "Minneapolis",
+    "state": "MN",
+    "lat": 44.9778,
+    "lon": -93.265
+  },
+  "35": {
+    "id": 35,
+    "city": "Kansas City",
+    "state": "MO",
+    "lat": 39.0997,
+    "lon": -94.5786
+  },
+  "36": {
+    "id": 36,
+    "city": "Billings",
+    "state": "MT",
+    "lat": 45.7833,
+    "lon": -108.5007
+  },
+  "37": {
+    "id": 37,
+    "city": "Omaha",
+    "state": "NE",
+    "lat": 41.2565,
+    "lon": -95.9345
+  },
+  "38": {
+    "id": 38,
+    "city": "Las Vegas",
+    "state": "NV",
+    "lat": 36.1699,
+    "lon": -115.1398
+  },
+  "39": {
+    "id": 39,
+    "city": "Manchester",
+    "state": "NH",
+    "lat": 42.9956,
+    "lon": -71.4548
+  },
+  "40": {
+    "id": 40,
+    "city": "Newark",
+    "state": "NJ",
+    "lat": 40.7357,
+    "lon": -74.1724
+  },
+  "41": {
+    "id": 41,
+    "city": "Albuquerque",
+    "state": "NM",
+    "lat": 35.0844,
+    "lon": -106.6504
+  },
+  "42": {
+    "id": 42,
+    "city": "Fargo",
+    "state": "ND",
+    "lat": 46.8772,
+    "lon": -96.7898
+  },
+  "43": {
+    "id": 43,
+    "city": "Cleveland",
+    "state": "OH",
+    "lat": 41.4993,
+    "lon": -81.6944
+  },
+  "44": {
+    "id": 44,
+    "city": "Oklahoma City",
+    "state": "OK",
+    "lat": 35.4676,
+    "lon": -97.5164
+  },
+  "45": {
+    "id": 45,
+    "city": "Portland",
+    "state": "OR",
+    "lat": 45.5152,
+    "lon": -122.6784
+  },
+  "46": {
+    "id": 46,
+    "city": "Providence",
+    "state": "RI",
+    "lat": 41.824,
+    "lon": -71.4128
+  },
+  "47": {
+    "id": 47,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "lat": 43.5446,
+    "lon": -96.7311
+  },
+  "48": {
+    "id": 48,
+    "city": "Nashville",
+    "state": "TN",
+    "lat": 36.1627,
+    "lon": -86.7816
+  },
+  "49": {
+    "id": 49,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "lat": 40.7608,
+    "lon": -111.891
+  },
+  "50": {
+    "id": 50,
+    "city": "Burlington",
+    "state": "VT",
+    "lat": 44.4759,
+    "lon": -73.2121
+  },
+  "51": {
+    "id": 51,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "lat": 36.8529,
+    "lon": -75.978
+  },
+  "52": {
+    "id": 52,
+    "city": "Spokane",
+    "state": "WA",
+    "lat": 47.6588,
+    "lon": -117.426
+  },
+  "53": {
+    "id": 53,
+    "city": "Charleston",
+    "state": "WV",
+    "lat": 38.3498,
+    "lon": -81.6326
+  },
+  "54": {
+    "id": 54,
+    "city": "Milwaukee",
+    "state": "WI",
+    "lat": 43.0389,
+    "lon": -87.9065
+  },
+  "55": {
+    "id": 55,
+    "city": "Cheyenne",
+    "state": "WY",
+    "lat": 41.1399,
+    "lon": -104.8202
+  }
+}

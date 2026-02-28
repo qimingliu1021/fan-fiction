@@ -1,0 +1,258 @@
+{
+  "organic": [
+    {
+      "link": "https://www.tripadvisor.com/Attractions-g46671-Activities-Newark_New_Jersey.html",
+      "display_link": "https://www.tripadvisor.com › ... › Newark",
+      "title": "THE 15 BEST Things to Do in Newark (2025)",
+      "description": "Check out must-see sights and activities: The Newark Museum of Art, Branch Brook Park, City Tours, Parks. For personalized recommendations, try our AI trip- ...",
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.newarkhappening.com/events/calendar/?startDate=11%2F21%2F2025&endDate=11%2F23%2F2025&sort=title",
+      "display_link": "https://www.newarkhappening.com › events › calendar",
+      "title": "Newark, NJ Events Calendar | Annual Events, Festivals & ...",
+      "description": "Browse the latest happening in Newark, NJ events calendar! Find exciting live shows, festivals and fairs.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "17 hours ago",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 2
+        },
+        {
+          "type": "must_include",
+          "text": "Mountains,",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Newark,+NJ+%22Mountains,%22+Parties,+Gaming+attractions+activities+places+to+visit+things+to+do+November+22,+2025+to+November+23,+2025&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q5t4CegQIJhAB",
+          "rank": 3
+        }
+      ],
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://www.yelp.com/search?find_desc=Fun+Places+To+Go&find_loc=Newark%2C+NJ",
+      "display_link": "https://www.yelp.com › search › find_loc=Newark,+NJ",
+      "title": "TOP 10 BEST Fun Places to Go in Newark, NJ",
+      "description": "Top 10 Best Fun Places to Go in Newark, NJ - Last Updated October 2025 - Yelp - Spyscape, Electric Daisy Carnival, Portugal Day Festival, Area 53, ...",
+      "extensions": [
+        {
+          "type": "rating",
+          "rating": 4.1,
+          "reviews_cnt": 6887,
+          "rank": 1
+        }
+      ],
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://www.njfamily.com/newark/",
+      "display_link": "https://www.njfamily.com › newark",
+      "title": "Best Things to Do in Newark – Events & Attractions - NJ Family",
+      "description": "From arts and entertainment to top-rated family-friendly attractions, this list covers Newark's best events, festivals, restaurants, and outdoor activities.",
+      "rank": 4,
+      "global_rank": 4
+    },
+    {
+      "link": "https://visitnj.org/nj/events",
+      "display_link": "https://visitnj.org › nj › events",
+      "title": "The Official New Jersey Events Calendar",
+      "description": "The NJ Events Calendar is full of celebrations that make The Garden State what it is, live music, food festivals, arts and crafts fairs and things to do in ...",
+      "rank": 5,
+      "global_rank": 5
+    },
+    {
+      "link": "https://www.newarkhappening.com/events/calendar/",
+      "display_link": "https://www.newarkhappening.com › events › calendar",
+      "title": "Newark, NJ Events Calendar | Annual Events, Festivals & ...",
+      "description": "Browse the latest happening in Newark, NJ events calendar! Find exciting live shows, festivals and fairs.",
+      "rank": 6,
+      "global_rank": 6
+    },
+    {
+      "link": "https://www.expedia.com/Things-To-Do-In-Newark.d601760.Travel-Guide-Activities",
+      "display_link": "https://www.expedia.com › ... › New Jersey",
+      "title": "Things to Do in Newark in 2025",
+      "description": "Discover things to do in Newark - find the best activities, must-visit attractions, and unforgettable tours & experiences on Expedia.",
+      "rank": 7,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.newjerseystage.com/articles2/2025/11/11/events-this-week-in-new-jersey-from-november-11-17-2025/",
+      "display_link": "https://www.newjerseystage.com › articles2 › events-thi...",
+      "title": "Events This Week in New Jersey from November 11-17, 2025",
+      "description": "Here is a look at upcoming events taking place from November 11-17, 2025 along with our featured listings. New Jersey Stage offers previews ...",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Nov 11, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 8,
+      "global_rank": 8
+    },
+    {
+      "link": "https://visitnj.org/",
+      "display_link": "https://visitnj.org",
+      "title": "VisitNJ.org: Things to Do, Attractions, Events, Beaches in NJ",
+      "description": "Welcome to New Jersey! If you're planning a trip, we've got information on things to do, attractions, events, our beautiful beaches, and everything there is ...",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "New Jersey Attractions",
+          "link": "https://visitnj.org/nj/attractions",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Things To Do",
+          "link": "https://visitnj.org/things-to-do",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Download Free Travel Guides",
+          "link": "https://visitnj.org/form/request-or-download-free-travel-guides",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Newark,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 5
+        }
+      ],
+      "rank": 9,
+      "global_rank": 9
+    },
+    {
+      "link": "https://www.yelp.com/search?find_desc=Attractions&find_loc=Newark%2C+NJ",
+      "display_link": "https://www.yelp.com › search › find_loc=Newark,+NJ",
+      "title": "Attractions Newark, NJ - Last Updated November 2025",
+      "description": "Top 10 Best Attractions in Newark, NJ - Last Updated October 2025 - Yelp - Spyscape, Museum of Sex, Sea Life Aquarium - New Jersey, Scooters Are Us, ...",
+      "extensions": [
+        {
+          "type": "rating",
+          "rating": 4.1,
+          "reviews_cnt": 19479,
+          "rank": 1
+        }
+      ],
+      "rank": 10,
+      "global_rank": 10
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "items": [
+        {
+          "text": "The Newark Museum of Art",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=The+Newark+Museum+of+Art&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMkwqDT-xciwgYXhFQs3F0IMzjPNLrfIgPOMMkyMzeA84_SiJCM4zzKj0qzqFQs_F69-ur6hYVKyWV5KWkkRXD6pzCArBaG3rNwSqJqHiwvMSy4qzyhHOKHcoMhwEatESEaqgl9qeWJRtoJvaXFqaa5CfpqCY1HJLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwCvo1Gz9wAAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8EAo",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4PURYcDBKrrcnorm-nOJYL9LsybJVozNQ6LR&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4PURYcDBKrrcnorm-nOJYL9LsybJVozNQ6LR&s=0",
+          "rank": 1
+        },
+        {
+          "text": "New Jersey Performing Arts Center (NJPAC)",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=NJPAC&stick=H4sIAAAAAAAAAOMwVOLUz9U3MM0ut8j4xciwgYXhFQs3F1jMJMOg0hjOA6uA84wyTIzN4Dzj9KIkIzjPMqPSrOoVCz8Xr366vqFhUrJZXkpaSRFcPqnMICsFobes3BKomoeLC8xLLirPKEc4odygyHARK6ufV4Cj8y02SYbdizp-srjuN9xoabxxk9jj7ey_3P_Wps1YuYhDLCA1vyAnVSExpzhfoTg1sSg5QyEtv2gFByMA7FPxOOQAAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8EA8",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSovuJF6duZyRUy8IMYpXPe4efcypkuBOvVrslyy8mCaz2k317R5iWUygLv9Mn2JrY2uXcp4VM9&s=19",
+          "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSovuJF6duZyRUy8IMYpXPe4efcypkuBOvVrslyy8mCaz2k317R5iWUygLv9Mn2JrY2uXcp4VM9&s=19",
+          "rank": 2
+        },
+        {
+          "text": "Branch Brook Park",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Branch+Brook+Park&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMowMTb7xciwgYXhFQs3F1jMJMOg0hjOM80ut8iA88Dq4Tzj9KIkIzjPMqPSrOoVCz8Xr366vqFhUrJZXkpaSRFcPqnMICsFobes3BKomoeLC8xLLirPKEc4odygyHARq6BTUWJecoaCU1F-frZCQGJR9i02SYbdizp-srjuN9xoabxxk9jj7ey_3P_Wps1YuYhDLCA1vyAnVSExpzhfoTg1sQioNy2_aAUHIwD4g0_B8AAAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8EBQ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLfvX6rNtqa-8_3RErPBMhXQjlVANt47g6JBVavYloEchUhU3DN6Y&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLfvX6rNtqa-8_3RErPBMhXQjlVANt47g6JBVavYloEchUhU3DN6Y&s=0",
+          "rank": 3
+        },
+        {
+          "text": "Ironbound",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=The+Ironbound&stick=H4sIAAAAAAAAAOMwVOLUz9U3ME4vSjL6xciwgYXhFQs3F1jMJMOg0hjOM80ut8iA84wyTIzN4DywbjjPMqPSrOoVCz8Xr366vqFhUrJZXkpaSRFcPqnMICsFobes3BKomoeLC8xLLirPKEc4odygyHARK29IRqqCZ1F-XlJ-aV7KLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwDLa4c97AAAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8EBk",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvSl5BKDoogbR9otd6rUIs_Mh0KZ9AzkoAyKXZf2ThgwULthohkgs&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvSl5BKDoogbR9otd6rUIs_Mh0KZ9AzkoAyKXZf2ThgwULthohkgs&s=0",
+          "rank": 4
+        },
+        {
+          "text": "Prudential Center",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Prudential+Center&stick=H4sIAAAAAAAAAOMwVOLUz9U3sMyoNKv6xciwgYXhFQs3F1jMJMOg0hjOM80ut8iA84wyTIzN4Dzj9KIkIzgPbNYrFn4uXv10fUPDpGSzvJS0kiK4fFKZQVYKQm9ZuSVQNQ8XF5iXXFSeUY5wQrlBkeEiVsGAotKU1LySzMQcBWcgnVp0i02SYfeijp8srvsNN1oab9wk9ng7-y_3v7VpM1Yu4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCADzoOJf8AAAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8EB4",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQwhbAC8hw4_Lvg_X4a2RQxn_PBoR3agVaFX2dzyhW9-oYtcPjGOpb55bI_bBJvDq_ZSSWSaV4&s=19",
+          "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQwhbAC8hw4_Lvg_X4a2RQxn_PBoR3agVaFX2dzyhW9-oYtcPjGOpb55bI_bBJvDq_ZSSWSaV4&s=19",
+          "rank": 5
+        },
+        {
+          "text": "Cathedral Basilica of the Sacred Heart",
+          "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Cathedral+Basilica+of+the+Sacred+Heart&stick=H4sIAAAAAAAAAOMwVOLVT9c3NExKNstLSSsp-sXIsIGF4RULNxenfq6-gUmGQaUxnGeaXW6RAecZZZgYm8F5xulFSUZwnmVGpVnVKxZ-LlTT4fJJZQZZKQi9ZeWWQNU8XFxgXnJReUY5wgnlBkWGi1jVnBNLMlJTihJzFJwSizNzMpMTFfLTFIBiCsGJyUWpKQoeqYlFJbfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8hWKg-uQMhbT8ohUcjACfayylCQEAAA&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Qs9oBKAB6BAg8ECM",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsS3-rs41KjXHArHvHFEoqxE8R4vVRPfJrPAwMW2GyP9jNxyvtcwQ&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsS3-rs41KjXHArHvHFEoqxE8R4vVRPfJrPAwMW2GyP9jNxyvtcwQ&s=0",
+          "rank": 6
+        }
+      ],
+      "rank": 1,
+      "global_rank": 11
+    },
+    {
+      "text": "Things to do in Newark, NJ this weekend",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+Newark,+NJ+this+weekend&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhSEAE",
+      "rank": 2,
+      "global_rank": 12
+    },
+    {
+      "text": "Free things to do in Newark, NJ",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Free+things+to+do+in+Newark,+NJ&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhQEAE",
+      "rank": 3,
+      "global_rank": 13
+    },
+    {
+      "text": "Things to do in newark nj today for adults",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+newark+nj+today+for+adults&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhREAE",
+      "rank": 4,
+      "global_rank": 14
+    },
+    {
+      "text": "Fun things to do in Newark, NJ",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Fun+things+to+do+in+Newark,+NJ&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhUEAE",
+      "rank": 5,
+      "global_rank": 15
+    },
+    {
+      "text": "Things to do in Newark, NJ This weekend for Adults",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+Newark,+NJ+This+weekend+for+Adults&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhOEAE",
+      "rank": 6,
+      "global_rank": 16
+    },
+    {
+      "text": "Things to do in Newark, NJ today free",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Things+to+do+in+Newark,+NJ+today+free&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhTEAE",
+      "rank": 7,
+      "global_rank": 17
+    },
+    {
+      "text": "Newark events 2025",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Newark+events+2025&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAhPEAE",
+      "rank": 8,
+      "global_rank": 18
+    },
+    {
+      "text": "Events in Newark, NJ tonight",
+      "link": "https://www.google.com/search?sca_esv=16a5b3c49c9a2e73&hl=en&q=Events+in+Newark,+NJ+tonight&sa=X&ved=2ahUKEwj8waudyYSRAxW_SfEDHf3qE18Q1QJ6BAg-EAE",
+      "rank": 9,
+      "global_rank": 19
+    }
+  ],
+  "ai_overview": null
+}

@@ -1,0 +1,430 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Meetups, Camping, Running, Art Galleries, Networking in Los Angeles, CA.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.timeout.com/los-angeles/things-to-do/november-events-calendar
+November 2025 Events Calendar for Los Angeles to Start the Holidays    
+
+[Go to the content](#main-container)[Go to the footer](#site-footer)
+
+No thanks
+
+Subscribe
+
+🙌  
+Awesome, you're subscribed!
+
+Thanks for subscribing! Look out for your first newsletter in your inbox soon!
+
+The best of Los Angeles straight to your inbox
+
+We help you navigate a myriad of possibilities. Sign up for our newsletter for the best of the city.
+
+Enter email address![Loading animation](/static/images/loading_icon.gif)
+
+Déjà vu! We already have this email. Try another?
+
+By entering your email address you agree to our [Terms of Use](https://www.timeout.com/usa/terms-of-use) and [Privacy Policy](https://www.timeout.com/privacy-notice) and consent to receive emails from Time Out about news, events, offers and partner promotions.
+
+No thanks
+
+Awesome, you're subscribed!
+
+Thanks for subscribing! Look out for your first newsletter in your inbox soon!
+
+The best of Los Angeles for free.
+
+Sign up for our email to enjoy Los Angeles without spending a thing (as well as some options when you’re feeling flush).
+
+Enter email address
+
+Déjà vu! We already have this email. Try another?
+
+No thanks
+
+By entering your email address you agree to our [Terms of Use](https://www.timeout.com/usa/terms-of-use) and [Privacy Policy](https://www.timeout.com/privacy-notice) and consent to receive emails from Time Out about news, events, offers and partner promotions.
+
+No thanks
+
+Awesome, you're subscribed!
+
+Thanks for subscribing! Look out for your first newsletter in your inbox soon!
+
+Love the mag?
+
+Our newsletter hand-delivers the best bits to your inbox. Sign up to unlock our digital magazines and also receive the latest news, events, offers and partner promotions.
+
+Enter email address
+
+Déjà vu! We already have this email. Try another?
+
+No thanks
+
+By entering your email address you agree to our [Terms of Use](https://www.timeout.com/usa/terms-of-use) and [Privacy Policy](https://www.timeout.com/privacy-notice) and co
+
+
+[2] ACTIVITY - https://www.discoverlosangeles.com/events
+                                                          Los Angeles Events Calendar for 2025, from Festivals to Concerts | Discover Los Angeles | California  
+
+[Skip to main content](#main-content)
+
+Maskchevron-leftchevron-rightCombined Shape+icon-next-shadow+icon-prev-shadowplay-outlineplay-outlineplay-outline-white-thin-shadowplay-outlineplay-outlineregion-beach-cities-laxregion-downtownregion-hollywoodregion-valleyregion-westsideSMS
+
+Main navigation
+
+*   [Things to Do](/things-to-do)
+    *   [Attractions & Tours](/things-to-do/attractions-tours)
+    *   [Arts & Culture](/things-to-do/arts)
+    *   [Outdoors & Wellness](/things-to-do/wellness)
+    *   [Shopping](/things-to-do/shopping)
+    *   [Family](/visit/kids-family)
+    *   [Hidden Gems](/visit/hidden-gems)
+    *   [Luxury](/visit/luxury)
+    *   [Pet-Friendly](/visit/pet-friendly)
+*   [Eat & Drink](/eat-drink)
+    *   [Bars](/eat-drink/bars)
+    *   [Clubs](/eat-drink/clubs)
+    *   [Dine LA Restaurant Week](/dinela)
+    *   [Restaurants](/eat-drink/restaurants)
+    *   [Business Spotlight](/membership/business-spotlight)
+*   [Find Events](/events)
+*   [Itineraries](/visit)
+*   [Where to Stay](/hotels)
+*   [Celebrate LA Heritage](/visit)
+    *   [AAPI Heritage](/things-to-do/aapi)
+    *   [Black LA](/blackla)
+    *   [Latino Heritage](/LatinoHeritage)
+    *   [LGBTQ+](/gayla)
+*   [Tourist Information](/travel)
+*   [Meetings](/meetla)
+*   [About LA Tourism](/business)
+    *   [Travel Trade](/travel-trade)
+    *   [Membership](/membership)
+    *   [Business Spotlight](/membership/business-spotlight)
+    *   [Media](/media)
+    *   [Research](/research)
+    *   [Careers](/business/careers)
+
+Today's must read
+
+   [![Walt Disney Concert Hall at sunset](/sites/default/files/styles/max_1920x1920_kraken/public/images/2022-11/Walt%20Disney%20Concert%20Hall%20sunset.jpeg.webp?itok=1sxOExPV&width=480&fit=bound&quality=72&auto=webp)](/things-to-do/the-best-things-to-do-in-la-this-weekend)
+
+[The Best Things to Do in L
+
+
+[3] ACTIVITY - https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/
+          A Big List of Things To Do This November in L.A. \[2025\]                                                      
+
+[Skip to content](#content)
+
+[WE LIKE L.A.](https://www.welikela.com/)
+
+Navigation
+
+*   [HOME](https://www.welikela.com)
+*   [THINGS TO DO](https://www.welikela.com/losangeles/things-to-do/)
+*   [FOOD & DRINK](https://www.welikela.com/losangeles/food/)
+*   [CULTURE](https://www.welikela.com/losangeles/culture/)
+*   [NEWSLETTER](https://www.welikela.com/newsletter-sign-up/)
+*   [CONTACT US](https://www.welikela.com/contact-us/)
+*   [ABOUT US](https://www.welikela.com/about-us/)
+
+[November 1, 2025](https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/ "11:04 am") [Things To Do](https://www.welikela.com/losangeles/things-to-do/)
+
+# A Big List of Things To Do This November in L.A. \[2025\]
+
+![](https://secure.gravatar.com/avatar/f4a5a38aa6b08cb269e1da3a8a02ec89788b33f6821da004e3297662d2535be5?s=32&d=mm&r=g)Posted by [Brian Champlin and Christina Champlin](https://www.welikela.com/author/brian/?mab_v3=162358 "View all posts by Brian Champlin and Christina Champlin")
+
+[![](https://www.welikela.com/wp-content/uploads/2025/11/A-couple-strolls-through-the-Ancient-Forest-at-Enchanted-Forest-of-Light.jpg)](https://www.welikela.com/wp-content/uploads/2025/11/A-couple-strolls-through-the-Ancient-Forest-at-Enchanted-Forest-of-Light.jpg)
+
+The Ancient Forest at Enchanted Forest of Light. Photo by Kathryn Rapier
+
+Need plans to make it the best November ever in the city of angels? We’re here for the assist.
+
+In view over the next thirty days you’ll find Noche de Muertos at Grand Park, holiday lights experiences like Astra Lumina and Enchanted Forest of Light, pop-up markets including Renegade Craft and Jackalope Pasadena, an Innovation Social at the Music Center, a _Strangers Things_\-themed edition of CicLAvia, the MidCity Night Market, the LA Auto Show, and more.
+
+## Things To Do This November
+
+****M**** = Less than .5 miles from an L.A
+
+
+[4] EVENT - https://www.meetup.com/find/us--ca--los-angeles/
+Events in Los Angeles, California | Meetup
+
+[Skip to content](#main)
+
+[
+
+](https://www.meetup.com/)
+
+Homepage
+
+Events in
+
+# Los Angeles, California
+
+Find events in Los Angeles to connect with people who share your interests. Whatever your interest, Meetup helps you connect with like-minded people.
+
+![Events in Los Angeles, California](https://secure.meetupstatic.com/next/static/media/los_angeles.81b0f70f.jpg?w=3840)
+
+![people1 icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/people-1.webp?w=128)
+
+![calendar icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/calendar.webp?w=128)
+
+## Events in Los Angeles
+
+Browse the most popular activities in Los Angeles
+
+[See all](/find/?location=us--ca--los-angeles)
+
+[
+
+![Sunday Strum 'n' Chat, 50 +!!](https://secure.meetupstatic.com/photos/event/1/8/4/5/highres_530586213.jpeg)
+
+Sun, Nov 23 · 2:00 PM PST
+
+### Sunday Strum 'n' Chat, 50 +!!
+
+by 50 Plus Guitar Club - All Levels!
+
+
+
+
+
+](https://www.meetup.com/50-plus-guitar-club-all-levels/events/311233496/?eventOrigin=city_most_popular_event)
+
+[
+
+![Sunset Socials: Networking and Social - Holiday Edition](https://secure.meetupstatic.com/photos/event/6/4/2/highres_531241602.jpeg)
+
+Thu, Dec 4 · 5:00 PM PST
+
+### Sunset Socials: Networking and Social - Holiday Edition
+
+by Sunset Socials: Beverly Hills/LA Networking and Social Group
+
+
+
+
+
+](https://www.meetup.com/sunset-socials-beverly-hills-la-networking-and-social-group/events/311952447/?eventOrigin=city_most_popular_event)
+
+[
+
+![Mixing, Mingling and Dancing @ PERCH & Elevate Lounge](https://secure.meetupstatic.com/photos/event/c/7/0/a/highres_529130954.jpeg)
+
+Fri, Nov 28 · 6:30 PM PST
+
+### Mixing, Mingling and Dancing @ PERCH & Elevate Lounge
+
+by LA Social Scene
+
+
+
+
+
+](https://www.meetup.com/la-social-scene/events/307636418/?eventOrigin=city_most_popular_event)
+
+[
+
+![🌌🥂 Social nights in the Clouds – Wednesday at 71 Above 🌟](https://secure.meetupstatic.com/photos/event/5/2/6/3/highres_53000109
+
+
+[5] EVENT - https://www.meetup.com/find/us--ca--los-angeles/camping/
+Find Events & Groups in Los Angeles, CA
+
+[Skip to content](#main)
+
+[
+
+](https://www.meetup.com/)
+
+Homepage
+
+English
+
+Log inSign up
+
+EventsGroups
+
+# Camping events near Los Angeles, CA
+
+Any day
+
+Any type
+
+Within 18 miles
+
+![sparkle icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/sparkle.webp?w=64)
+
+All events
+
+![people1 icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/people-1.webp?w=64)
+
+New Groups
+
+![pizza icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/pizza.webp?w=64)
+
+Social Activities
+
+![toy icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/toy.webp?w=64)
+
+Hobbies & Passions
+
+![ball icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/ball.webp?w=64)
+
+Sports & Fitness
+
+![tree icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/tree.webp?w=64)
+
+Travel & Outdoor
+
+![suitcase icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/suitcase.webp?w=64)
+
+Career & Business
+
+![computer icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/computer.webp?w=64)
+
+Technology
+
+![building icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/building.webp?w=64)
+
+Community & Environment
+
+![world icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/world.webp?w=64)
+
+Identity & Language
+
+![videogame icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/videogame.webp?w=64)
+
+Games
+
+![dancing icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/dancing.webp?w=64)
+
+Dancing
+
+![heart icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/heart.webp?w=64)
+
+Support & Coaching
+
+![music icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/music.webp?w=64)
+
+Music
+
+![mentalHealth icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/mental-health.webp?w=64)
+
+Health & Wellbeing
+
+![painting icon](https:/
+
+
+[6] EVENT - https://www.meetup.com/find/us--ca--los-angeles/art/
+Find Events & Groups in Los Angeles, CA
+
+[Skip to content](#main)
+
+[
+
+](https://www.meetup.com/)
+
+Homepage
+
+English
+
+Log inSign up
+
+EventsGroups
+
+# Art events near Los Angeles, CA
+
+Any day
+
+Any type
+
+Within 18 miles
+
+![sparkle icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/sparkle.webp?w=64)
+
+All events
+
+![people1 icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/people-1.webp?w=64)
+
+New Groups
+
+![pizza icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/pizza.webp?w=64)
+
+Social Activities
+
+![toy icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/toy.webp?w=64)
+
+Hobbies & Passions
+
+![ball icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/ball.webp?w=64)
+
+Sports & Fitness
+
+![tree icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/tree.webp?w=64)
+
+Travel & Outdoor
+
+![suitcase icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/suitcase.webp?w=64)
+
+Career & Business
+
+![computer icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/computer.webp?w=64)
+
+Technology
+
+![building icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/building.webp?w=64)
+
+Community & Environment
+
+![world icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/world.webp?w=64)
+
+Identity & Language
+
+![videogame icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/videogame.webp?w=64)
+
+Games
+
+![dancing icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/dancing.webp?w=64)
+
+Dancing
+
+![heart icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/heart.webp?w=64)
+
+Support & Coaching
+
+![music icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/music.webp?w=64)
+
+Music
+
+![mentalHealth icon](https://secure.meetupstatic.com/next/images/complex-icons/branded/mental-health.webp?w=64)
+
+Health & Wellbeing
+
+![painting icon](https://sec
+
+Return ONLY valid JSON array with exactly 10-20 items.

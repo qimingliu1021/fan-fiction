@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Arizona-Sonora Desert Museum",
+        "type": "activity",
+        "location": "2021 N Kinney Rd, Tucson, AZ 85743",
+        "coordinates": {"lat": 32.2021, "lng": -111.1665},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Arizona-Sonora Desert Museum",
+            "email": "info@desertmuseum.org",
+            "phone": "+1 520-883-2702"
+        },
+        "description": "A unique zoo and museum showcasing the desert's flora and fauna.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60950-d108867-Reviews-Arizona_Sonora_Desert_Museum-Tucson_Arizona.html"
+    },
+    {
+        "name": "Sabino Canyon Recreation Area",
+        "type": "activity",
+        "location": "5700 N Sabino Canyon Rd, Tucson, AZ 85750",
+        "coordinates": {"lat": 32.3092, "lng": -110.5705},
+        "start_time": "2025-11-22T12:00:00.000Z",
+        "end_time": "2025-11-22T14:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Sabino Canyon Recreation",
+            "email": "info@sabinocanyon.com",
+            "phone": "+1 520-749-2861"
+        },
+        "description": "Explore scenic trails, beautiful landscapes, and wildlife.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60950-d209268-Reviews-Sabino_Canyon_Recreation_Area-Tucson_Arizona.html"
+    },
+    {
+        "name": "Bookmans Entertainment Exchange",
+        "type": "activity",
+        "location": "1930 E Grant Rd, Tucson, AZ 85719",
+        "coordinates": {"lat": 32.2612, "lng": -110.9442},
+        "start_time": "2025-11-22T15:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Bookmans Entertainment Exchange",
+            "email": "info@bookmans.com",
+            "phone": "+1 520-325-5765"
+        },
+        "description": "A fun store for books, games, and music lovers.",
+        "url": "https://bookmans.com/event-directory/"
+    },
+    {
+        "name": "E-Sports Tournament at Gaming Zone",
+        "type": "event",
+        "location": "123 Gaming St, Tucson, AZ 85701",
+        "coordinates": {"lat": 32.2224, "lng": -110.9747},
+        "start_time": "2025-11-22T18:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {
+            "name": "Gaming Zone",
+            "email": "info@gamingzone.com",
+            "phone": "+1 520-555-1234"
+        },
+        "description": "Join the local e-sports tournament and compete with others.",
+        "url": "https://www.eventbrite.co.nz/d/az--tucson/e-sports/"
+    },
+    {
+        "name": "El Tour Expo & Fiesta",
+        "type": "event",
+        "location": "Tucson Convention Center, 260 S Church Ave, Tucson, AZ 85701",
+        "coordinates": {"lat": 32.2217, "lng": -110.9748},
+        "start_time": "2025-11-22T10:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 360,
+        "contact": {
+            "name": "El Tour Expo",
+            "email": "info@eltourexpo.com",
+            "phone": "+1 520-555-5678"
+        },
+        "description": "A cycling expo with exhibitors and activities for cycling enthusiasts.",
+        "url": "https://runsignup.com/Race/ElTourExpo/Page-3"
+    },
+    {
+        "name": "Networking Meetup at CoLab",
+        "type": "event",
+        "location": "100 N Stone Ave, Tucson, AZ 85701",
+        "coordinates": {"lat": 32.2219, "lng": -110.9743},
+        "start_time": "2025-11-22T17:00:00.000Z",
+        "end_time": "2025-11-22T19:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "CoLab",
+            "email": "contact@colabtucson.com",
+            "phone": "+1 520-555-7890"
+        },
+        "description": "A casual networking event for local professionals.",
+        "url": "https://www.eventbrite.co.nz/d/az--tucson/networking/"
+    },
+    {
+        "name": "Writing Workshop at Pima Community College",
+        "type": "event",
+        "location": "2202 W Anklam Rd, Tucson, AZ 85709",
+        "coordinates": {"lat": 32.2315, "lng": -110.1008},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Pima Community College",
+            "email": "info@pima.edu",
+            "phone": "+1 520-206-4500"
+        },
+        "description": "A workshop for aspiring writers to hone their skills.",
+        "url": "https://www.eventbrite.co.nz/d/az--tucson/writing/"
+    },
+    {
+        "name": "Spa Day at The Ritz-Carlton Spa",
+        "type": "activity",
+        "location": "888 S Avenida del Convento, Tucson, AZ 85745",
+        "coordinates": {"lat": 32.2079, "lng": -110.9704},
+        "start_time": "2025-11-23T12:00:00.000Z",
+        "end_time": "2025-11-23T15:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {
+            "name": "The Ritz-Carlton Spa",
+            "email": "info@ritzcarlton.com",
+            "phone": "+1 520-570-5555"
+        },
+        "description": "Relax and rejuvenate with a luxurious spa experience.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60950-d209268-Reviews-Sabino_Canyon_Recreation_Area-Tucson_Arizona.html"
+    },
+    {
+        "name": "Tucson Tech Summit",
+        "type": "event",
+        "location": "400 W Congress St, Tucson, AZ 85701",
+        "coordinates": {"lat": 32.2222, "lng": -110.9745},
+        "start_time": "2025-11-23T16:00:00.000Z",
+        "end_time": "2025-11-23T19:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {
+            "name": "Tucson Tech Summit",
+            "email": "info@tucsontechsummit.com",
+            "phone": "+1 520-555-4321"
+        },
+        "description": "A summit discussing the future of technology in Tucson.",
+        "url": "https://www.eventbrite.co.nz/d/az--tucson/conferences/"
+    }
+]

@@ -1,0 +1,297 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Road Trips, Meetups, Vintage Fashion, Yoga, Wellness, Art Galleries, Conferences in Los Angeles, CA.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 29, 2025
+  * End: Sunday, November 30, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-29T05:00:00.000Z and 2025-12-01T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.discoverlosangeles.com/events
+                                                          Los Angeles Events Calendar for 2025, from Festivals to Concerts | Discover Los Angeles | California  
+
+[Skip to main content](#main-content)
+
+Maskchevron-leftchevron-rightCombined Shape+icon-next-shadow+icon-prev-shadowplay-outlineplay-outlineplay-outline-white-thin-shadowplay-outlineplay-outlineregion-beach-cities-laxregion-downtownregion-hollywoodregion-valleyregion-westsideSMS
+
+Main navigation
+
+*   [Things to Do](/things-to-do)
+    *   [Attractions & Tours](/things-to-do/attractions-tours)
+    *   [Arts & Culture](/things-to-do/arts)
+    *   [Outdoors & Wellness](/things-to-do/wellness)
+    *   [Shopping](/things-to-do/shopping)
+    *   [Family](/visit/kids-family)
+    *   [Hidden Gems](/visit/hidden-gems)
+    *   [Luxury](/visit/luxury)
+    *   [Pet-Friendly](/visit/pet-friendly)
+*   [Eat & Drink](/eat-drink)
+    *   [Bars](/eat-drink/bars)
+    *   [Clubs](/eat-drink/clubs)
+    *   [Dine LA Restaurant Week](/dinela)
+    *   [Restaurants](/eat-drink/restaurants)
+    *   [Business Spotlight](/membership/business-spotlight)
+*   [Find Events](/events)
+*   [Itineraries](/visit)
+*   [Where to Stay](/hotels)
+*   [Celebrate LA Heritage](/visit)
+    *   [AAPI Heritage](/things-to-do/aapi)
+    *   [Black LA](/blackla)
+    *   [Latino Heritage](/LatinoHeritage)
+    *   [LGBTQ+](/gayla)
+*   [Tourist Information](/travel)
+*   [Meetings](/meetla)
+*   [About LA Tourism](/business)
+    *   [Travel Trade](/travel-trade)
+    *   [Membership](/membership)
+    *   [Business Spotlight](/membership/business-spotlight)
+    *   [Media](/media)
+    *   [Research](/research)
+    *   [Careers](/business/careers)
+
+Today's must read
+
+   [![Walt Disney Concert Hall at sunset](/sites/default/files/styles/max_1920x1920_kraken/public/images/2022-11/Walt%20Disney%20Concert%20Hall%20sunset.jpeg.webp?itok=1sxOExPV&width=480&fit=bound&quality=72&auto=webp)](/things-to-do/the-best-things-to-do-in-la-this-weekend)
+
+[The Best Things to Do in L
+
+
+[2] ACTIVITY - https://secretlosangeles.com/things-to-do-november-2025/
+           26 Memorable Things To Do In Los Angeles This November 2025                                                                      
+
+![Loading...](https://secretlosangeles.com/wp-content/themes/secretmedianetwork/images/generic-animated-spinner.svg)
+
+[![Secret Los Angeles](https://offloadmedia.feverup.com/secretlosangeles.com/wp-content/uploads/2022/06/13031215/secretlosangeles.com-logo-768x63.png)](https://secretlosangeles.com)
+
+Our cities
+
+EN \- English
+
+[English](https://secretlosangeles.com/things-to-do-november-2025/)
+
+[Español](https://secretlosangeles.com/es/cosas-que-hacer-noviembre-2025/)
+
+[Deutsch](https://secretlosangeles.com/de/unternehmungen-im-november-2025/)
+
+[Français](https://secretlosangeles.com/fr/choses-a-faire-novembre-2025/)
+
+[Secret Club Club](https://the-secretclub.com/los-angeles/?utm_source=secretlosangeles&utm_medium=banner&utm_content=202511061124banner&utm_campaign=secret-club-la---page-button_lax)
+
+Subscribe
+
+*   [](https://www.facebook.com/SecretLosAngeles.sn/)
+*   [](https://twitter.com/secretla_sn)
+*   [](https://www.instagram.com/secret.losangeles/)
+*   [](https://www.youtube.com/channel/UCZlw-aRuOhbqBMYl_s5Spkg?sub_confirmation=1)
+*   [](https://www.tiktok.com/@secret.losangeles)
+
+[
+
+](https://secretlosangeles.com/profile/my-profile/)
+
+[
+
+](https://secretlosangeles.com/profile/)
+
+*   [Things To Do](https://secretlosangeles.com/things-to-do/)
+*   [Top News](https://secretlosangeles.com/top-news/)
+*   [Food & Drink](https://secretlosangeles.com/food-drink/)
+*   [Culture](https://secretlosangeles.com/culture/)
+*   [Escapes](https://secretlosangeles.com/escapes/)
+*   [Wellness & Nature](https://secretlosangeles.com/wellness-nature/)
+*   [Secret Guides](https://secretlosangeles.com/secret-guides/)
+*   [Cinema](https://secretlosangeles.com/cinema/)
+*   [Sports](https://secretlosangeles.com/sports/)
+*   [Visit Los Angeles](https://secretlosangeles.com/visit-los-angeles/)
+*   [Music](https://secretlosangeles.com/music/)
+
+Join the 
+
+
+[3] ACTIVITY - https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/
+          A Big List of Things To Do This November in L.A. \[2025\]                                                      
+
+[Skip to content](#content)
+
+[WE LIKE L.A.](https://www.welikela.com/)
+
+Navigation
+
+*   [HOME](https://www.welikela.com)
+*   [THINGS TO DO](https://www.welikela.com/losangeles/things-to-do/)
+*   [FOOD & DRINK](https://www.welikela.com/losangeles/food/)
+*   [CULTURE](https://www.welikela.com/losangeles/culture/)
+*   [NEWSLETTER](https://www.welikela.com/newsletter-sign-up/)
+*   [CONTACT US](https://www.welikela.com/contact-us/)
+*   [ABOUT US](https://www.welikela.com/about-us/)
+
+[November 1, 2025](https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/ "11:04 am") [Things To Do](https://www.welikela.com/losangeles/things-to-do/)
+
+# A Big List of Things To Do This November in L.A. \[2025\]
+
+![](https://secure.gravatar.com/avatar/f4a5a38aa6b08cb269e1da3a8a02ec89788b33f6821da004e3297662d2535be5?s=32&d=mm&r=g)Posted by [Brian Champlin and Christina Champlin](https://www.welikela.com/author/brian/?mab_v3=162358 "View all posts by Brian Champlin and Christina Champlin")
+
+[![](https://www.welikela.com/wp-content/uploads/2025/11/A-couple-strolls-through-the-Ancient-Forest-at-Enchanted-Forest-of-Light.jpg)](https://www.welikela.com/wp-content/uploads/2025/11/A-couple-strolls-through-the-Ancient-Forest-at-Enchanted-Forest-of-Light.jpg)
+
+The Ancient Forest at Enchanted Forest of Light. Photo by Kathryn Rapier
+
+Need plans to make it the best November ever in the city of angels? We’re here for the assist.
+
+In view over the next thirty days you’ll find Noche de Muertos at Grand Park, holiday lights experiences like Astra Lumina and Enchanted Forest of Light, pop-up markets including Renegade Craft and Jackalope Pasadena, an Innovation Social at the Music Center, a _Strangers Things_\-themed edition of CicLAvia, the MidCity Night Market, the LA Auto Show, and more.
+
+## Things To Do This November
+
+****M**** = Less than .5 miles from an L.A
+
+
+[4] EVENT - https://www.discoverlosangeles.com/events
+                                                          Los Angeles Events Calendar for 2025, from Festivals to Concerts | Discover Los Angeles | California  
+
+[Skip to main content](#main-content)
+
+Maskchevron-leftchevron-rightCombined Shape+icon-next-shadow+icon-prev-shadowplay-outlineplay-outlineplay-outline-white-thin-shadowplay-outlineplay-outlineregion-beach-cities-laxregion-downtownregion-hollywoodregion-valleyregion-westsideSMS
+
+Main navigation
+
+*   [Things to Do](/things-to-do)
+    *   [Attractions & Tours](/things-to-do/attractions-tours)
+    *   [Arts & Culture](/things-to-do/arts)
+    *   [Outdoors & Wellness](/things-to-do/wellness)
+    *   [Shopping](/things-to-do/shopping)
+    *   [Family](/visit/kids-family)
+    *   [Hidden Gems](/visit/hidden-gems)
+    *   [Luxury](/visit/luxury)
+    *   [Pet-Friendly](/visit/pet-friendly)
+*   [Eat & Drink](/eat-drink)
+    *   [Bars](/eat-drink/bars)
+    *   [Clubs](/eat-drink/clubs)
+    *   [Dine LA Restaurant Week](/dinela)
+    *   [Restaurants](/eat-drink/restaurants)
+    *   [Business Spotlight](/membership/business-spotlight)
+*   [Find Events](/events)
+*   [Itineraries](/visit)
+*   [Where to Stay](/hotels)
+*   [Celebrate LA Heritage](/visit)
+    *   [AAPI Heritage](/things-to-do/aapi)
+    *   [Black LA](/blackla)
+    *   [Latino Heritage](/LatinoHeritage)
+    *   [LGBTQ+](/gayla)
+*   [Tourist Information](/travel)
+*   [Meetings](/meetla)
+*   [About LA Tourism](/business)
+    *   [Travel Trade](/travel-trade)
+    *   [Membership](/membership)
+    *   [Business Spotlight](/membership/business-spotlight)
+    *   [Media](/media)
+    *   [Research](/research)
+    *   [Careers](/business/careers)
+
+Today's must read
+
+   [![Walt Disney Concert Hall at sunset](/sites/default/files/styles/max_1920x1920_kraken/public/images/2022-11/Walt%20Disney%20Concert%20Hall%20sunset.jpeg.webp?itok=1sxOExPV&width=480&fit=bound&quality=72&auto=webp)](/things-to-do/the-best-things-to-do-in-la-this-weekend)
+
+[The Best Things to Do in L
+
+
+[5] EVENT - https://www.groundfloorclub.com/events/
+     Events - Groundfloor                                                   
+
+[Skip to content](#primary)
+
+[](/)
+
+[Try Us For Free ![](https://www.groundfloorclub.com/wp-content/themes/groundfloor/media/icons/arrow.svg)](https://www.groundfloorclub.com/book-a-tour/) 
+
+*   [Home](https://www.groundfloorclub.com/)
+*   [Membership & Pricing](https://www.groundfloorclub.com/membership/)
+*   Events
+    *   Upcoming
+        *   [Los Angeles](https://groundfloorclub.com/event-single/?id=wGM6KuVci_)
+        *   [Oakland](https://groundfloorclub.com/event-single/?id=wGM6KuVci_)
+        *   [San Francisco](https://groundfloorclub.com/event-single/?id=1tBc22LUo0)
+    *   [San Rafael](https://groundfloorclub.com/event-single/?id=hEQJSxDxLZ)
+    *   [Calendar](https://www.groundfloorclub.com/events/)
+    *   [Venue Rental](https://airtable.com/appHgN4f54ESmYvvP/shr57vR8Bbnvaqm9G)
+*   [Locations](https://www.groundfloorclub.com/locations/)
+*   [About](https://www.groundfloorclub.com/about/)
+*   [Private Office – LA](https://tally.so/r/3Egj2l)
+*   [Contact Us](https://www.groundfloorclub.com/contact/)
+
+[Try Us For Free ![](https://www.groundfloorclub.com/wp-content/themes/groundfloor/media/icons/arrow.svg)](https://www.groundfloorclub.com/book-a-tour/) 
+
+#### Events
+
+Groundfloor membership gives access to a huge variety of events and experiences ranging from wellness retreats to cooking classes and comedy shows – and everything in between.
+
+*   [Los Angeles](#club-4)
+*   [Oakland](#club-2)
+*   [San Francisco](#club-1)
+*   [San Rafael](#club-3)
+*   [San Clemente](#club-5)
+
+All
+
+Social
+
+Wellness
+
+![](https://gfc-media.s3.us-west-1.amazonaws.com/0zu5u6t9kuqa.jpg)
+
+Nov 23 2025 12:15 pm
+
+Los Angeles, CA
+
+### GTFO: The Getty Center
+
+✨ Museums visits are fun when done right! ✨  
+Let’s get together to eat, drink and explore art! All while admiring beautiful views of the city.  
+  
+⌚️Schedule for the day:  
+  
+🕛 12:15 Arrival and finding each other after taking the tram up from the parkin
+
+
+[6] EVENT - https://www.eventbrite.com/e/women-of-wellness-group-hike-tickets-1967701907374
+                                                                     Women of Wellness group hike Tickets, Fri, Nov 28, 2025 at 7:00 AM | Eventbrite                       
+
+[_ Eventbrite_](https://www.eventbrite.com/)[_Eventbrite_](https://www.eventbrite.com/)
+
+*   [Find my tickets](https://www.eventbrite.com/signin/signup/?referrer=%2Fmytickets)
+*   [Log In](https://www.eventbrite.com/signin/?referrer=%2Fe%2F1967701907374%2F%3Flang%3Den-us%26locale%3Den_US%26status%3D30%26view%3Dlisting)
+*   [Sign Up](https://www.eventbrite.com/signin/signup/?referrer=%2Fe%2F1967701907374%2F%3Flang%3Den-us%26locale%3Den_US%26status%3D30%26view%3Dlisting)
+*   *   [Find Events](https://www.eventbrite.com/d/local/events/)
+    *   Create Events
+        *   Solutions
+            Solutions*   [Event Ticketing](https://www.eventbrite.com/organizer/features/sell-tickets/)
+            *   [Event Marketing Platform](https://www.eventbrite.com/organizer/features/event-marketing-platform/)
+            *   [Eventbrite Ads](https://www.eventbrite.com/organizer/features/eventbrite-ads/)
+            *   [Payments](https://www.eventbrite.com/organizer/features/event-payment/)
+        *   Industry
+            Industry*   [Music](https://www.eventbrite.com/organizer/event-industry/music/)
+            *   [Food & Beverage](https://www.eventbrite.com/organizer/event-industry/food-drink-event-ticketing/)
+            *   [Performing Arts](https://www.eventbrite.com/organizer/event-industry/performing-arts/)
+            *   [Charity & Causes](https://www.eventbrite.com/organizer/event-type/npo/)
+            *   [Retail](https://www.eventbrite.com/organizer/event-format/host-retail-events/)
+        *   Event Types
+            Event Types*   [Concerts](https://www.eventbrite.com/organizer/event-type/music-venues/)
+            *   [Classes & Workshops](https://www.eventbrite.com/organizer/event-type/create-a-workshop/)
+            *   [Festivals & Fairs](https://www.eventbrite.com/organizer/event-type/festiv
+
+Return ONLY valid JSON array with exactly 10-20 items.

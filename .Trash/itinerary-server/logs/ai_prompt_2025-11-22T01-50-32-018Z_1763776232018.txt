@@ -1,0 +1,378 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Parties, Theater, E-Sports in Des Moines, IA.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.catchdesmoines.com/events/
+  Greater Des Moines Events | Find Sports, Concerts & Festivals                                                                 
+
+ 
+
+![Catch Des Moines](/includes/public/assets/shared/logo.svg)
+
+Your browser is not supported for this experience.  
+We recommend using Chrome, Firefox, Edge, or Safari.
+
+[Skip navigation](#slideshow-container) [Skip to main content](#main-content)
+
+[![Catch Des Moines](/includes/public/assets/shared/logos/logo.svg)](https://www.catchdesmoines.com/)
+
+[Visitors](/) [Planners](/meeting-planners/)
+
+[Things To Do](/things-to-do/)
+
+[Events](/events/)
+
+[Food & Drink](/food-drink/)
+
+[Blog](https://www.catchdesmoines.com/blog/)
+
+[Places To Stay](/places-to-stay/)
+
+[Plan](/plan/)
+
+[Things To Do](/things-to-do/)
+
+[Events](/events/)
+
+[Food & Drink](/food-drink/)
+
+[Blog](https://www.catchdesmoines.com/blog/)
+
+[Places To Stay](/places-to-stay/)
+
+[Plan](/plan/)
+
+[Meeting Planners](/meeting-planners/)
+
+[Why DSM](/why-dsm/)
+
+[Sports Planners](/sports-planners/)
+
+[Group Travel](/group-travel/)
+
+[Submit RFP](/submit-rfp/)
+
+[Meeting Planners](/meeting-planners/)
+
+[Why DSM](/why-dsm/)
+
+[Sports Planners](/sports-planners/)
+
+[Group Travel](/group-travel/)
+
+[Submit RFP](/submit-rfp/)
+
+  
+
+[VISITORS](/)
+
+[PLANNERS](/meeting-planners/)
+
+[Contact](/contact/)
+
+[About](/about-us/)
+
+[Media](/media/)
+
+[Partners](/partners/)
+
+[Volunteer](/volunteer/)
+
+[Privacy Policy](/privacy-policy/)
+
+ 
+
+*   [Home /](/)
+*   [Events /](/events/)
+
+Share
+
+ 
+
+# Greater Des Moines Events
+
+Make your social calendar more eventful. From farmers’ markets and foodie festivals to concerts and sporting events, our events calendar is the best resource around for finding fun in Greater Des Moines. Sort by event category or date, and bookmark this page to map out future adventures!
+
+[![Prairie Meadows – Events Banner Ad](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_200,q_75,w_1000/v1/clients/desmoines/Things_To_Do_Prairie_Meadows_FavoritePlaceToPlay_1000x200px_3909977f-ba7b-47
+
+
+[2] ACTIVITY - https://allevents.in/des-moines/november
+  Events & Things To Do in Des Moines in November 2025 | AllEvents.in                                                   
+
+Open Menu
+
+*   [
+    
+    Des Moines Change City](https://allevents.in/des-moines)
+*   [
+    
+    Login](#)
+
+*   Host Control
+    
+*   [
+    
+    Create an event](https://allevents.in/manage/create.php?ref=topbar-dropdown)
+*   [
+    
+    Manage events](https://allevents.in/pages/event-listing?ref=topbar-dropdown)
+
+*   [
+    
+    Get the AllEventsAppNew](https://play.google.com/store/apps/details?id=com.amitech.allevents&utm_source=Mobile_topbar&utm_medium=topbar&utm_campaign=topbar)
+*   [
+    
+    Need help?](https://allevents.in/pages/support?ref=topbar-dropdown)
+
+  [![AllEvents logo](https://cdn2.allevents.in/media-kit/svg/ae-logo-vector.svg "AllEvents") ![AllEvents logo](https://allevents.in/img/ae-logo-website-v2.svg "AllEvents")](https://allevents.in/des-moines)
+
+Des Moines
+
+[Create Event](https://allevents.in/manage/create.php?ref=category-buckets-topbar) [](https://allevents.in/recommended?ref=category-buckets-topbar "Recommended Events For You") ![User Profile](https://cdn2.allevents.in/transup/ab/ced64bf76d429aaa513418ff72f873/profile.png) Sign in
+
+*   [
+    
+    Chat with AI Assistant](#)
+*   [
+    
+    Support Centre](https://support.allevents.in/)
+*   [
+    
+    Feedback & Suggestions](#)
+
+Open App
+
+    
+
+*   [All](https://allevents.in/des-moines/all "All events in Des Moines")
+*   *   [Music](https://allevents.in/des-moines/music "Music Events in Des Moines")
+    *   [Concerts](https://allevents.in/des-moines/concerts "Concerts in Des Moines")
+    *   [Parties & Nightlife](https://allevents.in/des-moines/parties "Nightlife & Parties in Des Moines")
+    *   [Performances](https://allevents.in/des-moines/performances "Live Performances in Des Moines")
+    *   [Comedy](https://allevents.in/des-moines/comedy "Comedy Shows and Standup Events in Des Moines")
+    *   [Dance](https://allevents.in/des-moines/dance "Dance Workshops, Flashmobs,
+
+
+[3] ACTIVITY - https://desmoinesmom.com/things-to-do-in-des-moines-in-november/
+       Things to do in Des Moines in November 2025                                                                         
+
+[Facebook](https://www.facebook.com/desmoinesmom "Facebook") [Instagram](https://www.instagram.com/desmoinesmom "Instagram") [Pinterest](https://www.pinterest.com/desmoines_mom "Pinterest") [Twitter](https://twitter.com/desmoines_mom "Twitter")
+
+*   [Things to Do](https://desmoinesmom.com/events/)
+    *   [Visitor’s Guide to Des Moines](https://desmoinesmom.com/visitors-guide-to-des-moines/)
+    *   [Des Moines Parks](https://desmoinesmom.com/des-moines-parks/)
+    *   [Fall Bucket List](https://desmoinesmom.com/des-moines-fall-bucket-list-2/)
+    *   [70+ Date Ideas](https://desmoinesmom.com/date-ideas-des-moines/)
+    *   [Things to do Outside](https://desmoinesmom.com/26-places-to-go-outside-in-des-moines/)
+    *   [Guide to Family Fun](https://desmoinesmom.com/des-moines-guide-2/)
+    *   [Where Kids Eat Free](https://desmoinesmom.com/kids-eat-free/)
+    *   [Where to Donate Items](https://desmoinesmom.com/where-to-donate-items-in-des-moines/)
+    *   [Must-See Murals](https://desmoinesmom.com/murals-in-des-moines/)
+    *   [10 Great Patios](https://desmoinesmom.com/10-great-patios-in-des-moines/)
+    *   [15 Favorite Coffee Shops](https://desmoinesmom.com/des-moines-coffee-shops/)
+    *   [Guide to Libraries](https://desmoinesmom.com/libraries-in-des-moines-area/)
+*   [In + Around Des Moines](https://desmoinesmom.com/category/in-around-des-moines/)
+*   [Topics](#)
+    *   [Activities](https://desmoinesmom.com/category/activities/)
+    *   [Ages + Stages](https://desmoinesmom.com/category/ages-stages/)
+    *   [Education + School](https://desmoinesmom.com/category/education/)
+    *   [Fashion + Style](https://desmoinesmom.com/category/fashion-and-style/)
+    *   [Food + Recipes](https://desmoinesmom.com/category/food-recipes/)
+    *   [For Mom](https://desmoinesmom.com/category/for-mom/)
+    *   [Health + Wellness](https://desmoinesmom.com
+
+
+[4] EVENT - https://www.catchdesmoines.com/events/
+  Greater Des Moines Events | Find Sports, Concerts & Festivals                                                                 
+
+ 
+
+![Catch Des Moines](/includes/public/assets/shared/logo.svg)
+
+Your browser is not supported for this experience.  
+We recommend using Chrome, Firefox, Edge, or Safari.
+
+[Skip navigation](#slideshow-container) [Skip to main content](#main-content)
+
+[![Catch Des Moines](/includes/public/assets/shared/logos/logo.svg)](https://www.catchdesmoines.com/)
+
+[Visitors](/) [Planners](/meeting-planners/)
+
+[Things To Do](/things-to-do/)
+
+[Events](/events/)
+
+[Food & Drink](/food-drink/)
+
+[Blog](https://www.catchdesmoines.com/blog/)
+
+[Places To Stay](/places-to-stay/)
+
+[Plan](/plan/)
+
+[Things To Do](/things-to-do/)
+
+[Events](/events/)
+
+[Food & Drink](/food-drink/)
+
+[Blog](https://www.catchdesmoines.com/blog/)
+
+[Places To Stay](/places-to-stay/)
+
+[Plan](/plan/)
+
+[Meeting Planners](/meeting-planners/)
+
+[Why DSM](/why-dsm/)
+
+[Sports Planners](/sports-planners/)
+
+[Group Travel](/group-travel/)
+
+[Submit RFP](/submit-rfp/)
+
+[Meeting Planners](/meeting-planners/)
+
+[Why DSM](/why-dsm/)
+
+[Sports Planners](/sports-planners/)
+
+[Group Travel](/group-travel/)
+
+[Submit RFP](/submit-rfp/)
+
+  
+
+[VISITORS](/)
+
+[PLANNERS](/meeting-planners/)
+
+[Contact](/contact/)
+
+[About](/about-us/)
+
+[Media](/media/)
+
+[Partners](/partners/)
+
+[Volunteer](/volunteer/)
+
+[Privacy Policy](/privacy-policy/)
+
+ 
+
+*   [Home /](/)
+*   [Events /](/events/)
+
+Share
+
+ 
+
+# Greater Des Moines Events
+
+Make your social calendar more eventful. From farmers’ markets and foodie festivals to concerts and sporting events, our events calendar is the best resource around for finding fun in Greater Des Moines. Sort by event category or date, and bookmark this page to map out future adventures!
+
+[![Prairie Meadows – Events Banner Ad](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_200,q_75,w_1000/v1/clients/desmoines/Things_To_Do_Prairie_Meadows_FavoritePlaceToPlay_1000x200px_3909977f-ba7b-47
+
+
+[5] EVENT - https://www.eventbrite.com/d/ia--west-des-moines/november-22/
+Discover November 22 Events & Activities in West des Moines, IA | Eventbrite                                                                   
+
+Your version of Internet Explorer is not longer supported. Please [upgrade your browser](/support/articles/en_US/Troubleshooting/how-to-troubleshoot-internet-browser-issues).
+
+[_ Eventbrite_](https://www.eventbrite.com/)[_Eventbrite_](https://www.eventbrite.com/)
+
+*   [Find my tickets](https://www.eventbrite.com/signin/signup/?referrer=%2Fmytickets)
+*   [Log In](https://www.eventbrite.com/signin/?referrer=%2Fd%2Fia--west-des-moines%2Fnovember-22%2F)
+*   [Sign Up](https://www.eventbrite.com/signin/signup/?referrer=%2Fd%2Fia--west-des-moines%2Fnovember-22%2F)
+*   *   [Find Events](https://www.eventbrite.com/d/local/events/)
+    *   Create Events
+        *   Solutions
+            Solutions*   [Event Ticketing](https://www.eventbrite.com/organizer/features/sell-tickets/)
+            *   [Event Marketing Platform](https://www.eventbrite.com/organizer/features/event-marketing-platform/)
+            *   [Eventbrite Ads](https://www.eventbrite.com/organizer/features/eventbrite-ads/)
+            *   [Payments](https://www.eventbrite.com/organizer/features/event-payment/)
+        *   Industry
+            Industry*   [Music](https://www.eventbrite.com/organizer/event-industry/music/)
+            *   [Food & Beverage](https://www.eventbrite.com/organizer/event-industry/food-drink-event-ticketing/)
+            *   [Performing Arts](https://www.eventbrite.com/organizer/event-industry/performing-arts/)
+            *   [Charity & Causes](https://www.eventbrite.com/organizer/event-type/npo/)
+            *   [Retail](https://www.eventbrite.com/organizer/event-format/host-retail-events/)
+        *   Event Types
+            Event Types*   [Concerts](https://www.eventbrite.com/organizer/event-type/music-venues/)
+            *   [Classes & Workshops](https://www.eventbrite.com/organizer/event-type/create-a-workshop/)
+            *   [Festivals &
+
+
+[6] EVENT - https://khak.com/november-2025-events-eastern-iowa/
+A Huge List of November 2025 Events Across Eastern Iowa                                  
+
+[Skip to main content](#main-content)[Skip to site footer](#site-footer)
+
+*   TRENDING:
+*   [WIN: $500 Target Gift Card](/right-on-target-2025)
+*   [Seize The Deal](https://www.seizethedeal.com/cities/cedar-rapids)
+*   [Brain & Courtlin Listener Lunch](/lunch/)
+*   [First Responder Friday](/were-now-honoring-heroes-with-98-1-khaks-first-responder-friday/)
+*   [Brain and Courtlin Podcast](/introducing-the-brain-and-courtlin-in-the-morning-podcast-listen/)
+*   [Download Free KHAK App](/app/)
+*   [Closings/Delays](https://www.kcrg.com/weather/closings/)
+
+[![98.1 KHAK](//townsquare.media/site/675/files/2017/11/khakfm-logo3.png)](/)
+
+*   [Home](/)
+*   [On-Air](/djs)
+    *   [All DJs](/djs)
+    *   [Schedule](/shows)
+    *   [Ryan "Brain" Brainard](/author/rbrainard/)
+    *   [Courtlin](/author/courtlin/)
+    *   [Jess](/author/jess/)
+    *   [Johnny Marks](/author/johnnymarks/)
+    *   [Taste Of Country Nights](/show/taste-of-country-nights/)
+    *   [Taste of Country Weekends](/author/jess/)
+    *   [Brett Alan](/author/balan/)
+*   [Listen](/listen-live)
+    *   [Listen Live](/listen-live)
+    *   [Mobile App](/app/)
+    *   [Alexa](/alexa/)
+    *   [Google Home](/googlehome/)
+    *   [On Demand](/radio-on-demand)
+    *   [Recently Played](/playlist)
+*   [App](/app)
+    *   [Download iOS](http:///download/ios)
+    *   [Download Android](http://download/android)
+*   [Win Stuff](/vip)
+    *   [On Air Contests](/)
+        *   [Are You Smarter Than Brain's Kids?](/are-you-smarter-than-brains-kids/)
+    *   [Listener Lunch With Brain & Courtlin](/lunch/)
+    *   [First Responder Friday](/were-now-honoring-heroes-with-98-1-khaks-first-responder-friday/)
+    *   [Sign Up](/registration)
+    *   [Contest Rules](/townsquare-media-cedar-rapids-general-contest-rules/)
+    *   [Contest Support](http://help)
+*   [Events](/category/events/)
+    *   [Live Broadcasts](/events-cedar-rapids/search/
+
+Return ONLY valid JSON array with exactly 10-20 items.

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Fort Worth Beach Day",
+        "type": "activity",
+        "location": "3000 E 4th St, Fort Worth, TX 76111",
+        "coordinates": {"lat": 32.7697, "lng": -97.3486},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T12:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Beach Manager", "email": "info@fortworthbeach.com", "phone": "817-555-0123"},
+        "description": "Enjoy a relaxing day at Fort Worth Beach with swimming and sunbathing.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Craft Fair at the Fort",
+        "type": "event",
+        "location": "4200 S Freeway, Fort Worth, TX 76115",
+        "coordinates": {"lat": 32.6852, "lng": -97.3475},
+        "start_time": "2025-11-22T13:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 240,
+        "contact": {"name": "Event Coordinator", "email": "craftfair@fortworth.com", "phone": "817-555-0199"},
+        "description": "Explore local crafts and handmade goods from various artisans.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Mental Health Workshop",
+        "type": "event",
+        "location": "1000 10th Ave, Fort Worth, TX 76104",
+        "coordinates": {"lat": 32.7321, "lng": -97.3532},
+        "start_time": "2025-11-22T14:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Mental Health Org", "email": "contact@mentalhealth.org", "phone": "817-555-0345"},
+        "description": "Join us for a workshop focused on mental health awareness and resources.",
+        "url": "https://www.eventbrite.com/"
+    },
+    {
+        "name": "Fort Worth Startup Pitch Night",
+        "type": "event",
+        "location": "1500 Houston St, Fort Worth, TX 76102",
+        "coordinates": {"lat": 32.7451, "lng": -97.3294},
+        "start_time": "2025-11-22T18:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Startup Hub", "email": "info@startupfw.com", "phone": "817-555-0555"},
+        "description": "Local startups pitch their ideas to investors and the community.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Board Game Night at the Library",
+        "type": "event",
+        "location": "500 W 3rd St, Fort Worth, TX 76102",
+        "coordinates": {"lat": 32.7543, "lng": -97.3299},
+        "start_time": "2025-11-22T19:00:00.000Z",
+        "end_time": "2025-11-22T22:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Library Staff", "email": "library@fortworth.com", "phone": "817-555-0888"},
+        "description": "Join fellow board game enthusiasts for an evening of fun and games.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Swimming at the Fort Worth Community Pool",
+        "type": "activity",
+        "location": "6001 W 5th St, Fort Worth, TX 76107",
+        "coordinates": {"lat": 32.7552, "lng": -97.4270},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Pool Manager", "email": "info@fortworthpool.com", "phone": "817-555-0666"},
+        "description": "Enjoy a refreshing swim to start your Sunday.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Networking Brunch for Startups",
+        "type": "event",
+        "location": "123 Main St, Fort Worth, TX 76102",
+        "coordinates": {"lat": 32.7498, "lng": -97.3275},
+        "start_time": "2025-11-23T11:30:00.000Z",
+        "end_time": "2025-11-23T13:30:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Startup Network", "email": "network@startupfw.com", "phone": "817-555-0777"},
+        "description": "Network with local entrepreneurs and share ideas over brunch.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Art and Craft Workshop",
+        "type": "event",
+        "location": "2001 S University Dr, Fort Worth, TX 76109",
+        "coordinates": {"lat": 32.7104, "lng": -97.3645},
+        "start_time": "2025-11-23T14:00:00.000Z",
+        "end_time": "2025-11-23T16:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Art Center", "email": "info@fortworthart.com", "phone": "817-555-0450"},
+        "description": "Get creative with a hands-on art and craft session.",
+        "url": "https://www.fortworth.com/"
+    },
+    {
+        "name": "Evening Yoga for Mental Wellness",
+        "type": "event",
+        "location": "3500 Camp Bowie Blvd, Fort Worth, TX 76107",
+        "coordinates": {"lat": 32.7383, "lng": -97.3806},
+        "start_time": "2025-11-23T17:00:00.000Z",
+        "end_time": "2025-11-23T18:00:00.000Z",
+        "duration_minutes": 60,
+        "contact": {"name": "Yoga Instructor", "email": "yoga@fortworth.com", "phone": "817-555-0922"},
+        "description": "Relax and unwind with an evening yoga session focusing on mental wellness.",
+        "url": "https://www.eventbrite.com/"
+    },
+    {
+        "name": "Fort Worth Startup Showcase",
+        "type": "event",
+        "location": "111 W 4th St, Fort Worth, TX 76102",
+        "coordinates": {"lat": 32.7480, "lng": -97.3289},
+        "start_time": "2025-11-23T19:00:00.000Z",
+        "end_time": "2025-11-23T21:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Startup Showcase Team", "email": "showcase@fortworth.com", "phone": "817-555-0999"},
+        "description": "Attend this showcase to see the latest innovations from local startups.",
+        "url": "https://www.fortworth.com/"
+    }
+]

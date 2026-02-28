@@ -1,0 +1,445 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Parties, Gaming in Newark, NJ.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.tripadvisor.com/Attractions-g46671-Activities-Newark_New_Jersey.html
+THE 15 BEST Things to Do in Newark (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+[Rewards](/Rewards)
+
+Discover
+
+Trips
+
+Review
+
+USD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g46671-Activities-Newark_New_Jersey.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[Newark](/ClientLink?value=MjBRXy9Ub3VyaXNtLWc0NjY3MS1OZXdhcmtfTmV3X0plcnNleS1WYWNhdGlvbnMuaHRtbF81eXM=)[Hotels](/ClientLink?value=RTBUXy9Ib3RlbHMtZzQ2NjcxLU5ld2Fya19OZXdfSmVyc2V5LUhvdGVscy5odG1sXzJ4Rw==)[Things to Do](/ClientLink?value=TjZ2Xy9BdHRyYWN0aW9ucy1nNDY2NzEtQWN0aXZpdGllcy1OZXdhcmtfTmV3X0plcnNleS5odG1sX3BVUA==)[Restaurants](/ClientLink?value=b2dsXy9SZXN0YXVyYW50cy1nNDY2NzEtTmV3YXJrX05ld19KZXJzZXkuaHRtbF9OSk0=)[Cruises](/Cruises)[Forums](/ClientLink?value=d2FSXy9TaG93Rm9ydW0tZzQ2NjcxLU5ld2Fya19OZXdfSmVyc2V5Lmh0bWxfa0sx)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[New Jersey (NJ)](/Tourism-g28951-New_Jersey-Vacations.html)
+
+[Newark](/Tourism-g46671-Newark_New_Jersey-Vacations.html)
+
+Things to Do in Newark
+
+# 
+
+Things to Do in Newark, NJ - Newark Attractions
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/e2/e8/dc/branch-brook-park-during.jpg?w=700&h=400&s=1)
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/e2/e8/dc/branch-brook-park-during.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in Newark
+
+Check out must-see sights and activities:  
+[The Newark Museum of Art](/Attraction_Review-g46671-d217958-Reviews-The_Newark_Museum_of_Art-Newark_New_Jersey.html), [Branch Brook Park](/Attraction_Review-g46671-d502865-Reviews-Branch_Brook_Park-Newark_New_Jersey.html), [City Tours](/Attractions-g46671-Activities-c42-t224-Newark_New_Jersey.html), [Parks](/Attractions-g46671-Activities-c57-t70-Newark_New_Jersey.html). For pe
+
+
+[2] ACTIVITY - https://www.newarkhappening.com/events/calendar/?startDate=11%2F21%2F2025&endDate=11%2F23%2F2025&sort=title
+  Newark, NJ Events Calendar | Annual Events, Festivals & Fairs                                          
+
+[Groups](/groups/)
+
+*   [Quick Facts](/groups/quick-facts/)
+    
+*   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+    
+*   [Sports Groups](/groups/sports-groups/)
+    
+*   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+    
+*   [Weddings & Social Events](/groups/weddings/)
+    
+*   [Group RFP](/groups/rfp/)
+    
+
+[Film Newark](https://www.newarkhappening.com/film/)
+
+[Opportunities](https://www.newarkhappening.com/opportunities/)
+
+*   [Groups](/groups/ "Groups")
+    
+    *   [Quick Facts](/groups/quick-facts/)
+        
+    *   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+        
+    *   [Sports Groups](/groups/sports-groups/)
+        
+    *   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+        
+    *   [Weddings & Social Events](/groups/weddings/)
+        
+    *   [Group RFP](/groups/rfp/)
+        
+*   [Film Newark](https://www.newarkhappening.com/film/ "Film Newark")
+    
+*   [Opportunities](https://www.newarkhappening.com/opportunities/ "Opportunities")
+    
+
+ 
+
+[](https://www.facebook.com/NewarkHappening/)[](https://twitter.com/NewarkHappening/)[](http://www.pinterest.com/newarkhappening/boards/)[](https://www.youtube.com/channel/UCVSTmuSMIj15SHPFDMT5tsQ)[](https://instagram.com/newarkhappening/)
+
+[![](https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,h_62,q_75,w_220/v1/clients/newark/B3E6D108-6831-45CE-89B0-1F834D79FD9F-2-_2c5bd4d4-f0ae-5102-0972ee4042eba93d.png)](https://www.newarkhappening.com/)
+
+[Events](/eve
+
+
+[3] ACTIVITY - https://www.yelp.com/search?find_desc=Fun+Places+To+Go&find_loc=Newark%2C+NJ
+        TOP 10 BEST Fun Places to Go in Newark, NJ - Updated 2025 - Yelp     
+
+[Yelp](/)
+
+Yelp for Business
+
+[
+
+Write a Review
+
+
+
+
+
+](/writeareview)
+
+Start a Project
+
+Log In
+
+Sign Up
+
+1.  [Restaurants](/search?find_desc=Restaurants&find_loc=Newark%2C+NJ)
+    
+2.  [Home & Garden](/search?find_desc=Home+%26+Garden&find_loc=Newark%2C+NJ)
+    
+3.  [Auto Services](/search?find_desc=Auto+Services&find_loc=Newark%2C+NJ)
+    
+4.  [Health & Beauty](/search?find_desc=Health+%26+Beauty&find_loc=Newark%2C+NJ)
+    
+5.  [Travel & Activities](/search?find_desc=Travel+%26+Activities&find_loc=Newark%2C+NJ)
+    
+6.  More
+    
+7.  More
+    
+
+Filters
+
+Price
+
+$$$$$$$$$$
+
+Suggested
+
+Open Now 
+
+\--:--
+
+Good for Kids
+
+Dogs Allowed
+
+Open to All
+
+Offers Military Discount
+
+Good for Groups
+
+Category
+
+Escape Games
+
+Outdoor Movies
+
+Virtual Reality Centers
+
+Amusement Parks
+
+Festivals
+
+Game Truck Rental
+
+See all
+
+Features
+
+Free Wi-Fi
+
+Open At 
+
+\--- --:--
+
+Accepts Credit Cards
+
+Request a Quote
+
+Online Booking
+
+Gender Neutral Restrooms
+
+See all
+
+Distance
+
+Bird's-eye View
+
+Driving (5 mi.)
+
+Biking (2 mi.)
+
+Walking (1 mi.)
+
+Within 4 blocks
+
+# Top 10 Best Fun Places To Go Near Newark, New Jersey
+
+Sort:Recommended
+
+All
+
+Price
+
+Open NowGood for KidsDogs AllowedOpen to AllOffers Military Discount
+
+*   ## Sponsored Results
+    
+
+*   [![Paint Me Bear](https://s3-media0.fl.yelpcdn.com/bphoto/p5XqO_jQUNhlWW1-mnP4KA/348s.jpg "Paint Me Bear")](/adredir?ad_business_id=p0UXQ8Fspg7oCNFBHtXggg&campaign_id=212459242&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fpaint-me-bear-new-york&request_id=b820c2ab5f15e698&signature=c5376caa2842a74c08976a0e18351d93b0abd1b21646ee5eadee992b626dde02&slot=0)
+    
+    ### [Paint Me Bear](/adredir?ad_business_id=p0UXQ8Fspg7oCNFBHtXggg&campaign_id=212459242&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fpaint-me-bear-new-york&request_id=b820c2ab5f15e69
+
+
+[4] EVENT - https://pdknine.com/event/looking-for-group/
+   Events for November 2025 – PDKNINE                                                                                    [Skip to content](#content "Skip to content")
+
+GAMES, COFFEE, COLLECTIBLES, & ART IN MOUNT LAUREL, NEW JERSEY
+
+*   [](https://www.facebook.com/profile.php?id=100063653284901&sk=about)
+*   [](https://www.instagram.com/pdknine/)
+*   [](https://www.tiktok.com/@pdk.nine)
+*   [](mailto:info@pdknine.com)
+
+[PDKNINE](https://pdknine.com/)
+
+Search for:  
+
+[Search](#)
+
+Menu
+
+*   [Home](https://pdknine.com/)
+*   [Cafe](https://pdknine.com/cafe/)
+*   [PARTY PACKAGES](https://pdknine.com/parties/)
+*   [Calendar](https://pdknine.com/?post_type=tribe_events&eventDisplay=month)
+*   [TABLE TOP GAMING](https://pdknine.com/table-top-gaming/)
+*   [ARTIST SPOTLIGHT](https://pdknine.com/art/)
+*   [FAQs](https://pdknine.com/faq/)
+*   [Search](#)
+
+Search for:  
+
+[Search](#)
+
+Menu
+
+*   [Home](https://pdknine.com/)
+*   [Cafe](https://pdknine.com/cafe/)
+*   [PARTY PACKAGES](https://pdknine.com/parties/)
+*   [Calendar](https://pdknine.com/?post_type=tribe_events&eventDisplay=month)
+*   [TABLE TOP GAMING](https://pdknine.com/table-top-gaming/)
+*   [ARTIST SPOTLIGHT](https://pdknine.com/art/)
+*   [FAQs](https://pdknine.com/faq/)
+*   [Search](#)
+
+![Loading Events](https://pdknine.com/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif)
+
+[« All Events](https://pdknine.com/events/)
+
+*   This event has passed.
+
+# Looking for Group
+
+## October 15, 2024 @ 6:00 pm - 9:00 pm
+
+*   [« Lorcana Ink League](https://pdknine.com/event/lorcana-ink-league-2/)
+*   [MTG: Two-Headed Giant Tournament »](https://pdknine.com/event/mtg-two-headed-giant-tournament/)
+
+Looking for people to play games with? Whether you’re flying solo or coming with friends, our **Looking for Group** event is the perfect chance to meet new gamers, play board games, and make connections for future game nights! We’ll have tables reserved with special “Looking for Group” signs, so just grab a seat,
+
+
+[5] EVENT - https://www.newarknj.gov/Calendar.aspx?EID=1030
+          Calendar • National League Conference                        
+
+[Skip to Main Content](#contentarea)
+
+         
+
+[Create a Website Account](/MyAccount/ProfileCreate) \- Manage notification subscriptions, save form progress and more.   
+
+*   [Website Sign In](/MyAccount)
+
+[![Newark New Jersey and Proud of it Homepage](/ImageRepository/Document?documentID=88)](/)
+
+1.  [Government](/27/Government)
+2.  [Departments](/159/Departments)
+3.  [Living & Visiting](/101/Living-Visiting)
+4.  [Business](/35/Business)
+5.  [How Do I...](/9/How-Do-I)
+
+ [![Search](/ImageRepository/Document?documentID=94)](/Search/Results) Search
+
+   
+
+1.  [Home](/)
+2.  Calendar
+
+  
+
+     
+
+  
+
+# Calendar
+
+View All Calendars is the default. Choose Select a Calendar to view a specific calendar. Subscribe to calendar notifications by clicking on the Notify Me® button, and you will automatically be alerted about the latest events in our community.
+
+*   [List](/)
+*   [Week](/)
+*   [Month](/)
+
+*   [](/rss.aspx#calendar "View RSS Feeds")
+*   [Subscribe to iCalendar](/common/modules/iCalendar/iCalendar.aspx?feed=calendar&eventID=1030)
+*   [Print](/calendar.aspx?PREVIEW=YES&EID=1030)
+*   [Notify Me®](/list.aspx?Mode=Subscribe#calendar)
+*   [Find a Facility](/Facilities)
+
+## Search Calendars by:
+
+Start Date 
+
+End Date 
+
+Enter Search Terms 
+
+ Show Past Events [Select a Calendar](#)
+
+Select Calendar/Calendars to filter
+
+1.   All Calendars
+2.   Events
+4.   Municipal Meetings
+6.   North Ward
+8.   RCASS Sign-Up Programs
+10.   Recreation, Cultural Affairs & Senior Services
+12.   South Ward
+14.   West Ward
+
+Search 
+
+[Return to Previous](/)
+
+## Event Details
+
+View Map
+
+1.  [Google](http://maps.google.com/maps?q=, Newark, NJ 7102 "Launches a separate window containing a map provided by Google.")
+2.  [Bing](http://maps.live.com/default.aspx?where1=, Newark, NJ 7102 "Launches a separate window containing a map provided by Bing.")
+
+Date:
+
+November 19, 2025 - November 22, 2025
+
+2025-11-19T00:00:00
+
+Time:
+
+All Day
+
+
+
+[6] EVENT - https://www.newarkhappening.com/events/calendar/?skip=0&startDate=11%2F17%2F2025&endDate=11%2F23%2F2025&sort=date
+  Newark, NJ Events Calendar | Annual Events, Festivals & Fairs                                          
+
+[Groups](/groups/)
+
+*   [Quick Facts](/groups/quick-facts/)
+    
+*   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+    
+*   [Sports Groups](/groups/sports-groups/)
+    
+*   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+    
+*   [Weddings & Social Events](/groups/weddings/)
+    
+*   [Group RFP](/groups/rfp/)
+    
+
+[Film Newark](https://www.newarkhappening.com/film/)
+
+[Opportunities](https://www.newarkhappening.com/opportunities/)
+
+*   [Groups](/groups/ "Groups")
+    
+    *   [Quick Facts](/groups/quick-facts/)
+        
+    *   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+        
+    *   [Sports Groups](/groups/sports-groups/)
+        
+    *   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+        
+    *   [Weddings & Social Events](/groups/weddings/)
+        
+    *   [Group RFP](/groups/rfp/)
+        
+*   [Film Newark](https://www.newarkhappening.com/film/ "Film Newark")
+    
+*   [Opportunities](https://www.newarkhappening.com/opportunities/ "Opportunities")
+    
+
+ 
+
+[](https://www.facebook.com/NewarkHappening/)[](https://twitter.com/NewarkHappening/)[](http://www.pinterest.com/newarkhappening/boards/)[](https://www.youtube.com/channel/UCVSTmuSMIj15SHPFDMT5tsQ)[](https://instagram.com/newarkhappening/)
+
+[![](https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,h_62,q_75,w_220/v1/clients/newark/B3E6D108-6831-45CE-89B0-1F834D79FD9F-2-_2c5bd4d4-f0ae-5102-0972ee4042eba93d.png)](https://www.newarkhappening.com/)
+
+[Events](/eve
+
+Return ONLY valid JSON array with exactly 10-20 items.

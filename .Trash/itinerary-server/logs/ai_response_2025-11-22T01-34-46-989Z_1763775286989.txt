@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Dallas Arboretum & Botanical Gardens",
+        "type": "activity",
+        "location": "8525 Garland Rd, Dallas, TX 75218",
+        "coordinates": {"lat": 32.8251, "lng": -96.6882},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Dallas Arboretum",
+            "email": "info@dallasarboretum.org",
+            "phone": "(214) 515-6615"
+        },
+        "description": "Explore the beautiful gardens and seasonal displays at the Dallas Arboretum.",
+        "url": "https://www.visitdallas.com/things-to-do/attractions/dallas-arboretum-botanical-gardens/"
+    },
+    {
+        "name": "The Sixth Floor Museum at Dealey Plaza",
+        "type": "activity",
+        "location": "411 Elm St, Dallas, TX 75202",
+        "coordinates": {"lat": 32.7792, "lng": -96.8080},
+        "start_time": "2025-11-22T11:30:00.000Z",
+        "end_time": "2025-11-22T13:00:00.000Z",
+        "duration_minutes": 90,
+        "contact": {
+            "name": "Sixth Floor Museum",
+            "email": "info@jfk.org",
+            "phone": "(214) 747-6660"
+        },
+        "description": "Visit the historic site and learn about the life and legacy of President John F. Kennedy.",
+        "url": "https://www.visitdallas.com/things-to-do/attractions/sixth-floor-museum-at-dealey-plaza/"
+    },
+    {
+        "name": "Dallas Museum of Art",
+        "type": "activity",
+        "location": "1717 N Harwood St, Dallas, TX 75201",
+        "coordinates": {"lat": 32.7915, "lng": -96.8033},
+        "start_time": "2025-11-22T14:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Dallas Museum of Art",
+            "email": "info@dma.org",
+            "phone": "(214) 922-1200"
+        },
+        "description": "Discover a vast collection of art from around the world in one of the largest art museums in the U.S.",
+        "url": "https://www.visitdallas.com/things-to-do/attractions/dallas-museum-of-art/"
+    },
+    {
+        "name": "Networking Mixer at The DEC Network",
+        "type": "event",
+        "location": "311 N Market St, Dallas, TX 75202",
+        "coordinates": {"lat": 32.7804, "lng": -96.8029},
+        "start_time": "2025-11-22T17:00:00.000Z",
+        "end_time": "2025-11-22T19:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "The DEC Network",
+            "email": "info@thedec.co",
+            "phone": "(214) 306-5610"
+        },
+        "description": "Join local entrepreneurs and business professionals for an evening of networking and collaboration.",
+        "url": "https://thedec.co/"
+    },
+    {
+        "name": "Tech Talk: Innovations in Gaming",
+        "type": "event",
+        "location": "600 W 6th St, Dallas, TX 75208",
+        "coordinates": {"lat": 32.7835, "lng": -96.8014},
+        "start_time": "2025-11-22T19:30:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 90,
+        "contact": {
+            "name": "Dallas Gaming Community",
+            "email": "events@dallasgaming.com",
+            "phone": "(214) 555-0123"
+        },
+        "description": "Attend a panel discussion with industry leaders on the latest trends in gaming technology.",
+        "url": "https://www.dallasgaming.com/events"
+    },
+    {
+        "name": "Dallas Startup Week",
+        "type": "event",
+        "location": "Various Locations, Dallas, TX",
+        "coordinates": {"lat": 32.7767, "lng": -96.7970},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T17:00:00.000Z",
+        "duration_minutes": 480,
+        "contact": {
+            "name": "Dallas Startup Week",
+            "email": "info@dallasstartupweek.com",
+            "phone": "(214) 555-0145"
+        },
+        "description": "Join this week-long event featuring talks, workshops, and networking for entrepreneurs and startups.",
+        "url": "https://www.dallasstartupweek.com/"
+    },
+    {
+        "name": "Virtual Reality Gaming Experience",
+        "type": "activity",
+        "location": "1650 S 1st St, Dallas, TX 75201",
+        "coordinates": {"lat": 32.7802, "lng": -96.8058},
+        "start_time": "2025-11-23T17:30:00.000Z",
+        "end_time": "2025-11-23T19:00:00.000Z",
+        "duration_minutes": 90,
+        "contact": {
+            "name": "VR World",
+            "email": "info@vrworld.com",
+            "phone": "(214) 555-0165"
+        },
+        "description": "Experience the latest in virtual reality gaming at one of the top VR centers in Dallas.",
+        "url": "https://www.vrworld.com/"
+    },
+    {
+        "name": "Game Development Hackathon",
+        "type": "event",
+        "location": "800 S Main St, Dallas, TX 75201",
+        "coordinates": {"lat": 32.7768, "lng": -96.8003},
+        "start_time": "2025-11-23T19:30:00.000Z",
+        "end_time": "2025-11-23T21:30:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Dallas Game Developers",
+            "email": "hackathon@dallasgamedev.com",
+            "phone": "(214) 555-0187"
+        },
+        "description": "Join fellow developers for a fun and competitive hackathon focused on game creation.",
+        "url": "https://www.dallasgamedev.com/hackathon"
+    }
+]

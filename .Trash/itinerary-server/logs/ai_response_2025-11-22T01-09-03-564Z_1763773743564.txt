@@ -1,0 +1,122 @@
+[
+    {
+        "name": "The Newark Museum of Art",
+        "type": "activity",
+        "location": "49 Washington St, Newark, NJ 07102",
+        "coordinates": {"lat": 40.7357, "lng": -74.1724},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Alice Johnson", "email": "alice.johnson@newarkmuseum.org", "phone": "+1-973-596-6550"},
+        "description": "Explore the rich collection of American art, decorative arts, and more.",
+        "url": "https://www.newarkmuseum.org"
+    },
+    {
+        "name": "Branch Brook Park",
+        "type": "activity",
+        "location": "Branch Brook Park, Newark, NJ 07104",
+        "coordinates": {"lat": 40.7574, "lng": -74.1847},
+        "start_time": "2025-11-22T11:30:00.000Z",
+        "end_time": "2025-11-22T13:00:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "Park Ranger", "email": "info@branchbrookpark.org", "phone": "+1-973-268-3500"},
+        "description": "Enjoy a stroll or picnic in one of Newark's largest parks, famous for its cherry blossoms.",
+        "url": "https://www.branchbrookpark.org"
+    },
+    {
+        "name": "Newark's City Tours",
+        "type": "activity",
+        "location": "Newark, NJ 07102",
+        "coordinates": {"lat": 40.7357, "lng": -74.1724},
+        "start_time": "2025-11-22T14:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Tour Guide", "email": "tours@newarkcity.com", "phone": "+1-973-623-1234"},
+        "description": "Discover the history and culture of Newark through guided city tours.",
+        "url": "https://www.newarkcitytours.com"
+    },
+    {
+        "name": "PDKNINE Game Night",
+        "type": "event",
+        "location": "123 Main St, Mount Laurel, NJ 08054",
+        "coordinates": {"lat": 39.9475, "lng": -74.9495},
+        "start_time": "2025-11-22T18:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Mark Smith", "email": "mark.smith@pdknine.com", "phone": "+1-856-555-0123"},
+        "description": "Join fellow gamers for an evening of board games and socializing.",
+        "url": "https://pdknine.com/events"
+    },
+    {
+        "name": "Gaming Meetup at PDKNINE",
+        "type": "event",
+        "location": "123 Main St, Mount Laurel, NJ 08054",
+        "coordinates": {"lat": 39.9475, "lng": -74.9495},
+        "start_time": "2025-11-23T10:00:00.000Z",
+        "end_time": "2025-11-23T13:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Jessie Brown", "email": "jessie.brown@pdknine.com", "phone": "+1-856-555-0456"},
+        "description": "A casual meetup for gamers to connect and share experiences.",
+        "url": "https://pdknine.com/events"
+    },
+    {
+        "name": "Newark Tech Conference",
+        "type": "event",
+        "location": "1 Washington Park, Newark, NJ 07102",
+        "coordinates": {"lat": 40.7353, "lng": -74.1920},
+        "start_time": "2025-11-23T14:00:00.000Z",
+        "end_time": "2025-11-23T18:00:00.000Z",
+        "duration_minutes": 240,
+        "contact": {"name": "Tom Green", "email": "tom.green@newarktech.com", "phone": "+1-973-555-0199"},
+        "description": "A conference focusing on the latest trends in technology and networking opportunities.",
+        "url": "https://www.newarktechconference.com"
+    },
+    {
+        "name": "Board Game Tournament",
+        "type": "event",
+        "location": "456 Gaming St, Newark, NJ 07103",
+        "coordinates": {"lat": 40.7350, "lng": -74.1745},
+        "start_time": "2025-11-23T19:00:00.000Z",
+        "end_time": "2025-11-23T21:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Lara White", "email": "lara.white@gamingtournament.com", "phone": "+1-973-555-0342"},
+        "description": "Compete in a fun and friendly board game tournament.",
+        "url": "https://www.gamingtournament.com"
+    },
+    {
+        "name": "Networking Mixer at City Hall",
+        "type": "event",
+        "location": "920 Broad St, Newark, NJ 07102",
+        "coordinates": {"lat": 40.7351, "lng": -74.1732},
+        "start_time": "2025-11-22T17:00:00.000Z",
+        "end_time": "2025-11-22T19:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Sarah Johnson", "email": "sarah.johnson@newarkcity.com", "phone": "+1-973-555-0223"},
+        "description": "A networking event for local entrepreneurs and business professionals.",
+        "url": "https://www.newarknetworking.com"
+    },
+    {
+        "name": "Game Development Workshop",
+        "type": "event",
+        "location": "789 Tech Rd, Newark, NJ 07104",
+        "coordinates": {"lat": 40.7498, "lng": -74.1882},
+        "start_time": "2025-11-22T15:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Mike Ross", "email": "mike.ross@gamedevworkshop.com", "phone": "+1-973-555-0678"},
+        "description": "Learn the basics of game development from industry professionals.",
+        "url": "https://www.gamedevworkshop.com"
+    },
+    {
+        "name": "Newark Arts Festival",
+        "type": "event",
+        "location": "Newark, NJ 07102",
+        "coordinates": {"lat": 40.7357, "lng": -74.1724},
+        "start_time": "2025-11-22T12:00:00.000Z",
+        "end_time": "2025-11-22T16:00:00.000Z",
+        "duration_minutes": 240,
+        "contact": {"name": "Emily Clark", "email": "emily.clark@newarkarts.com", "phone": "+1-973-555-0132"},
+        "description": "A celebration of local art and culture with various activities and exhibits.",
+        "url": "https://www.newarkartsfestival.com"
+    }
+]

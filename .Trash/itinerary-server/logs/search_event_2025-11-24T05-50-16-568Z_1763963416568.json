@@ -1,0 +1,220 @@
+{
+  "organic": [
+    {
+      "link": "https://www.discoverlosangeles.com/events",
+      "display_link": "https://www.discoverlosangeles.com › events",
+      "title": "Los Angeles Events Calendar for 2025, from Festivals to ...",
+      "description": "The official Los Angeles event calendar is your daily guide to concerts, shows, festivals, theatre, and all the entertainment LA has to offer.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Vintage",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Fashion,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Yoga,",
+          "rank": 3
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.groundfloorclub.com/events/",
+      "display_link": "https://www.groundfloorclub.com › events",
+      "title": "Events",
+      "description": "Groundfloor membership gives access to a huge variety of events and experiences ranging from wellness retreats to cooking classes and comedy shows.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Trips,",
+          "rank": 1
+        },
+        {
+          "type": "must_include",
+          "text": "Trips,",
+          "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Los+Angeles,+CA+Road+%22Trips,%22+Meetups,+Vintage+Fashion,+Yoga,+Wellness,+Art+Galleries,+Conferences+networking+events+conferences+meetups+competitions+November+29,+2025+to+November+30,+2025&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ5t4CegQIHxAB",
+          "rank": 2
+        }
+      ],
+      "rank": 2,
+      "global_rank": 6
+    },
+    {
+      "link": "https://www.eventbrite.com/e/women-of-wellness-group-hike-tickets-1967701907374",
+      "display_link": "https://www.eventbrite.com › ... › #womenwellness",
+      "title": "Women of Wellness group hike",
+      "description": "Eventbrite - LA Women of Wellness presents Women of Wellness group hike - Friday, November 28, 2025 at Mineral Wells Picnic Area, Los Angeles, CA.",
+      "rank": 3,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.timeout.com/los-angeles/things-to-do/november-events-calendar",
+      "display_link": "https://www.timeout.com › los-angeles › things-to-do",
+      "title": "November 2025 events calendar for Los Angeles",
+      "description": "Plan your month with our November 2025 events calendar of the best activities, including concerts and free things to do.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "4 days ago",
+          "rank": 1
+        }
+      ],
+      "rank": 4,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.sdfoundation.org/community-impact/regional-affiliates/rancho-bernardo-community-foundation/",
+      "display_link": "https://www.sdfoundation.org › ... › Regional Affiliates",
+      "title": "Rancho Bernardo Community Foundation",
+      "description": "Rancho Bernardo Community Foundation supports nonprofits, projects and programs dedicated to improving the lives of those who live in the community.",
+      "rank": 5,
+      "global_rank": 9
+    },
+    {
+      "link": "https://educationaltravel.travel/conference/",
+      "display_link": "https://educationaltravel.travel › conference",
+      "title": "ETC's Annual Conference",
+      "description": "The ETC conference is a professional development opportunity with dynamic idea exchange, mindful conversations, collaborations, networking, and social events. ...",
+      "rank": 6,
+      "global_rank": 10
+    },
+    {
+      "link": "https://corpsnetwork.org/conference-events/national-conference/",
+      "display_link": "https://corpsnetwork.org › conference-events › national...",
+      "title": "National Conference",
+      "description": "With feedback from more than 70 leaders across the country, we have decided that #CorpsCon26 will be a virtual event during March 24-25.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Road",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Meetups,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Vintage",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Fashion,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Wellness,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "meetups",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 7
+        }
+      ],
+      "rank": 7,
+      "global_rank": 11
+    },
+    {
+      "link": "https://www.velasvallarta.com/",
+      "display_link": "https://www.velasvallarta.com",
+      "title": "Velas Vallarta: All Inclusive Family Resort in Puerto Vallarta",
+      "description": "Located in the heart of Marina Vallarta, one of the region's most vibrant areas, Velas Vallarta is steps away from top attractions on the Mexican Pacific Coast.",
+      "rank": 8,
+      "global_rank": 12
+    },
+    {
+      "link": "https://www.yelp.com/search?find_desc=Group+Activities&find_loc=Los+Angeles%2C+CA",
+      "display_link": "https://www.yelp.com › Active Life",
+      "title": "TOP 10 BEST Group Activities in Los Angeles, CA",
+      "description": "Top 10 Best Group Activities Near Los Angeles, California · 1. Six Taste Food Tours · 2. Player One VR World · 3. AirballingLA · 4. Art Rebel Studio · 5. Fulcrum ...",
+      "extensions": [
+        {
+          "type": "rating",
+          "rating": 4.6,
+          "reviews_cnt": 17021,
+          "rank": 1
+        }
+      ],
+      "rank": 9,
+      "global_rank": 13
+    },
+    {
+      "link": "https://cityofpalmdaleca.gov/CivicAlerts.aspx?ARC=L&What=2&CC=2&ItemID=2059&From=AID%3D2059",
+      "display_link": "https://cityofpalmdaleca.gov › CivicAlerts",
+      "title": "News Flash",
+      "description": "MA: Road Construction Update - Week of March 30 - April 5, 3/26/2020 1:39 PM, 3/28/2022 12:00 AM. Item Graphic Virtual Recreation Activities Offered by the ...",
+      "rank": 10,
+      "global_rank": 14
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "text": "Events in LA in November 2025",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Events+in+LA+in+November+2025&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAg9EAE",
+      "rank": 1,
+      "global_rank": 15
+    },
+    {
+      "text": "Los Angeles November events",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Los+Angeles+November+events&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhXEAE",
+      "rank": 2,
+      "global_rank": 16
+    },
+    {
+      "text": "Free events in Los Angeles this weekend",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Free+events+in+Los+Angeles+this+weekend&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhYEAE",
+      "rank": 3,
+      "global_rank": 17
+    },
+    {
+      "text": "Free events Los Angeles today",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Free+events+Los+Angeles+today&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhZEAE",
+      "rank": 4,
+      "global_rank": 18
+    },
+    {
+      "text": "Los angeles june events",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Los+angeles+june+events&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhaEAE",
+      "rank": 5,
+      "global_rank": 19
+    },
+    {
+      "text": "Events in Los Angeles July 2025",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Events+in+Los+Angeles+July+2025&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhUEAE",
+      "rank": 6,
+      "global_rank": 20
+    },
+    {
+      "text": "Festivals in Los Angeles this weekend",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Festivals+in+Los+Angeles+this+weekend&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhJEAE",
+      "rank": 7,
+      "global_rank": 21
+    },
+    {
+      "text": "Free events in Los Angeles today for families",
+      "link": "https://www.google.com/search?sca_esv=40968150e120a79c&hl=en&q=Free+events+in+Los+Angeles+today+for+families&sa=X&ved=2ahUKEwizrfnni4qRAxXnTTABHTr7IfUQ1QJ6BAhEEAE",
+      "rank": 8,
+      "global_rank": 22
+    }
+  ],
+  "ai_overview": null
+}

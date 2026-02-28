@@ -1,0 +1,316 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Parties, Opera, E-Sports, Book Clubs in Sioux Falls, SD.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.tripadvisor.com/Attractions-g54805-Activities-Sioux_Falls_South_Dakota.html
+THE 15 BEST Things to Do in Sioux Falls (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+[Rewards](/Rewards)
+
+Discover
+
+Trips
+
+Review
+
+USD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g54805-Activities-Sioux_Falls_South_Dakota.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[Sioux Falls](/ClientLink?value=SmNGXy9Ub3VyaXNtLWc1NDgwNS1TaW91eF9GYWxsc19Tb3V0aF9EYWtvdGEtVmFjYXRpb25zLmh0bWxfOWlR)[Hotels](/ClientLink?value=RXVrXy9Ib3RlbHMtZzU0ODA1LVNpb3V4X0ZhbGxzX1NvdXRoX0Rha290YS1Ib3RlbHMuaHRtbF81RFA=)[Things to Do](/ClientLink?value=OTBzXy9BdHRyYWN0aW9ucy1nNTQ4MDUtQWN0aXZpdGllcy1TaW91eF9GYWxsc19Tb3V0aF9EYWtvdGEuaHRtbF8wMmI=)[Restaurants](/ClientLink?value=bTdBXy9SZXN0YXVyYW50cy1nNTQ4MDUtU2lvdXhfRmFsbHNfU291dGhfRGFrb3RhLmh0bWxfVzBM)[Cruises](/Cruises)[Forums](/ClientLink?value=MFk0Xy9TaG93Rm9ydW0tZzU0ODA1LVNpb3V4X0ZhbGxzX1NvdXRoX0Rha290YS5odG1sX1MyUQ==)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[South Dakota (SD)](/Tourism-g28962-South_Dakota-Vacations.html)
+
+[Sioux Falls](/Tourism-g54805-Sioux_Falls_South_Dakota-Vacations.html)
+
+Things to Do in Sioux Falls
+
+# 
+
+Things to Do in Sioux Falls, SD - Sioux Falls Attractions
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/41/21/21/falls-park.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in Sioux Falls
+
+Check out must-see sights and activities:  
+[Falls Park](/Attraction_Review-g54805-d145428-Reviews-Falls_Park-Sioux_Falls_South_Dakota.html), [SculptureWalk](/Attraction_Review-g54805-d626524-Reviews-SculptureWalk-Sioux_Falls_South_Dakota.html), [Nature & Wildlife Areas](/Attractions-g54805-Activities-c57-t68-Sioux_Falls_South_Dakota.html), [Walking Tours](/Attractions-g54805-Activities-c42-t183-Sioux_Falls_South_Dakota.html). For personalized recommendati
+
+
+[2] ACTIVITY - https://www.experiencesiouxfalls.com/events
+      Events | Experience Sioux Falls                       
+
+By clicking 'Accept,' I confirm that I have read and agree to the [Terms of Use](/terms-of-use) and [Privacy Policy](/privacy) of this website. Accept
+
+[Skip to Content](#content)
+
+[Get the Sioux Falls Visitor Guide](https://www.experiencesiouxfalls.com/plan-your-trip/visitor-guide)
+
+ [![Experience Sioux Falls](/assets/images/logo.svg) ![Experience Sioux Falls](/assets/images/logo-color.svg)](/)
+
+*   [Things to Do](/things-to-do)
+    *   [Falls Park](/falls-park)
+    *   [Arts & Culture](/things-to-do/arts-culture)
+    *   [Attractions](/things-to-do/attractions)
+    *   [Shopping](/things-to-do/shopping)
+    *   [Sports & Recreation](/things-to-do/sports-recreation)
+*   [Food & Drink](/food-drink)
+    *   [Coffee & Bakeries](/food-drink/coffee-bakeries)
+    *   [Restaurants](/food-drink/restaurants)
+    *   [Only in Sioux Falls](/food-drink/only-in-sioux-falls)
+    *   [Breweries & Wineries](/food-drink/breweries-wineries)
+    *   [Bars](/food-drink/bars)
+*   [Places to Stay](/places-to-stay)
+    *   [All Hotels](/places-to-stay/hotels)
+    *   [Downtown Hotels](/places-to-stay/downtown)
+    *   [Pet-Friendly Hotels](/places-to-stay/pet-friendly)
+    *   [Bed & Breakfasts](/places-to-stay/bed-breakfasts)
+    *   [Campgrounds](/places-to-stay/campgrounds)
+*   [Events](/events)
+    *   [Festivals](/events/festivals)
+    *   [Theater, Film & Entertainment](/events/theater-film)
+    *   [Museum Exhibits](/events/museum)
+    *   [Sports & Recreation](/events/sports)
+    *   [Craft & Antique Shows](/events/craft-antique-shows)
+    *   [Family Events](/events/family)
+    *   [Concerts](/events/concerts)
+*   [Plan Your Trip](/plan-your-trip)
+    *   [Visitor Guide](/plan-your-trip/visitor-guide)
+    *   [What's New in Sioux Falls](/plan-your-trip/whats-new)
+    *   [Visitor Center](/plan-your-trip/visitor-center)
+    *   [Maps & Transportation](/plan-your-trip/maps-transportation)
+    *   [Sioux Falls Newsletter
+
+
+[3] ACTIVITY - https://siouxfallsevents.com/
+   Sioux Falls Events – Community Calendar                                                               [Skip to content](#content)
+
+![loader-image](https://siouxfallsevents.com/wp-content/plugins/location-weather/assets/images/spinner.svg)
+
+Sioux Falls, US
+
+8:41 pm,
+
+61°F
+
+74 %
+
+Wind Gust: 0 mph
+
+Clouds: 20%
+
+Sunrise: 7:43 am
+
+Sunset: 6:40 pm
+
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Log In](https://siouxfallsevents.com/log-in/)
+
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Log In](https://siouxfallsevents.com/log-in/)
+
+*   [Log In](https://siouxfallsevents.com/log-in/)
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About Sioux Falls Events](https://siouxfallsevents.com/about/)
+*   [Submit an event](https://siouxfallsevents.com/events/community/add/)
+
+*   [Log In](https://siouxfallsevents.com/log-in/)
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About Sioux Falls Events](https://siouxfallsevents.com/about/)
+*   [Submit an event](https://siouxfallsevents.com/events/community/add/)
+
+[![](https://siouxfallsevents.com/wp-content/uploads/2021/08/SiouxFalls_Strapline_Logo_Horz_White-1-1024x228.png)](https://siouxfallsevents.com)
+
+[![](https://siouxfallsevents.com/wp-content/uploads/2022/03/SiouxFalls_Strapline_Logo_White-1-1024x487.png)](https://siouxfallsevents.com)
+
+[Community Calendar](https://siouxfallsevents.com/)
+
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About](https://siouxfallsevents.com/about/)
+
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About](https://siouxfallsevents.com/about/)
+
+[Submit an event!](https://siouxfallsevents.com/events/community/add/)
+
+![loader-image](https://siouxfallsevents.com/wp-content/plugins/location-weather/assets/images/spinner.svg)
+
+Sioux Falls, US
+
+7:41 pm,
+
+38°F
+
+76
+
+
+[4] EVENT - https://siouxfallsypn.com/events/category/networking/2025-11/
+   Events for November 2025 › Networking › – Sioux Falls Young Professionals Network                                                                       [Skip to content](#content)
+
+[Contact Us |](https://www.siouxfallsypn.com/contact-us/) 
+
+Follow Us:
+
+[Facebook](https://www.facebook.com/siouxfallsypn/) [Instagram](https://www.instagram.com/siouxfallsypn/)
+
+[![](https://siouxfallsypn.com/wp-content/uploads/2021/11/YPN_logo_shaded-768x324.png)](https://siouxfallsypn.com)
+
+*   [Events](https://siouxfallsypn.com/events-listing/)
+    *   [Event Calendar](http://www.siouxfallsypn.com/events/)
+*   [About](https://siouxfallsypn.com/about/)
+    *   [Opportunities](https://siouxfallsypn.com/opportunities/)
+    *   [Leadership](https://siouxfallsypn.com/leadership/)
+    *   [Action Teams](https://siouxfallsypn.com/action-teams/)
+
+*   [Events](https://siouxfallsypn.com/events-listing/)
+    *   [Event Calendar](http://www.siouxfallsypn.com/events/)
+*   [About](https://siouxfallsypn.com/about/)
+    *   [Opportunities](https://siouxfallsypn.com/opportunities/)
+    *   [Leadership](https://siouxfallsypn.com/leadership/)
+    *   [Action Teams](https://siouxfallsypn.com/action-teams/)
+
+[Join Today](https://web.siouxfallschamber.com/atlas/forms/general/6)
+
+[![](https://siouxfallsypn.com/wp-content/uploads/2021/11/YPN_logo_shaded-768x324.png)](https://siouxfallsypn.com)
+
+*   [Events](https://siouxfallsypn.com/events-listing/)
+    *   [Event Calendar](http://www.siouxfallsypn.com/events/)
+*   [About](https://siouxfallsypn.com/about/)
+    *   [Opportunities](https://siouxfallsypn.com/opportunities/)
+    *   [Leadership](https://siouxfallsypn.com/leadership/)
+    *   [Action Teams](https://siouxfallsypn.com/action-teams/)
+
+*   [Events](https://siouxfallsypn.com/events-listing/)
+    *   [Event Calendar](http://www.siouxfallsypn.com/events/)
+*   [About](https://siouxfallsypn.com/about/)
+    *   [Opportunities](https://siouxfallsypn.com/opportunities/)
+    *   [Leadership](https://siouxf
+
+
+[5] EVENT - https://siouxfallsevents.com/
+   Sioux Falls Events – Community Calendar                                                               [Skip to content](#content)
+
+![loader-image](https://siouxfallsevents.com/wp-content/plugins/location-weather/assets/images/spinner.svg)
+
+Sioux Falls, US
+
+8:41 pm,
+
+61°F
+
+74 %
+
+Wind Gust: 0 mph
+
+Clouds: 20%
+
+Sunrise: 7:43 am
+
+Sunset: 6:40 pm
+
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Log In](https://siouxfallsevents.com/log-in/)
+
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Log In](https://siouxfallsevents.com/log-in/)
+
+*   [Log In](https://siouxfallsevents.com/log-in/)
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About Sioux Falls Events](https://siouxfallsevents.com/about/)
+*   [Submit an event](https://siouxfallsevents.com/events/community/add/)
+
+*   [Log In](https://siouxfallsevents.com/log-in/)
+*   [Register](https://siouxfallsevents.com/register/)
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About Sioux Falls Events](https://siouxfallsevents.com/about/)
+*   [Submit an event](https://siouxfallsevents.com/events/community/add/)
+
+[![](https://siouxfallsevents.com/wp-content/uploads/2021/08/SiouxFalls_Strapline_Logo_Horz_White-1-1024x228.png)](https://siouxfallsevents.com)
+
+[![](https://siouxfallsevents.com/wp-content/uploads/2022/03/SiouxFalls_Strapline_Logo_White-1-1024x487.png)](https://siouxfallsevents.com)
+
+[Community Calendar](https://siouxfallsevents.com/)
+
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About](https://siouxfallsevents.com/about/)
+
+*   [Browse by Category](https://siouxfallsevents.com/browsecategory/)
+*   [About](https://siouxfallsevents.com/about/)
+
+[Submit an event!](https://siouxfallsevents.com/events/community/add/)
+
+![loader-image](https://siouxfallsevents.com/wp-content/plugins/location-weather/assets/images/spinner.svg)
+
+Sioux Falls, US
+
+7:41 pm,
+
+38°F
+
+76
+
+
+[6] EVENT - https://www.eventbrite.ie/d/sd--sioux-falls/conferences/
+Best Conference in Sioux Falls, SD - Events & Activities | Eventbrite                                                                      
+
+Your version of Internet Explorer is no longer supported. Please [upgrade your browser](/support/articles/en_US/Troubleshooting/how-to-troubleshoot-internet-browser-issues).
+
+[_ Eventbrite_](https://www.eventbrite.ie/)[_Eventbrite_](https://www.eventbrite.ie/)
+
+*   [Find my tickets](https://www.eventbrite.ie/signin/signup/?referrer=%2Fmytickets)
+*   [Log In](https://www.eventbrite.ie/signin/?referrer=%2Fd%2Fsd--sioux-falls%2Fconferences%2F)
+*   [Sign Up](https://www.eventbrite.ie/signin/signup/?referrer=%2Fd%2Fsd--sioux-falls%2Fconferences%2F)
+*   *   [Find Events](https://www.eventbrite.ie/d/local/events/)
+    *   Create Events
+        *   Solutions
+            Solutions*   [Event Ticketing](https://www.eventbrite.ie/organizer/features/sell-tickets/)
+            *   [Event Marketing Platform](https://www.eventbrite.ie/organizer/features/event-marketing-platform/)
+            *   [Eventbrite Ads](https://www.eventbrite.ie/l/eventbrite-ads/)
+            *   [Payments](https://www.eventbrite.ie/organizer/features/event-payment/)
+        *   Industry
+            Industry*   [Music](https://www.eventbrite.ie/organizer/event-industry/music/)
+            *   [Food & Beverage](https://www.eventbrite.ie/organizer/event-industry/food-drink-event-ticketing/)
+            *   [Performing Arts](https://www.eventbrite.ie/organizer/event-industry/performing-arts/)
+            *   [Charity & Causes](https://www.eventbrite.ie/organizer/event-type/npo/)
+            *   [Retail](https://www.eventbrite.ie/organizer/event-format/host-retail-events/)
+        *   Event Types
+            Event Types*   [Concerts](https://www.eventbrite.ie/organizer/event-type/music-venues/)
+            *   [Classes & Workshops](https://www.eventbrite.ie/organizer/event-type/create-a-workshop/)
+            *   [Festivals & Fairs](https://www.eventbrite.ie/organizer/eve
+
+Return ONLY valid JSON array with exactly 10-20 items.

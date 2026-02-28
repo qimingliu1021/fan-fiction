@@ -1,0 +1,354 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Ballet, Board Games, Professional Development, Learning in Oklahoma City, OK.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.tripadvisor.ca/Attractions-g28957-Activities-Oklahoma.html
+THE 15 BEST Things to Do in Oklahoma (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+Discover
+
+Trips
+
+Review
+
+CAD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g28957-Activities-Oklahoma.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[Oklahoma](/ClientLink?value=eUhzXy9Ub3VyaXNtLWcyODk1Ny1Pa2xhaG9tYS1WYWNhdGlvbnMuaHRtbF8zZUs=)[Hotels](/ClientLink?value=THZZXy9Ib3RlbHMtZzI4OTU3LU9rbGFob21hLUhvdGVscy5odG1sX1RSZg==)[Things to Do](/ClientLink?value=Vm1GXy9BdHRyYWN0aW9ucy1nMjg5NTctQWN0aXZpdGllcy1Pa2xhaG9tYS5odG1sX0xNQw==)[Restaurants](/ClientLink?value=WFVmXy9SZXN0YXVyYW50cy1nMjg5NTctT2tsYWhvbWEuaHRtbF9LdzE=)[Cruises](/Cruises)[Forums](/ClientLink?value=RlNBXy9TaG93Rm9ydW0tZzI4OTU3LU9rbGFob21hLmh0bWxfYkVk)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[Oklahoma (OK)](/Tourism-g28957-Oklahoma-Vacations.html)
+
+Things to do in Oklahoma
+
+# 
+
+THE 15 BEST Things to Do in Oklahoma
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/03/5f/a7/lori-duckworth-skydance.jpg?w=1200&h=700&s=1)
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/03/5f/a7/lori-duckworth-skydance.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in Oklahoma
+
+Check out must-see sights and activities:  
+[Oklahoma City National Memorial & Museum](/Attraction_Review-g51560-d271178-Reviews-Oklahoma_City_National_Memorial_Museum-Oklahoma_City_Oklahoma.html), [Bricktown](/Attraction_Review-g51560-d108485-Reviews-Bricktown-Oklahoma_City_Oklahoma.html), [Nature & Wildlife Areas](/Attractions-g28957-Activities-c57-t68-Oklahoma.html), [State Parks](/Attractions-g28957-Activities-c57-t81-Oklahoma.html).
+
+## Explore popular experiences
+
+See what other travellers like to do, based on ratings and number of bookings.
+
+[See all](/Attractions-g289
+
+
+[2] ACTIVITY - https://www.expedia.ca/Things-To-Do-In-Oklahoma-City.d602972.Travel-Guide-Activities
+Things To Do in Oklahoma City 2025: Top Attractions & Activities | Expedia.ca
+
+[Skip to main content](#main_content)
+
+[![Expedia logo](https://www.expedia.ca/_dms/header/logo.svg?locale=en_CA&siteid=4&2)](https://www.expedia.ca/)
+
+Shop travel
+
+Shop travelShop travel
+
+*   [
+    
+    StaysStays
+    
+    ](/Hotels)
+    
+*   [
+    
+    FlightsFlights
+    
+    ](/Flights)
+    
+*   [
+    
+    CarsCars
+    
+    ](/Cars)
+    
+*   [
+    
+    PackagesPackages
+    
+    ](/Vacation-Packages)
+    
+*   [
+    
+    All-inclusive vacationsAll-inclusive vacations
+    
+    ](https://shopping.expedia.ca/cgi-bin/querypackage.cgi?code_ag=EXA&alias=EXA&language=en)
+    
+*   [
+    
+    Things to doThings to do
+    
+    ](/things-to-do)
+    
+*   [
+    
+    CruisesCruises
+    
+    ](/Cruises)
+    
+
+* * *
+
+*   [
+    
+    Deals
+    
+    ](/deals)
+    
+*   [
+    
+    Groups & meetings
+    
+    ](https://www.hotelplanner.com/Common/Services/Expedia/?Brand=Expedia&Loc=en_CA&kw=header&duaid=ab40903a-cabc-4fa5-9e7f-f93ddf64ab0f)
+    
+
+*   [
+    
+    Open app
+    
+    ](https://expe.app.link/?~customer_ad_set_name=EXPEDIA-CA&~customer_ad_name=SEO.U.Dark&~customer_campaign=BRAND&~customer_placement=BEX-NAVBAR-TRIPLE-BANNER-V0DESKTOP&~placement_id=page.TravelGuides.Activities.City&%24desktop_url=https%3A%2F%2Fwww.expedia.ca%2Fapp&custom_web_attribute=ab40903a-cabc-4fa5-9e7f-f93ddf64ab0f&%24canonical_url=https%3A%2F%2Fwww.expedia.ca%2FThings-To-Do-In-Oklahoma-City.d602972.Travel-Guide-Activities)
+    
+*   CAD![CA](https://a.travel-assets.com/egds/marks/flags/ca.svg)
+*   [List your property](https://apps.expediapartnercentral.com/en_CA/list?utm_medium=referral&utm_source=wwwexpediaca-en_CA&utm_campaign=direct&utm_contentewd=pwa-header-btn&siteId=4&tpid=4&eapid=0&langId=4105&utm_term=direct&lasttouchMktgcode=direct)
+*   [Support](/helpcenter/)
+*   [Trips](/trips)
+*   [
+    
+    Communication Center icon
+    
+    ](/inbox/notifications)
+*   Sign in
+    
+    Unlock instant savings with Member Prices
+    
+ 
+
+
+[3] ACTIVITY - https://downtownokc.com/events/
+ Events – Downtown OKC                                                           
+
+405.235.3500
+
+info@downtownokc.com
+
+[](https://www.facebook.com/downtownokc)
+
+[](https://twitter.com/DowntownOKC)
+
+[](https://www.instagram.com/downtownokc/)
+
+[![](https://downtownokc.com/wp-content/uploads/2016/12/logo.png)![](https://downtownokc.com/wp-content/uploads/2016/12/logo.png)](/)
+
+[
+
+](#)
+
+*   [THINGS TO DO](#)
+    *   [Eat + Drink](https://downtownokc.com/eat-drink/)
+    *   [SHOPS + SUPPLIES](https://downtownokc.com/shops-supplies/)
+    *   [ATTRACTIONS + ENTERTAINMENT](https://downtownokc.com/attractions-entertainment/)
+    *   [Services](https://downtownokc.com/services/)
+    *   [Nightlife](https://downtownokc.com/nightlife/)
+    *   [Real Estate](https://downtownokc.com/real-estate/)
+*   [PLAN YOUR VISIT](#)
+    *   [Maps](https://downtownokc.com/maps/)
+    *   [Parking](https://downtownokc.com/parking/)
+    *   [Hotels](https://downtownokc.com/hotels/)
+*   [EVENTS](/events)
+*   [DOKC PARTNERSHIP](#)
+    *   [About Downtown OKC Partnership](/about-dokc)
+    *   [Programs](https://downtownokc.com/programs/)
+    *   [Meet Our Team](https://downtownokc.com/meet-our-team/)
+    *   [Board of Directors](https://downtownokc.com/board-of-directors/)
+    *   [Districts](/districts)
+*   [DOWNTOWN BID](#)
+    *   [Downtown Business Improvement District](https://downtownokc.com/bid/)
+    *   [Green Team](https://downtownokc.com/green-team/)
+*   [WHAT’S UP](https://downtownokc.com/whats-up/)
+
+[Submit an event](/dokc-events/community/add/)
+
+### ONGOING
+
+## EVENTS
+
+### CHIHULY THEN AND NOW
+
+JUN 18 - JAN 5, 2025  
+OKC Museum of Art
+
+JUN 18 - - JAN 5, 2025  
+OKC Museum of Art
+
+[](https://www.okcmoa.com/current-exhibitions/)
+
+### EDITH HEAD: HOLLYWOOD’S COSTUME DESIGNER
+
+JUN 22 - SEP 22 2024  
+OKC Museum of Art
+
+JUN 22 - SEP 22 2024  
+OKC Museum of Art
+
+[](https://www.okcmoa.com/visit/events/edith-head/)
+
+### UNCOVERING | QU’AINT EXHIBITION
+
+MAY 23 - JUL 2024  
+Artspace at UNTITLED
+
+M
+
+
+[4] EVENT - https://www.okcballet.org/
+       Oklahoma City Ballet | Classic & Contemporary Dance Performances                                                          
+
+[Skip to content](#content)
+
+## Main Navigation
+
+[Oklahoma City Ballet](https://www.okcballet.org/ "Oklahoma City Ballet")
+
+[TICKETS](/performances/) [DONATE](https://okcballet.org/donate)
+
+[](https://www.facebook.com/OklahomaCityBallet)[](https://twitter.com/okcballet)[](https://www.youtube.com/user/Okcballet)[](https://www.instagram.com/okcballet/)
+
+[](https://www.facebook.com/OklahomaCityBallet)[](https://twitter.com/okcballet)[](https://www.youtube.com/user/Okcballet)[](https://www.instagram.com/okcballet/)
+
+Search
+
+ 
+
+*   [Column 1](#)
+    *   [Performances](https://www.okcballet.org/performances/)
+        *   [2025/26 Season](https://www.okcballet.org/season2025-26/)
+        *   [Día de los Muertos](https://www.okcballet.org/dia-ballet/)
+        *   [Ticket Information](https://www.okcballet.org/ticket-information/)
+        *   [Season Tickets](https://www.okcballet.org/season-tickets/)
+        *   [Group Tickets](https://www.okcballet.org/ticket-information/group-tickets/)
+        *   [Bundles and Deals](https://www.okcballet.org/bundles-and-deals/)
+        *   [Plan Your Visit](https://www.okcballet.org/plan-your-visit/)
+    *   [About Us](https://www.okcballet.org/company/)
+        *   [Our Values](https://www.okcballet.org/company/our-values/)
+        *   [Artists](https://www.okcballet.org/company/artists/)
+        *   [Leadership](https://www.okcballet.org/company/leadership/)
+        *   [Job Opportunities](https://www.okcballet.org/company/employment/)
+        *   [Our Facility](https://www.okcballet.org/company/our-home/)
+        *   [Repertoire](https://www.okcballet.org/company/repertoire/)
+    *   [Auditions](https://www.okcballet.org/auditions/)
+        *   [Company Auditions](https://www.okcballet.org/?page_id=10181)
+        *   [Summer Intensive](https://www.okcballet.org/school/summer-intensive/)
+        *   [Young 
+
+
+[5] EVENT - https://www.eventbrite.ie/d/ok--oklahoma-city/professional-development/
+Discover Professional Development Events & Activities in Oklahoma City, OK | Eventbrite                                                                  
+
+Your version of Internet Explorer is no longer supported. Please [upgrade your browser](/support/articles/en_US/Troubleshooting/how-to-troubleshoot-internet-browser-issues).
+
+[_ Eventbrite_](https://www.eventbrite.ie/)[_Eventbrite_](https://www.eventbrite.ie/)
+
+*   [Find my tickets](https://www.eventbrite.ie/signin/signup/?referrer=%2Fmytickets)
+*   [Log In](https://www.eventbrite.ie/signin/?referrer=%2Fd%2Fok--oklahoma-city%2Fprofessional-development%2F)
+*   [Sign Up](https://www.eventbrite.ie/signin/signup/?referrer=%2Fd%2Fok--oklahoma-city%2Fprofessional-development%2F)
+*   *   [Find Events](https://www.eventbrite.ie/d/local/events/)
+    *   Create Events
+        *   Solutions
+            Solutions*   [Event Ticketing](https://www.eventbrite.ie/organizer/features/sell-tickets/)
+            *   [Event Marketing Platform](https://www.eventbrite.ie/organizer/features/event-marketing-platform/)
+            *   [Eventbrite Ads](https://www.eventbrite.ie/l/eventbrite-ads/)
+            *   [Payments](https://www.eventbrite.ie/organizer/features/event-payment/)
+        *   Industry
+            Industry*   [Music](https://www.eventbrite.ie/organizer/event-industry/music/)
+            *   [Food & Beverage](https://www.eventbrite.ie/organizer/event-industry/food-drink-event-ticketing/)
+            *   [Performing Arts](https://www.eventbrite.ie/organizer/event-industry/performing-arts/)
+            *   [Charity & Causes](https://www.eventbrite.ie/organizer/event-type/npo/)
+            *   [Retail](https://www.eventbrite.ie/organizer/event-format/host-retail-events/)
+        *   Event Types
+            Event Types*   [Concerts](https://www.eventbrite.ie/organizer/event-type/music-venues/)
+            *   [Classes & Workshops](https://www.eventbrite.ie/organizer/event-type/create-a-workshop/)
+            *   [Festivals & Fa
+
+
+[6] EVENT - https://courses.online.colostate.edu/
+  Home - Osher Lifelong Learning Institute (OLLI)                     [Skip to main content](#main)
+
+The following fields are required:
+
+Error has occurred. Please reload this page and try the operation again.
+
+*   [CSU Online](//www.online.colostate.edu)
+*   Osher
+
+![](/srs/upload/OLLI-Logo-white.png)
+
+*   [Home](/)
+*   [Join](/osher/join.jsp)
+*   [Courses](/search/publicCourseAdvancedSearch.do?method=load)
+*   [Travel](/osher/travel.jsp)
+*   [FAQs](/osher/faqs.jsp)
+*   [Locations](/osher/locations.jsp)
+*   [Request Info](/osher/moreInfo.jsp)
+
+[Cart (0)](/coursebasket/publicCourseBasket.do?method=load) [Log in](/portal/logon.do?method=load)
+
+![](/srs/upload/olli-homepage_graphic1.jpg)
+
+[Join Osher](/osher/join.jsp)
+
+[![](/srs/upload/FBLogo_Updated_TransparentBG.png)](https://www.facebook.com/CSUOLLI)
+
+## Stretching Minds & Building Community since 2006!
+
+**Important Dates and Updates:** 
+
+*   Fall courses and registration continue, but look for the Spring catalog to be released in late December!
+    *   Spring registration will open on **Jan. 13** for Art & Design and **Jan. 14** for all other courses. 
+    *   Be sure to check out these **[Registration Tips](/srs/upload/Registration%20Tips.pdf)** before signing up. 
+*   Meet new friends and see amazing sights traveling with OLLI in 2026!   
+    *   We're headed to [**Portugal and Spain**](https://groups.goaheadtours.com/tours/portugal-and-spain-2026-olli-csu) in April and on cruises to **[Alaska](https://www.gonext.com/departures/majestic-vistas-wildlife-of-alaska_7-28-2026-8-6-2026/)** in July and around **[Italy](https://www.gonext.com/departures/italian_sojourn_10-13-2026-10-23-2026/)** in October.
+    *   Our DU OLLI friends welcome you to join a trip to the east coast for **[America's 250th](https://groups.gocollette.com/en-US/link/1338116)** Anniversary in June.
+
+Thank you for your support, we look forward to seeing you, and we hope you find some fascinating classes to enjoy. Registration for OLLI courses co
+
+Return ONLY valid JSON array with exactly 10-20 items.

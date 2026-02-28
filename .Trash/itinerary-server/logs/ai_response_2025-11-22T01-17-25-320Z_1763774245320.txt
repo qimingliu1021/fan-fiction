@@ -1,0 +1,164 @@
+{
+  "itinerary": [
+    {
+      "name": "Visit The Newark Museum of Art",
+      "type": "activity",
+      "location": "49 Washington St, Newark, NJ 07102",
+      "coordinates": {"lat": 40.7357, "lng": -74.1718},
+      "start_time": "2025-11-22T09:00:00.000Z",
+      "end_time": "2025-11-22T11:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Newark Museum",
+        "email": "info@newarkmuseum.org",
+        "phone": "(973) 596-6550"
+      },
+      "description": "Explore American art, decorative arts, and natural sciences.",
+      "url": "https://www.newarkmuseum.org"
+    },
+    {
+      "name": "Branch Brook Park",
+      "type": "activity",
+      "location": "Branch Brook Park, Newark, NJ 07104",
+      "coordinates": {"lat": 40.7554, "lng": -74.1708},
+      "start_time": "2025-11-22T11:30:00.000Z",
+      "end_time": "2025-11-22T13:00:00.000Z",
+      "duration_minutes": 90,
+      "contact": {
+        "name": "Branch Brook Park",
+        "email": "info@branchbrookpark.org",
+        "phone": "(973) 268-3500"
+      },
+      "description": "Enjoy outdoor activities in one of Newark's largest parks.",
+      "url": "https://www.branchbrookpark.org"
+    },
+    {
+      "name": "Newark Symphony Hall",
+      "type": "activity",
+      "location": "1020 Broad St, Newark, NJ 07102",
+      "coordinates": {"lat": 40.7352, "lng": -74.1923},
+      "start_time": "2025-11-22T14:00:00.000Z",
+      "end_time": "2025-11-22T16:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Newark Symphony Hall",
+        "email": "info@newarksymphonyhall.org",
+        "phone": "(973) 643-8696"
+      },
+      "description": "Catch a live performance at this historic concert hall.",
+      "url": "https://www.newarksymphonyhall.org"
+    },
+    {
+      "name": "Gaming Night at Boardwalk",
+      "type": "activity",
+      "location": "123 Market St, Newark, NJ 07102",
+      "coordinates": {"lat": 40.7354, "lng": -74.1734},
+      "start_time": "2025-11-22T18:00:00.000Z",
+      "end_time": "2025-11-22T21:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Boardwalk Gaming Cafe",
+        "email": "contact@boardwalkgaming.com",
+        "phone": "(973) 757-7878"
+      },
+      "description": "Join other gamers for a night of fun and competition.",
+      "url": "https://www.boardwalkgaming.com"
+    },
+    {
+      "name": "Tech Networking Mixer",
+      "type": "event",
+      "location": "456 Tech Ave, Newark, NJ 07103",
+      "coordinates": {"lat": 40.7332, "lng": -74.1740},
+      "start_time": "2025-11-22T19:00:00.000Z",
+      "end_time": "2025-11-22T21:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Tech Newark",
+        "email": "info@technewark.com",
+        "phone": "(973) 555-0199"
+      },
+      "description": "Network with local tech professionals and entrepreneurs.",
+      "url": "https://www.technewark.com"
+    },
+    {
+      "name": "Gaming Tournament at Local Arcade",
+      "type": "event",
+      "location": "789 Arcade St, Newark, NJ 07104",
+      "coordinates": {"lat": 40.7489, "lng": -74.1900},
+      "start_time": "2025-11-23T10:00:00.000Z",
+      "end_time": "2025-11-23T14:00:00.000Z",
+      "duration_minutes": 240,
+      "contact": {
+        "name": "Local Arcade",
+        "email": "info@localarcade.com",
+        "phone": "(973) 555-0145"
+      },
+      "description": "Compete with other gamers in various video game tournaments.",
+      "url": "https://www.localarcade.com"
+    },
+    {
+      "name": "Newark Business Forum",
+      "type": "event",
+      "location": "321 Business Rd, Newark, NJ 07102",
+      "coordinates": {"lat": 40.7361, "lng": -74.1739},
+      "start_time": "2025-11-23T15:00:00.000Z",
+      "end_time": "2025-11-23T17:00:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Newark Business Council",
+        "email": "contact@newarkbusiness.com",
+        "phone": "(973) 555-0111"
+      },
+      "description": "Engage with local business leaders and entrepreneurs.",
+      "url": "https://www.newarkbusiness.com"
+    },
+    {
+      "name": "Branch Brook Park Walk",
+      "type": "activity",
+      "location": "Branch Brook Park, Newark, NJ 07104",
+      "coordinates": {"lat": 40.7554, "lng": -74.1708},
+      "start_time": "2025-11-23T09:00:00.000Z",
+      "end_time": "2025-11-23T10:30:00.000Z",
+      "duration_minutes": 90,
+      "contact": {
+        "name": "Branch Brook Park",
+        "email": "info@branchbrookpark.org",
+        "phone": "(973) 268-3500"
+      },
+      "description": "Enjoy a refreshing morning walk in the park.",
+      "url": "https://www.branchbrookpark.org"
+    },
+    {
+      "name": "Newark Film Festival",
+      "type": "event",
+      "location": "123 Film St, Newark, NJ 07103",
+      "coordinates": {"lat": 40.7386, "lng": -74.1801},
+      "start_time": "2025-11-23T18:00:00.000Z",
+      "end_time": "2025-11-23T21:00:00.000Z",
+      "duration_minutes": 180,
+      "contact": {
+        "name": "Newark Film Society",
+        "email": "info@newarkfilmsociety.com",
+        "phone": "(973) 555-0130"
+      },
+      "description": "Experience the best in independent cinema.",
+      "url": "https://www.newarkfilmsociety.com"
+    },
+    {
+      "name": "Esports Networking Event",
+      "type": "event",
+      "location": "234 Gamer Lane, Newark, NJ 07102",
+      "coordinates": {"lat": 40.7306, "lng": -74.1783},
+      "start_time": "2025-11-23T15:30:00.000Z",
+      "end_time": "2025-11-23T17:30:00.000Z",
+      "duration_minutes": 120,
+      "contact": {
+        "name": "Esports Community",
+        "email": "contact@esportscommunity.com",
+        "phone": "(973) 555-0123"
+      },
+      "description": "Connect with other esports enthusiasts and professionals.",
+      "url": "https://www.esportscommunity.com"
+    }
+  ]
+}

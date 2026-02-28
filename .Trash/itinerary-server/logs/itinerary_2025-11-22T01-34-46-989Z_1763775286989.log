@@ -1,0 +1,56 @@
+[2025-11-22T01:34:46.989Z] 
+📥 Request ID: 1763775286989
+[2025-11-22T01:34:46.989Z] 📥 Request: Dallas, TX / Mountains, Parties, Gaming, Professional Development, Learning
+[2025-11-22T01:34:46.989Z] 
+📍 Generating itinerary for Mountains, Parties, Gaming, Professional Development, Learning in Dallas, TX
+[2025-11-22T01:34:46.991Z] 🔍 Searching activities: Dallas, TX Mountains, Parties, Gaming, Professional Development, Learning attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:34:49.647Z] 
+================================================================================
+[2025-11-22T01:34:49.648Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:34:49.648Z] Query: Dallas, TX Mountains, Parties, Gaming, Professional Development, Learning attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:34:49.648Z] Results count: 10
+[2025-11-22T01:34:49.648Z] ================================================================================
+
+[2025-11-22T01:34:49.648Z] 📁 Full search results saved to: search_activity_2025-11-22T01-34-46-989Z_1763775286989.json
+[2025-11-22T01:34:49.648Z] 🔍 Searching events: Dallas, TX Mountains, Parties, Gaming, Professional Development, Learning networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:34:53.622Z] 
+================================================================================
+[2025-11-22T01:34:53.623Z] 🔍 EVENT SEARCH
+[2025-11-22T01:34:53.623Z] Query: Dallas, TX Mountains, Parties, Gaming, Professional Development, Learning networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:34:53.623Z] Results count: 0
+[2025-11-22T01:34:53.623Z] ================================================================================
+
+[2025-11-22T01:34:53.624Z] 📁 Full search results saved to: search_event_2025-11-22T01-34-46-989Z_1763775286989.json
+[2025-11-22T01:34:56.750Z] 
+📄 Scraping [1/3]: https://www.visitdallas.com/blog/what-to-do-in-november-in-dallas/
+[2025-11-22T01:34:56.751Z] Type: activity
+[2025-11-22T01:34:56.751Z] Content length: 24212 characters
+[2025-11-22T01:35:11.257Z] 
+📄 Scraping [2/3]: https://www.yelp.com/search?find_desc=Fun+Activities&find_loc=Dallas%2C+TX
+[2025-11-22T01:35:11.258Z] Type: activity
+[2025-11-22T01:35:11.258Z] Content length: 34159 characters
+[2025-11-22T01:35:14.155Z] 
+📄 Scraping [3/3]: https://www.tripadvisor.com/Attractions-g55711-Activities-Dallas_Texas.html
+[2025-11-22T01:35:14.156Z] Type: activity
+[2025-11-22T01:35:14.156Z] Content length: 127360 characters
+[2025-11-22T01:35:14.158Z] 
+✅ Successfully scraped 3 pages
+[2025-11-22T01:35:14.158Z] 
+================================================================================
+[2025-11-22T01:35:14.158Z] 🤖 AI PROMPT
+[2025-11-22T01:35:14.158Z] Prompt length: 7603 characters
+[2025-11-22T01:35:14.158Z] ================================================================================
+
+[2025-11-22T01:35:14.159Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-34-46-989Z_1763775286989.txt
+[2025-11-22T01:35:55.238Z] 
+================================================================================
+[2025-11-22T01:35:55.240Z] 🤖 AI RESPONSE
+[2025-11-22T01:35:55.241Z] Response length: 5401 characters
+[2025-11-22T01:35:55.241Z] ================================================================================
+
+[2025-11-22T01:35:55.242Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-34-46-989Z_1763775286989.txt
+[2025-11-22T01:35:55.245Z] 
+✅ Final itinerary generated with 8 items
+[2025-11-22T01:35:55.249Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-34-46-989Z_1763775286989.json
+[2025-11-22T01:35:55.249Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

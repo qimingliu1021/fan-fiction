@@ -1,0 +1,221 @@
+{
+  "organic": [
+    {
+      "link": "https://www.visitjackson.com/events/",
+      "display_link": "https://www.visitjackson.com › events",
+      "title": "Events",
+      "description": "Welcome to the official Jackson, Mississippi events calendar! With the help of our partners, we've listed upcoming events in music, food & drink, family ...",
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.eventbrite.com/d/ms--jackson/networking/",
+      "display_link": "https://www.eventbrite.com › ... › Networking Events",
+      "title": "Networking Events in Jackson - Elevate Your Career",
+      "description": "Discover networking in Jackson, MS. From workshops to conferences, find events that suit your interests and schedule.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 3
+        }
+      ],
+      "rank": 2,
+      "global_rank": 4
+    },
+    {
+      "link": "https://www.mmlonline.com/media/zhhlzu1o/mml-2025-annual-conference-agenda-rs.pdf",
+      "display_link": "https://www.mmlonline.com › media › mml-202...",
+      "title": "94th Annual Conference",
+      "description": "2025. NLC City Summit. NOVEMBER 20 - 22, 2025. SALT LAKE CITY, UT. 2026. Mid-Winter Legislative Conference. JANUARY 14 - 16, 2026. JACKSON, MS.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Jun 30, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 3,
+      "global_rank": 5
+    },
+    {
+      "link": "https://lakejunaluska.com/events-calendar/",
+      "display_link": "https://lakejunaluska.com › events-calendar",
+      "title": "Events Calendar",
+      "description": "See a calendar of upcoming events at Lake Junaluska Conference & Retreat Center.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "meetups",
+          "rank": 1
+        },
+        {
+          "type": "must_include",
+          "text": "meetups",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Jackson,+MS+Mountains,+Social+Events,+Writing,+E-Sports,+Workshops+networking+events+conferences+%22meetups%22+competitions+November+22,+2025+to+November+23,+2025&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ5t4CegQIGhAB",
+          "rank": 2
+        }
+      ],
+      "rank": 4,
+      "global_rank": 6
+    },
+    {
+      "link": "https://www.uspto.gov/about-us/events",
+      "display_link": "https://www.uspto.gov › about-us › events",
+      "title": "Events",
+      "description": "See upcoming and past events at the USPTO.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Social",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "networking",
+          "rank": 2
+        }
+      ],
+      "rank": 5,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.theconklingcenter.org/monthly-events",
+      "display_link": "https://www.theconklingcenter.org › monthly-events",
+      "title": "Monthly Events",
+      "description": "See what's in store for the next month with our Events Calendar! We collaborate with local presenters, organizations and local school districts to bring ...",
+      "rank": 6,
+      "global_rank": 8
+    },
+    {
+      "link": "https://afterschoolalliance.org/loaEvents2025.pdf",
+      "display_link": "https://afterschoolalliance.org › loaEvents2025",
+      "title": "2025 Representative Sample of Local Events",
+      "description": "Students and families will gather at the Club's GlenWood Meadows Unit on October 23 from 4:00 to 6:00 PM for a variety of STEM (science, ...",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 23, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 7,
+      "global_rank": 9
+    },
+    {
+      "link": "https://www.jcsd.ms/for-parents/parents-e-tips",
+      "display_link": "https://www.jcsd.ms › for-parents › parents-e-tips",
+      "title": "Parents e-Tips",
+      "description": "Sunday, November 02, 2025 · Encourage writing with fun activities. Encourage your child to write with activities that make writing fun. You might make a family ...",
+      "rank": 8,
+      "global_rank": 10
+    },
+    {
+      "link": "https://www.westhartfordct.gov/town-departments/leisure-services/westmoor-park",
+      "display_link": "https://www.westhartfordct.gov › leisure-services › west...",
+      "title": "Westmoor Park - Town of West Hartford",
+      "description": "Westmoor Park is a self-funded environmental, agricultural and horticultural education center operated by West Hartford Leisure Services.",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Events",
+          "link": "https://www.westhartfordct.gov/town-departments/leisure-services/westmoor-park/events",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Explore Westmoor",
+          "link": "https://www.westhartfordct.gov/town-departments/leisure-services/westmoor-park/explore-westmoor",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Facility Rentals",
+          "link": "https://www.westhartfordct.gov/town-departments/leisure-services/westmoor-park/facility-rentals",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Westmoor Park Summer Camp",
+          "link": "https://www.westhartfordct.gov/town-departments/leisure-services/westmoor-park/westmoor-park-summer-camp",
+          "rank": 4
+        }
+      ],
+      "rank": 9,
+      "global_rank": 11
+    },
+    {
+      "link": "https://www.mounthermon.org/events/family-camp",
+      "display_link": "https://www.mounthermon.org › events › family-camp",
+      "title": "Mount Hermon » Events » Family Camp",
+      "description": "A week of Family Camp an experience you won't forget! Family adventures include hikes, a train ride to Santa Cruz, family games, campfires and s'mores!",
+      "rank": 10,
+      "global_rank": 12
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "text": "Free events in Jackson, MS This Weekend",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Free+events+in+Jackson,+MS+This+Weekend&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAgzEAE",
+      "rank": 1,
+      "global_rank": 13
+    },
+    {
+      "text": "Events in Jackson, Mississippi today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Events+in+Jackson,+Mississippi+today&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg8EAE",
+      "rank": 2,
+      "global_rank": 14
+    },
+    {
+      "text": "Things to do in Jackson, MS This Weekend for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Jackson,+MS+This+Weekend+for+adults&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg2EAE",
+      "rank": 3,
+      "global_rank": 15
+    },
+    {
+      "text": "Jackson, ms events calendar",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Jackson,+ms+events+calendar&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg-EAE",
+      "rank": 4,
+      "global_rank": 16
+    },
+    {
+      "text": "Free events in Jackson, MS This weekend for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Free+events+in+Jackson,+MS+This+weekend+for+adults&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg4EAE",
+      "rank": 5,
+      "global_rank": 17
+    },
+    {
+      "text": "Free events in Jackson, MS today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Free+events+in+Jackson,+MS+today&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg3EAE",
+      "rank": 6,
+      "global_rank": 18
+    },
+    {
+      "text": "Events in Jackson, MS This Month",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Events+in+Jackson,+MS+This+Month&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg1EAE",
+      "rank": 7,
+      "global_rank": 19
+    },
+    {
+      "text": "Things to do in Jackson, MS for families",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Jackson,+MS+for+families&sa=X&ved=2ahUKEwismOfu0oSRAxVJl4kEHcNcJNgQ1QJ6BAg0EAE",
+      "rank": 8,
+      "global_rank": 20
+    }
+  ],
+  "ai_overview": null
+}

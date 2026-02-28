@@ -1,0 +1,68 @@
+[2025-11-22T03:52:50.230Z] 
+📥 Request ID: 1763783570230
+[2025-11-22T03:52:50.232Z] 📥 Request: Los Angeles, CA / Meetups, Camping, Running, Art Galleries, Networking
+[2025-11-22T03:52:50.232Z] 
+📍 Generating itinerary for Meetups, Camping, Running, Art Galleries, Networking in Los Angeles, CA
+[2025-11-22T03:52:50.242Z] 🔍 Searching activities: Los Angeles, CA Meetups, Camping, Running, Art Galleries, Networking attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T03:52:52.297Z] 
+================================================================================
+[2025-11-22T03:52:52.298Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T03:52:52.298Z] Query: Los Angeles, CA Meetups, Camping, Running, Art Galleries, Networking attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T03:52:52.298Z] Results count: 10
+[2025-11-22T03:52:52.298Z] ================================================================================
+
+[2025-11-22T03:52:52.299Z] 📁 Full search results saved to: search_activity_2025-11-22T03-52-50-230Z_1763783570230.json
+[2025-11-22T03:52:52.299Z] 🔍 Searching events: Los Angeles, CA Meetups, Camping, Running, Art Galleries, Networking networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T03:52:54.240Z] 
+================================================================================
+[2025-11-22T03:52:54.241Z] 🔍 EVENT SEARCH
+[2025-11-22T03:52:54.241Z] Query: Los Angeles, CA Meetups, Camping, Running, Art Galleries, Networking networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T03:52:54.241Z] Results count: 10
+[2025-11-22T03:52:54.242Z] ================================================================================
+
+[2025-11-22T03:52:54.243Z] 📁 Full search results saved to: search_event_2025-11-22T03-52-50-230Z_1763783570230.json
+[2025-11-22T03:52:55.783Z] 
+📄 Scraping [1/6]: https://www.timeout.com/los-angeles/things-to-do/november-events-calendar
+[2025-11-22T03:52:55.783Z] Type: activity
+[2025-11-22T03:52:55.783Z] Content length: 83207 characters
+[2025-11-22T03:52:57.148Z] 
+📄 Scraping [2/6]: https://www.discoverlosangeles.com/events
+[2025-11-22T03:52:57.149Z] Type: activity
+[2025-11-22T03:52:57.149Z] Content length: 91209 characters
+[2025-11-22T03:52:59.806Z] 
+📄 Scraping [3/6]: https://www.welikela.com/a-big-list-of-things-to-do-this-november-in-l-a-2025/
+[2025-11-22T03:52:59.809Z] Type: activity
+[2025-11-22T03:52:59.809Z] Content length: 26256 characters
+[2025-11-22T03:53:03.065Z] 
+📄 Scraping [4/6]: https://www.meetup.com/find/us--ca--los-angeles/
+[2025-11-22T03:53:03.065Z] Type: event
+[2025-11-22T03:53:03.065Z] Content length: 18897 characters
+[2025-11-22T03:53:05.539Z] 
+📄 Scraping [5/6]: https://www.meetup.com/find/us--ca--los-angeles/camping/
+[2025-11-22T03:53:05.540Z] Type: event
+[2025-11-22T03:53:05.540Z] Content length: 11792 characters
+[2025-11-22T03:53:08.452Z] 
+📄 Scraping [6/6]: https://www.meetup.com/find/us--ca--los-angeles/art/
+[2025-11-22T03:53:08.453Z] Type: event
+[2025-11-22T03:53:08.453Z] Content length: 16596 characters
+[2025-11-22T03:53:08.454Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T03:53:08.455Z] 
+================================================================================
+[2025-11-22T03:53:08.456Z] 🤖 AI PROMPT
+[2025-11-22T03:53:08.456Z] Prompt length: 13779 characters
+[2025-11-22T03:53:08.456Z] ================================================================================
+
+[2025-11-22T03:53:08.457Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T03-52-50-230Z_1763783570230.txt
+[2025-11-22T03:53:49.531Z] 
+================================================================================
+[2025-11-22T03:53:49.531Z] 🤖 AI RESPONSE
+[2025-11-22T03:53:49.531Z] Response length: 6114 characters
+[2025-11-22T03:53:49.532Z] ================================================================================
+
+[2025-11-22T03:53:49.532Z] 📁 Full AI response saved to: ai_response_2025-11-22T03-52-50-230Z_1763783570230.txt
+[2025-11-22T03:53:49.532Z] 
+✅ Final itinerary generated with undefined items
+[2025-11-22T03:53:49.537Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T03-52-50-230Z_1763783570230.json
+[2025-11-22T03:53:49.537Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

@@ -1,0 +1,430 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Parties, Gaming in Newark, NJ.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.njfamily.com/best-things-to-do-in-new-jersey-this-weekend-november-21-23-2025/
+  Best Things to Do in New Jersey This Weekend (November 21-23, 2025) - NJ Family                                                                                                       
+
+[Behance](# "Behance") [Evernote](# "Evernote") [Facebook](# "Facebook") [Instagram](# "Instagram") [VKontakte](# "VKontakte")
+
+*   [THINGS TO DO](https://www.njfamily.com/category/things-to-do-in-nj-with-kids/)
+    *   [CALENDAR](/event-calendar/)
+    *   [Find Your City →](#)
+        *   [Asbury Park](https://www.njfamily.com/asbury-park/)
+        *   [Atlantic City](https://www.njfamily.com/atlantic-city/)
+        *   [Cape May](https://www.njfamily.com/cape-may/)
+        *   [Cranford](https://www.njfamily.com/cranford/)
+        *   [Edgewater](https://www.njfamily.com/edgewater/)
+        *   [Frenchtown](https://www.njfamily.com/frenchtown/)
+        *   [Hoboken](https://www.njfamily.com/hoboken/)
+        *   [Jersey City](https://www.njfamily.com/jersey-city/)
+        *   [Lambertville](https://www.njfamily.com/lambertville/)
+        *   [LBI](https://www.njfamily.com/lbi/)
+        *   [Montclair](https://www.njfamily.com/montclair/)
+        *   [New Brunswick](https://www.njfamily.com/new-brunswick/)
+        *   [New York City](https://www.njfamily.com/new-york-city/)
+        *   [Newark](https://www.njfamily.com/newark/)
+        *   [Ocean City](https://www.njfamily.com/ocean-city/)
+        *   [Paramus](https://www.njfamily.com/paramus/)
+        *   [Philadelphia](https://www.njfamily.com/philadelphia/)
+        *   [Point Pleasant](https://www.njfamily.com/point-pleasant/)
+        *   [Princeton](https://www.njfamily.com/princeton/)
+        *   [Red Bank](https://www.njfamily.com/red-bank/)
+        *   [Ridgewood](https://www.njfamily.com/ridgewood/)
+        *   [Seaside Heights](https://www.njfamily.com/seaside-heights/)
+        *   [Summit](https://www.njfamily.com/summit/)
+        *   [Wildwood](https://www.njfamily.com/wildwood/)
+        *   [West Windsor-Plainsboro](htt
+
+
+[2] ACTIVITY - https://www.yelp.com/search?find_desc=Fun+Places+To+Go&find_loc=Newark%2C+NJ
+         TOP 10 BEST Fun Places to Go in Newark, NJ - Updated 2025 - Yelp     
+
+[Yelp](/)
+
+Yelp for Business
+
+[
+
+Write a Review
+
+
+
+
+
+](/writeareview)
+
+Start a Project
+
+Log In
+
+Sign Up
+
+1.  [Restaurants](/search?find_desc=Restaurants&find_loc=Newark%2C+NJ)
+    
+2.  [Home & Garden](/search?find_desc=Home+%26+Garden&find_loc=Newark%2C+NJ)
+    
+3.  [Auto Services](/search?find_desc=Auto+Services&find_loc=Newark%2C+NJ)
+    
+4.  [Health & Beauty](/search?find_desc=Health+%26+Beauty&find_loc=Newark%2C+NJ)
+    
+5.  [Travel & Activities](/search?find_desc=Travel+%26+Activities&find_loc=Newark%2C+NJ)
+    
+6.  More
+    
+7.  More
+    
+
+Filters
+
+Price
+
+$$$$$$$$$$
+
+Suggested
+
+Open Now 
+
+\--:--
+
+Good for Kids
+
+Dogs Allowed
+
+Open to All
+
+Offers Military Discount
+
+Good for Groups
+
+Category
+
+Escape Games
+
+Outdoor Movies
+
+Virtual Reality Centers
+
+Amusement Parks
+
+Festivals
+
+Game Truck Rental
+
+See all
+
+Features
+
+Free Wi-Fi
+
+Open At 
+
+\--- --:--
+
+Accepts Credit Cards
+
+Request a Quote
+
+Online Booking
+
+Gender Neutral Restrooms
+
+See all
+
+Distance
+
+Bird's-eye View
+
+Driving (5 mi.)
+
+Biking (2 mi.)
+
+Walking (1 mi.)
+
+Within 4 blocks
+
+# Top 10 Best Fun Places To Go Near Newark, New Jersey
+
+Sort:Recommended
+
+All
+
+Price
+
+Open NowGood for KidsDogs AllowedOpen to AllOffers Military Discount
+
+*   [![Electric Daisy Carnival](https://s3-media0.fl.yelpcdn.com/bphoto/nH4L7pSKWNmwguWqTF-8qg/348s.jpg "Electric Daisy Carnival")](/biz/electric-daisy-carnival-east-rutherford?osq=Fun+Places+To+Go)
+    
+    ### 1. [Electric Daisy Carnival](/biz/electric-daisy-carnival-east-rutherford?osq=Fun+Places+To+Go)
+    
+    4.2 (18 reviews)
+    
+    “MUCH. FUN. I'm so glad EDC came to NYC this year! It was such an amazing time, granted I only went...” [more](/biz/electric-daisy-carnival-east-rutherford?hrid=NCSXqrYpCyUrxLKPuDaXBw&osq=Fun+Places+To+Go)
+    
+    [
+    
+    Festivals
+    
+    ](/search?find_desc=Festivals&find_loc=Newark%2C+NJ)
+    
+*   [![Ironbound Recreation Center](https://s3-media0.fl.yelpcdn.com/bphot
+
+
+[3] ACTIVITY - https://www.newarkhappening.com/events/this-weekend/?startDate=11%2F19%2F2025&endDate=11%2F25%2F2025&sort=title
+  Things to Do in Newark, NJ This Weekend | Sep 05 - 07, 2025                                          
+
+Close
+
+Welcome to Newark
+
+Official Destination Video for the Greater Newark Area [WATCH HERE](https://youtu.be/udg8il-UrZI)
+
+SIGN UP
+
+ ![](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,g_xy_center,h_300,q_75,w_1400,x_720,y_655/v1/clients/newark/image032_70931fe4-74e0-4b2a-99a7-d27dca8091bc.jpg)
+
+[Groups](/groups/)
+
+*   [Quick Facts](/groups/quick-facts/)
+    
+*   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+    
+*   [Sports Groups](/groups/sports-groups/)
+    
+*   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+    
+*   [Weddings & Social Events](/groups/weddings/)
+    
+*   [Group RFP](/groups/rfp/)
+    
+
+[Film Newark](https://www.newarkhappening.com/film/)
+
+[Opportunities](https://www.newarkhappening.com/opportunities/)
+
+*   [Groups](/groups/ "Groups")
+    
+    *   [Quick Facts](/groups/quick-facts/)
+        
+    *   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+        
+    *   [Sports Groups](/groups/sports-groups/)
+        
+    *   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+        
+    *   [Weddings & Social Events](/groups/weddings/)
+        
+    *   [Group RFP](/groups/rfp/)
+        
+*   [Film Newark](https://www.newarkhappening.com/film/ "Film Newark")
+    
+*   [Opportunities](https://www.newarkhappening.com/opportunities/ "Opportunities")
+    
+
+ 
+
+[](https://www.facebook.com/NewarkHappening/)[](https://twitter.com/NewarkHappening/)[](http://www.pinterest.com/newarkhappening/boards/)[](https://www.youtube.
+
+
+[4] EVENT - https://www.newarknj.gov/Calendar.aspx?EID=1030
+          Calendar • National League Conference                        
+
+[Skip to Main Content](#contentarea)
+
+         
+
+[Create a Website Account](/MyAccount/ProfileCreate) \- Manage notification subscriptions, save form progress and more.   
+
+*   [Website Sign In](/MyAccount)
+
+[![Newark New Jersey and Proud of it Homepage](/ImageRepository/Document?documentID=88)](/)
+
+1.  [Government](/27/Government)
+2.  [Departments](/159/Departments)
+3.  [Living & Visiting](/101/Living-Visiting)
+4.  [Business](/35/Business)
+5.  [How Do I...](/9/How-Do-I)
+
+ [![Search](/ImageRepository/Document?documentID=94)](/Search/Results) Search
+
+   
+
+1.  [Home](/)
+2.  Calendar
+
+  
+
+     
+
+  
+
+# Calendar
+
+View All Calendars is the default. Choose Select a Calendar to view a specific calendar. Subscribe to calendar notifications by clicking on the Notify Me® button, and you will automatically be alerted about the latest events in our community.
+
+*   [List](/)
+*   [Week](/)
+*   [Month](/)
+
+*   [](/rss.aspx#calendar "View RSS Feeds")
+*   [Subscribe to iCalendar](/common/modules/iCalendar/iCalendar.aspx?feed=calendar&eventID=1030)
+*   [Print](/calendar.aspx?PREVIEW=YES&EID=1030)
+*   [Notify Me®](/list.aspx?Mode=Subscribe#calendar)
+*   [Find a Facility](/Facilities)
+
+## Search Calendars by:
+
+Start Date 
+
+End Date 
+
+Enter Search Terms 
+
+ Show Past Events [Select a Calendar](#)
+
+Select Calendar/Calendars to filter
+
+1.   All Calendars
+2.   Events
+4.   Municipal Meetings
+6.   North Ward
+8.   RCASS Sign-Up Programs
+10.   Recreation, Cultural Affairs & Senior Services
+12.   South Ward
+14.   West Ward
+
+Search 
+
+[Return to Previous](/)
+
+## Event Details
+
+View Map
+
+1.  [Google](http://maps.google.com/maps?q=, Newark, NJ 7102 "Launches a separate window containing a map provided by Google.")
+2.  [Bing](http://maps.live.com/default.aspx?where1=, Newark, NJ 7102 "Launches a separate window containing a map provided by Bing.")
+
+Date:
+
+November 19, 2025 - November 22, 2025
+
+2025-11-19T00:00:00
+
+Time:
+
+All Day
+
+
+
+[5] EVENT - https://www.newarkhappening.com/events/calendar/?skip=0&startDate=11%2F20%2F2025&endDate=12%2F20%2F2025&sort=distance
+  Newark, NJ Events Calendar | Annual Events, Festivals & Fairs                                          
+
+[Groups](/groups/)
+
+*   [Quick Facts](/groups/quick-facts/)
+    
+*   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+    
+*   [Sports Groups](/groups/sports-groups/)
+    
+*   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+    
+*   [Weddings & Social Events](/groups/weddings/)
+    
+*   [Group RFP](/groups/rfp/)
+    
+
+[Film Newark](https://www.newarkhappening.com/film/)
+
+[Opportunities](https://www.newarkhappening.com/opportunities/)
+
+*   [Groups](/groups/ "Groups")
+    
+    *   [Quick Facts](/groups/quick-facts/)
+        
+    *   [Senior + Adult Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Senior_Adult_Tours_6d9a4b48-3b7a-4446-902d-f9637f7f6c41.pdf)
+        
+    *   [Sports Groups](/groups/sports-groups/)
+        
+    *   [Student Tours](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newark/Student_Tours_2016_e072e004-2188-465f-a53f-1a984173eab8.pdf)
+        
+    *   [Weddings & Social Events](/groups/weddings/)
+        
+    *   [Group RFP](/groups/rfp/)
+        
+*   [Film Newark](https://www.newarkhappening.com/film/ "Film Newark")
+    
+*   [Opportunities](https://www.newarkhappening.com/opportunities/ "Opportunities")
+    
+
+ 
+
+[](https://www.facebook.com/NewarkHappening/)[](https://twitter.com/NewarkHappening/)[](http://www.pinterest.com/newarkhappening/boards/)[](https://www.youtube.com/channel/UCVSTmuSMIj15SHPFDMT5tsQ)[](https://instagram.com/newarkhappening/)
+
+[![](https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,h_62,q_75,w_220/v1/clients/newark/B3E6D108-6831-45CE-89B0-1F834D79FD9F-2-_2c5bd4d4-f0ae-5102-0972ee4042eba93d.png)](https://www.newarkhappening.com/)
+
+[Events](/eve
+
+
+[6] EVENT - https://www.ingramspark.com/blog/ultimate-list-of-upcoming-book-festivals-2025
+     The Ultimate List of Book Fairs, Festivals, and Conferences for 2025                                                  
+
+[![IngramSpark - Self Publishing Simplified](https://www.ingramspark.com/hubfs/IngramSpark_August_2016/Images/logo2x.png "IngramSpark - Self Publishing Simplified")](/)
+
+*   [Create Account](https://myaccount.ingramspark.com/Account/Signup)
+*   [Log In](https://myaccount.ingramspark.com/)
+*   [Help](https://www.ingramspark.com/help)
+
+*   [](https://www.ingramspark.com)
+*   [Publish](javascript:;)
+    *   [How It Works](https://www.ingramspark.com/how-it-works)
+    *   [Plan Your Book](https://www.ingramspark.com/plan-your-book)
+        *   [Book Options](https://www.ingramspark.com/plan-your-book/print/trim-sizes)
+        *   [Ebooks](https://www.ingramspark.com/plan-your-book/ebooks)
+    *   [How to Self-Publish](https://www.ingramspark.com/how-to-self-publish-a-book)
+    *   [How to Design a Book](https://www.ingramspark.com/master-your-book-cover-design)
+    *   [Book-Building Tool](https://www.ingramspark.com/design-a-book)
+*   [Promote](javascript:;)
+    *   [Promote My Book](https://www.ingramspark.com/promote-my-book)
+    *   [How to Market a Book](https://www.ingramspark.com/how-to-market-a-book)
+*   [Sell](javascript:;)
+    *   [Distribution](https://www.ingramspark.com/how-it-works/distribute)
+    *   [Share & Sell](https://www.ingramspark.com/sell-my-book)
+*   [Print](javascript:;)
+    *   [Print My Book](https://www.ingramspark.com/book-printing)
+    *   [Print Discounts](https://www.ingramspark.com/print-discounts)
+*   [Pricing](javascript:;)
+    *   [What It Costs](https://www.ingramspark.com/pricing)
+*   [Resources](javascript:;)
+    *   [Education](https://www.ingramspark.com/resources)
+    *   [Blog](https://www.ingramspark.com/blog)
+
+This is a search field with an auto-suggest feature attached.     
+
+*   There are no suggestions because the search field is empty.
+
+[![IngramSpark](https://www.ingramspark.com/hs-fs/hubfs/Ingram
+
+Return ONLY valid JSON array with exactly 10-20 items.

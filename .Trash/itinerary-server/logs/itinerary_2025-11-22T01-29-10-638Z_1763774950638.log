@@ -1,0 +1,68 @@
+[2025-11-22T01:29:10.638Z] 
+📥 Request ID: 1763774950638
+[2025-11-22T01:29:10.639Z] 📥 Request: El Paso, TX / Ballet, Gaming, Workshops, Book Clubs
+[2025-11-22T01:29:10.639Z] 
+📍 Generating itinerary for Ballet, Gaming, Workshops, Book Clubs in El Paso, TX
+[2025-11-22T01:29:10.640Z] 🔍 Searching activities: El Paso, TX Ballet, Gaming, Workshops, Book Clubs attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:29:12.492Z] 
+================================================================================
+[2025-11-22T01:29:12.493Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:29:12.493Z] Query: El Paso, TX Ballet, Gaming, Workshops, Book Clubs attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:29:12.494Z] Results count: 10
+[2025-11-22T01:29:12.494Z] ================================================================================
+
+[2025-11-22T01:29:12.494Z] 📁 Full search results saved to: search_activity_2025-11-22T01-29-10-638Z_1763774950638.json
+[2025-11-22T01:29:12.494Z] 🔍 Searching events: El Paso, TX Ballet, Gaming, Workshops, Book Clubs networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:29:14.333Z] 
+================================================================================
+[2025-11-22T01:29:14.333Z] 🔍 EVENT SEARCH
+[2025-11-22T01:29:14.333Z] Query: El Paso, TX Ballet, Gaming, Workshops, Book Clubs networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:29:14.334Z] Results count: 10
+[2025-11-22T01:29:14.334Z] ================================================================================
+
+[2025-11-22T01:29:14.334Z] 📁 Full search results saved to: search_event_2025-11-22T01-29-10-638Z_1763774950638.json
+[2025-11-22T01:29:24.837Z] 
+📄 Scraping [1/6]: https://visitelpaso.com/events
+[2025-11-22T01:29:24.838Z] Type: activity
+[2025-11-22T01:29:24.838Z] Content length: 197053 characters
+[2025-11-22T01:29:26.936Z] 
+📄 Scraping [2/6]: https://www.tripadvisor.ca/Attractions-g60768-Activities-El_Paso_Texas.html
+[2025-11-22T01:29:26.937Z] Type: activity
+[2025-11-22T01:29:26.937Z] Content length: 122393 characters
+[2025-11-22T01:29:30.351Z] 
+📄 Scraping [3/6]: https://visitelpaso.com/events/weekend
+[2025-11-22T01:29:30.353Z] Type: activity
+[2025-11-22T01:29:30.353Z] Content length: 61612 characters
+[2025-11-22T01:29:40.135Z] 
+📄 Scraping [4/6]: https://visitelpaso.com/events
+[2025-11-22T01:29:40.136Z] Type: event
+[2025-11-22T01:29:40.136Z] Content length: 197053 characters
+[2025-11-22T01:29:41.536Z] 
+📄 Scraping [5/6]: https://www.angelo.edu/events/calendar/
+[2025-11-22T01:29:41.536Z] Type: event
+[2025-11-22T01:29:41.537Z] Content length: 6138 characters
+[2025-11-22T01:29:44.792Z] 
+📄 Scraping [6/6]: https://www.norrispenrose.com/
+[2025-11-22T01:29:44.792Z] Type: event
+[2025-11-22T01:29:44.793Z] Content length: 422886 characters
+[2025-11-22T01:29:44.797Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:29:44.798Z] 
+================================================================================
+[2025-11-22T01:29:44.799Z] 🤖 AI PROMPT
+[2025-11-22T01:29:44.799Z] Prompt length: 13654 characters
+[2025-11-22T01:29:44.799Z] ================================================================================
+
+[2025-11-22T01:29:44.800Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-29-10-638Z_1763774950638.txt
+[2025-11-22T01:30:29.427Z] 
+================================================================================
+[2025-11-22T01:30:29.429Z] 🤖 AI RESPONSE
+[2025-11-22T01:30:29.429Z] Response length: 5836 characters
+[2025-11-22T01:30:29.429Z] ================================================================================
+
+[2025-11-22T01:30:29.430Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-29-10-638Z_1763774950638.txt
+[2025-11-22T01:30:29.431Z] 
+✅ Final itinerary generated with 9 items
+[2025-11-22T01:30:29.449Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-29-10-638Z_1763774950638.json
+[2025-11-22T01:30:29.449Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

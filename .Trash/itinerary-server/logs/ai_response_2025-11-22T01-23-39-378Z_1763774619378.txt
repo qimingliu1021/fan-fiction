@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Oklahoma City National Memorial & Museum",
+        "type": "activity",
+        "location": "620 N Harvey Ave, Oklahoma City, OK 73102",
+        "coordinates": {"lat": 35.4634, "lng": -97.5174},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "OKC Memorial",
+            "email": "info@oklahomacitynationalmemorial.org",
+            "phone": "(405) 235-3313"
+        },
+        "description": "A poignant memorial dedicated to the victims of the 1995 bombing.",
+        "url": "https://www.oklahomacitynationalmemorial.org"
+    },
+    {
+        "name": "Oklahoma City Ballet Performance",
+        "type": "event",
+        "location": "7440 N Broadway Ave, Oklahoma City, OK 73116",
+        "coordinates": {"lat": 35.5173, "lng": -97.5230},
+        "start_time": "2025-11-22T19:30:00.000Z",
+        "end_time": "2025-11-22T21:30:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Oklahoma City Ballet",
+            "email": "info@okcballet.org",
+            "phone": "(405) 848-TOES"
+        },
+        "description": "A captivating performance featuring classical and contemporary ballet.",
+        "url": "https://www.okcballet.org"
+    },
+    {
+        "name": "Bricktown",
+        "type": "activity",
+        "location": "Oklahoma City, OK 73104",
+        "coordinates": {"lat": 35.4633, "lng": -97.5171},
+        "start_time": "2025-11-22T12:00:00.000Z",
+        "end_time": "2025-11-22T14:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Bricktown Association",
+            "email": "info@bricktownokc.com",
+            "phone": "(405) 235-3500"
+        },
+        "description": "A vibrant entertainment district featuring shops, restaurants, and the famous canal.",
+        "url": "https://www.downtownokc.com"
+    },
+    {
+        "name": "Professional Development Workshop",
+        "type": "event",
+        "location": "1234 NW 30th St, Oklahoma City, OK 73112",
+        "coordinates": {"lat": 35.4870, "lng": -97.5774},
+        "start_time": "2025-11-22T15:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Event Coordinator",
+            "email": "info@eventbrite.com",
+            "phone": "(405) 123-4567"
+        },
+        "description": "Enhance your skills with interactive workshops tailored for professionals.",
+        "url": "https://www.eventbrite.ie/d/ok--oklahoma-city/professional-development/"
+    },
+    {
+        "name": "Game Night at the Library",
+        "type": "event",
+        "location": "300 Park Ave, Oklahoma City, OK 73102",
+        "coordinates": {"lat": 35.4665, "lng": -97.5164},
+        "start_time": "2025-11-22T18:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {
+            "name": "Oklahoma City Library",
+            "email": "info@okclibrary.org",
+            "phone": "(405) 231-8650"
+        },
+        "description": "Join fellow board game enthusiasts for a fun night of games.",
+        "url": "https://www.okclibrary.org"
+    },
+    {
+        "name": "Nature and Wildlife Tour",
+        "type": "activity",
+        "location": "1720 S Robinson Ave, Oklahoma City, OK 73129",
+        "coordinates": {"lat": 35.4537, "lng": -97.5146},
+        "start_time": "2025-11-23T09:00:00.000Z",
+        "end_time": "2025-11-23T11:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Oklahoma Wildlife Center",
+            "email": "info@okwildlife.org",
+            "phone": "(405) 555-0199"
+        },
+        "description": "Explore the beautiful nature and wildlife of Oklahoma City.",
+        "url": "https://www.okwildlife.org"
+    },
+    {
+        "name": "Networking Breakfast for Professionals",
+        "type": "event",
+        "location": "101 N Broadway Ave, Oklahoma City, OK 73102",
+        "coordinates": {"lat": 35.4681, "lng": -97.5165},
+        "start_time": "2025-11-23T08:00:00.000Z",
+        "end_time": "2025-11-23T09:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {
+            "name": "Local Business Network",
+            "email": "info@localbusinessnetwork.com",
+            "phone": "(405) 555-0111"
+        },
+        "description": "Connect with other professionals over breakfast and share insights.",
+        "url": "https://www.localbusinessnetwork.com"
+    },
+    {
+        "name": "Learning in the Community Workshop",
+        "type": "event",
+        "location": "4500 S Villa Ave, Oklahoma City, OK 73119",
+        "coordinates": {"lat": 35.4328, "lng": -97.5680},
+        "start_time": "2025-11-23T10:00:00.000Z",
+        "end_time": "2025-11-23T12:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "Community Learning Center",
+            "email": "info@communitylearningokc.org",
+            "phone": "(405) 555-0234"
+        },
+        "description": "An interactive workshop focusing on community engagement and learning.",
+        "url": "https://www.communitylearningokc.org"
+    },
+    {
+        "name": "Oklahoma City Museum of Art",
+        "type": "activity",
+        "location": "415 Couch Dr, Oklahoma City, OK 73102",
+        "coordinates": {"lat": 35.4660, "lng": -97.5167},
+        "start_time": "2025-11-23T13:00:00.000Z",
+        "end_time": "2025-11-23T15:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {
+            "name": "OKC Museum",
+            "email": "info@okcmoa.com",
+            "phone": "(405) 236-3100"
+        },
+        "description": "Explore contemporary and classic art exhibits.",
+        "url": "https://www.okcmoa.com"
+    },
+    {
+        "name": "Board Game Tournament",
+        "type": "event",
+        "location": "600 NW 23rd St, Oklahoma City, OK 73103",
+        "coordinates": {"lat": 35.4871, "lng": -97.5334},
+        "start_time": "2025-11-23T16:00:00.000Z",
+        "end_time": "2025-11-23T19:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {
+            "name": "Game Masters Club",
+            "email": "info@gamemastersclub.com",
+            "phone": "(405) 555-0456"
+        },
+        "description": "Compete with others in a fun board game tournament.",
+        "url": "https://www.gamemastersclub.com"
+    }
+]

@@ -1,0 +1,68 @@
+[2025-11-22T01:52:11.363Z] 
+📥 Request ID: 1763776331363
+[2025-11-22T01:52:11.364Z] 📥 Request: Jackson, MS / Mountains, Social Events, Writing, E-Sports, Workshops
+[2025-11-22T01:52:11.364Z] 
+📍 Generating itinerary for Mountains, Social Events, Writing, E-Sports, Workshops in Jackson, MS
+[2025-11-22T01:52:11.375Z] 🔍 Searching activities: Jackson, MS Mountains, Social Events, Writing, E-Sports, Workshops attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:52:13.559Z] 
+================================================================================
+[2025-11-22T01:52:13.559Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:52:13.559Z] Query: Jackson, MS Mountains, Social Events, Writing, E-Sports, Workshops attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:52:13.560Z] Results count: 10
+[2025-11-22T01:52:13.560Z] ================================================================================
+
+[2025-11-22T01:52:13.560Z] 📁 Full search results saved to: search_activity_2025-11-22T01-52-11-363Z_1763776331363.json
+[2025-11-22T01:52:13.560Z] 🔍 Searching events: Jackson, MS Mountains, Social Events, Writing, E-Sports, Workshops networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:52:15.382Z] 
+================================================================================
+[2025-11-22T01:52:15.383Z] 🔍 EVENT SEARCH
+[2025-11-22T01:52:15.383Z] Query: Jackson, MS Mountains, Social Events, Writing, E-Sports, Workshops networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:52:15.384Z] Results count: 10
+[2025-11-22T01:52:15.384Z] ================================================================================
+
+[2025-11-22T01:52:15.385Z] 📁 Full search results saved to: search_event_2025-11-22T01-52-11-363Z_1763776331363.json
+[2025-11-22T01:52:18.318Z] 
+📄 Scraping [1/6]: https://www.visitjackson.com/events/
+[2025-11-22T01:52:18.318Z] Type: activity
+[2025-11-22T01:52:18.318Z] Content length: 28603 characters
+[2025-11-22T01:52:19.797Z] 
+📄 Scraping [2/6]: https://www.tripadvisor.com/Attractions-g43833-Activities-Jackson_Mississippi.html
+[2025-11-22T01:52:19.798Z] Type: activity
+[2025-11-22T01:52:19.798Z] Content length: 97861 characters
+[2025-11-22T01:52:21.931Z] 
+📄 Scraping [3/6]: https://www.visitjackson.com/event/
+[2025-11-22T01:52:21.931Z] Type: activity
+[2025-11-22T01:52:21.932Z] Content length: 18280 characters
+[2025-11-22T01:52:24.840Z] 
+📄 Scraping [4/6]: https://www.visitjackson.com/events/
+[2025-11-22T01:52:24.840Z] Type: event
+[2025-11-22T01:52:24.840Z] Content length: 28603 characters
+[2025-11-22T01:52:27.602Z] 
+📄 Scraping [5/6]: https://www.eventbrite.com/d/ms--jackson/networking/
+[2025-11-22T01:52:27.602Z] Type: event
+[2025-11-22T01:52:27.602Z] Content length: 51000 characters
+[2025-11-22T01:53:17.772Z] 
+📄 Scraping [6/6]: https://www.mmlonline.com/media/zhhlzu1o/mml-2025-annual-conference-agenda-rs.pdf
+[2025-11-22T01:53:17.773Z] Type: event
+[2025-11-22T01:53:17.773Z] Content length: 0 characters
+[2025-11-22T01:53:17.774Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:53:17.775Z] 
+================================================================================
+[2025-11-22T01:53:17.776Z] 🤖 AI PROMPT
+[2025-11-22T01:53:17.776Z] Prompt length: 11751 characters
+[2025-11-22T01:53:17.776Z] ================================================================================
+
+[2025-11-22T01:53:17.776Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-52-11-363Z_1763776331363.txt
+[2025-11-22T01:53:55.845Z] 
+================================================================================
+[2025-11-22T01:53:55.846Z] 🤖 AI RESPONSE
+[2025-11-22T01:53:55.846Z] Response length: 5412 characters
+[2025-11-22T01:53:55.846Z] ================================================================================
+
+[2025-11-22T01:53:55.847Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-52-11-363Z_1763776331363.txt
+[2025-11-22T01:53:55.847Z] 
+✅ Final itinerary generated with undefined items
+[2025-11-22T01:53:55.852Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-52-11-363Z_1763776331363.json
+[2025-11-22T01:53:55.852Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

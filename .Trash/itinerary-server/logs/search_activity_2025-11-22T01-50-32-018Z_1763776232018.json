@@ -1,0 +1,262 @@
+{
+  "organic": [
+    {
+      "link": "https://www.catchdesmoines.com/events/",
+      "display_link": "https://www.catchdesmoines.com › events",
+      "title": "Greater Des Moines Events | Find Sports, Concerts & ...",
+      "description": "Looking for events in Des Moines? View our events calendar to find information on local events like the Iowa State Fair, Drake Relays, concerts and ...",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Annual Events & Festivals",
+          "link": "https://www.catchdesmoines.com/events/annual-events-festivals/",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Arts and Culture",
+          "link": "https://www.catchdesmoines.com/arts-and-culture/",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Festivals",
+          "link": "https://www.catchdesmoines.com/festivals/",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Things To Do",
+          "link": "https://www.catchdesmoines.com/things-to-do/",
+          "rank": 4
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://allevents.in/des-moines/november",
+      "display_link": "https://allevents.in › United States › Des Moines",
+      "title": "Events & Things To Do in Des Moines in November 2025",
+      "description": "Find events and things to do in November 2025 in Des Moines. Discover parties, concerts, meets,shows, sports, club, reunion, Performance happening in ...",
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://desmoinesmom.com/things-to-do-in-des-moines-in-november/",
+      "display_link": "https://desmoinesmom.com › Blog",
+      "title": "Things to do in Des Moines in November 2025",
+      "description": "Enjoy the season with our guide to family-friendly events and activities happening in Des Moines in November 2025.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 30, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://bravogreaterdesmoines.org/calendar/",
+      "display_link": "https://bravogreaterdesmoines.org › calendar",
+      "title": "Calendar - Bravo Greater Des Moines",
+      "description": "The calendar can focus on timely events, concerts, performances, festivals, openings, and educational opportunities.",
+      "rank": 4,
+      "global_rank": 4
+    },
+    {
+      "link": "https://www.reddit.com/r/desmoines/comments/1p2bbzp/top_5_events_in_des_moines_this_weekend_nov_2123/",
+      "display_link": "1 comment · 1 day ago",
+      "title": "Top 5 Events in Des Moines This Weekend (Nov 21–23)",
+      "description": "When: Sat, Nov 22 at 7:30 p.m. | Sun, Nov 23 at 2:30 p.m. Where: Des Moines Civic Center What: Classical music meets big-stage elegance — a ...",
+      "rank": 5,
+      "global_rank": 5
+    },
+    {
+      "link": "https://www.eventbrite.com/d/ia--west-des-moines/november-22/",
+      "display_link": "https://www.eventbrite.com › ... › November 22 Events",
+      "title": "November 22 events in West des Moines, IA",
+      "description": "November 22 events in West des Moines, IA · Business · Science & Tech · Music · Film & Media · Performing & Visual Arts · Fashion · Health · Sports & Fitness ...",
+      "rank": 6,
+      "global_rank": 6
+    },
+    {
+      "link": "https://www.tripadvisor.com/Attractions-g37835-Activities-Des_Moines_Iowa.html",
+      "display_link": "https://www.tripadvisor.com › ... › Des Moines",
+      "title": "THE 15 BEST Things to Do in Des Moines (2025)",
+      "description": "Top Attractions in Des Moines · 1. Capitol Building · 4.8. (912) · 2. Downtown Farmers Market · 4.7. (426) · 3. Iowa State Fairgrounds · 4.6. (888) · 4. Greater Des ...",
+      "rank": 7,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.traveliowa.com/calendar/",
+      "display_link": "https://www.traveliowa.com › calendar",
+      "title": "Iowa Events Calendar",
+      "description": "Check out our calendar of events to find concerts, fairs, farmer's markets, festivals and more happening throughout the state.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "must_include",
+          "text": "Mountains,",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines,+IA+%22Mountains,%22+Parties,+Theater,+ESports+attractions+activities+places+to+visit+things+to+do+November+22,+2025+to+November+23,+2025&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ5t4CegQIQhAB",
+          "rank": 2
+        }
+      ],
+      "rank": 8,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.greaterdsmusa.com/have-fun",
+      "display_link": "https://www.greaterdsmusa.com › have-fun",
+      "title": "Fun Things to Do in Greater Des Moines",
+      "description": "Whether you love the outdoors, crave delicious food experiences or find enrichment in exploring museums and taking in the performing arts (or all of the above!)",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "November",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 4
+        }
+      ],
+      "rank": 9,
+      "global_rank": 9
+    },
+    {
+      "link": "https://khak.com/november-2025-events-eastern-iowa/",
+      "display_link": "https://khak.com › november-2025-events-eastern-iowa",
+      "title": "A Huge List of November 2025 Events Across Eastern Iowa",
+      "description": "Here's a rundown of big events happening in Eastern Iowa in November 2025, broken down into the following categories: Linn County; Johnson ...",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 24, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 10,
+      "global_rank": 10
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "items": [
+        {
+          "text": "Gray's Lake Park",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Gray%27s+Lake+Park&stick=H4sIAAAAAAAAAOMwVOLSz9U3yDYuMkq3_MXIsIGF4RULDxeS4CsWbi5OENc4x6LEAM7LMDRNr3zFwsvFrZ-ub1iSlR5faZQF12pUXllcmQdXbFpckmsK55mUZZSXIbSm52SUJ-XCZdOyzaosXrFwcXGAeOZlJRmLWAXcixIr1YsVfBKzUxUCEouyb7FJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAELAz1J8AAAAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheEAo",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWpLDrQVWSXDFY7CldzDGlKN-6m-EKWUu1XWjstXKwMOJJZWC0Dy&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWpLDrQVWSXDFY7CldzDGlKN-6m-EKWUu1XWjstXKwMOJJZWC0Dy&s=0",
+          "rank": 1
+        },
+        {
+          "text": "Principal Park",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Principal+Park&stick=H4sIAAAAAAAAAOMwVOLUz9U3MM6xKDH4xciwgYXhFQsPFxdILNu4yCjd8hULNxdCCZyXYWiaXvmKhZeLWz9d37AkKz2-0igLrtWovLK4Mg-u2LS4JNcUzjMpyygvQ2hNz8koT8qFy6Zlm1VZvGLh4uIA8czLSjIWsfIFFGXmJWcWJOYoBCQWZd9ik2TYvajjJ4vrfsONlsYbN4k93s7-y_1vbdqMlYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACACbeGXntAAAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheEA8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibOzcDKo398CEE6ZmFkhsXys-OXCs_nzMZUJy0MBXajBnAoUzMUPJ&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibOzcDKo398CEE6ZmFkhsXys-OXCs_nzMZUJy0MBXajBnAoUzMUPJ&s=0",
+          "rank": 2
+        },
+        {
+          "text": "Blank Park Zoo",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Blank+Park+Zoo&stick=H4sIAAAAAAAAAOMwVOLUz9U3yDA0Ta_8xciwgYXhFQsPFxdILNu4yCjd8hULNxdYiXGORYkBnAfW8IqFl4tbP13fsCQrPb7SKAuu1ai8srgyD67YtLgk1xTOMynLKC9DaE3PyShPyoXLpmWbVVm8YuHi4gDxzMtKMhax8jnlJOZlKwQkFmUrROXn32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAe6cnsO0AAAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheEBQ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0MLVfGtgK3tbRVhA146glUEFr7yWiZ2pU9yinsiJ91kmY4kuxV51&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0MLVfGtgK3tbRVhA146glUEFr7yWiZ2pU9yinsiJ91kmY4kuxV51&s=0",
+          "rank": 3
+        },
+        {
+          "text": "Pappajohn Sculpture Park",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Pappajohn+Sculpture+Park&stick=H4sIAAAAAAAAAOMwVOLWT9c3LMlKj680yvrFyLCBheEVCw8Xl36uvkG2cZFRuuUrFm4uThDXOMeixADOyzA0Ta98xcLLhWwAXKtReWVxZR5csWlxSa4pnGdSllFehtCanpNRnpQLl03LNquyeMXCxcUB4pmXlWQsYpUISCwoSMzKz8hTCE4uzSkoKS1KVQhILMq-xSbJsHtRx08W1_2GGy2NN24Se7yd_Zf739q0GSsXcYgFpOYX5KQqJOYU5ysUpyYWJWcopOUXreBgBAB77_Gm-QAAAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheEBk",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ822n4IXsbg4aDQL4vCdRteWNt6UCTSnl5zg2UEKzb9VtzRSzOaQx1yvZs9hJwutBAWP4QJPyB&s=19",
+          "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ822n4IXsbg4aDQL4vCdRteWNt6UCTSnl5zg2UEKzb9VtzRSzOaQx1yvZs9hJwutBAWP4QJPyB&s=19",
+          "rank": 4
+        },
+        {
+          "text": "East Village",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=East+Village,+Des+Moines&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCqvLK7M-8XIsIGF4RULDxdYMNu4yCjd8hULNxcniGucY1FiAOdlGJqmV75i4eXi1k_XNyzJSo-vNMqCa4WYB1dsWlySawrnmZRllJchtKbnZJQn5cJl07LNqixesXBxcYB45mUlGYtYJVwTi0sUwjJzchLTU3UUXFKLFXzzM_NSi2-xSTLsXtTxk8V1v-FGS-ONm8Qeb2f_5f63Nm3GykUcYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UUrOBgB5zIEDfgAAAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheEB4",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0qsMdx-sfDmPqdwrvimIQgNBiQJ5ggmJqFjGcYNS5VxoVG4dE4Xd&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0qsMdx-sfDmPqdwrvimIQgNBiQJ5ggmJqFjGcYNS5VxoVG4dE4Xd&s=0",
+          "rank": 5
+        },
+        {
+          "text": "Greater Des Moines Botanical Garden",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Greater+Des+Moines+Botanical+Garden&stick=H4sIAAAAAAAAAOMwVOLUz9U3MC0uyTX9xciwgYXhFQsPFxdILNu4yCjd8hULNxdYiXGORYkBnJdhaJpe-YqFl4tbP13fsCQrPb7SKAuu1ai8srgyD64YbDqcZ1KWUV6G0Jqek1GelAuXTcs2q7J4xcLFxQHimZeVZCxiVXYvSk0sSS1ScEktVvDNz8wDUk75JYl5mcmJOQruiUUpqXm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAE6BrZkCAQAA&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQs9oBKAB6BAheECM",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsOAUngFJoE_lSVRCHr1k9VnkhtzZojxwdumxC_clQ5Fpe_l0VhmF&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsOAUngFJoE_lSVRCHr1k9VnkhtzZojxwdumxC_clQ5Fpe_l0VhmF&s=0",
+          "rank": 6
+        }
+      ],
+      "rank": 1,
+      "global_rank": 14
+    },
+    {
+      "text": "Des Moines events calendar",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhnEAE",
+      "rank": 2,
+      "global_rank": 15
+    },
+    {
+      "text": "Des Moines events calendar this Month",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar+this+Month&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhlEAE",
+      "rank": 3,
+      "global_rank": 16
+    },
+    {
+      "text": "Events in Des Moines today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Events+in+Des+Moines+today&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhmEAE",
+      "rank": 4,
+      "global_rank": 17
+    },
+    {
+      "text": "Des Moines events next 3 days",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+next+3+days&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhkEAE",
+      "rank": 5,
+      "global_rank": 18
+    },
+    {
+      "text": "Things to do in Des Moines this weekend for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Des+Moines+this+weekend+for+adults&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhiEAE",
+      "rank": 6,
+      "global_rank": 19
+    },
+    {
+      "text": "Des Moines events calendar this weekend",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar+this+weekend&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhjEAE",
+      "rank": 7,
+      "global_rank": 20
+    },
+    {
+      "text": "Things to do in Des Moines today for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Des+Moines+today+for+adults&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhhEAE",
+      "rank": 8,
+      "global_rank": 21
+    },
+    {
+      "text": "Things to do in Des Moines for young adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Des+Moines+for+young+adults&sa=X&ved=2ahUKEwin-Za_0oSRAxUz4ckDHSIvNpQQ1QJ6BAhgEAE",
+      "rank": 9,
+      "global_rank": 22
+    }
+  ],
+  "ai_overview": null
+}

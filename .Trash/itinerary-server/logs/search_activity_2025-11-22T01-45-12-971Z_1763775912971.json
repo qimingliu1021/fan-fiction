@@ -1,0 +1,390 @@
+{
+  "organic": [
+    {
+      "link": "https://www.anchorage.net/events/",
+      "display_link": "https://www.anchorage.net › events",
+      "title": "Events in Anchorage | Live Music & Cultural Celebrations",
+      "description": "Explore the calendar of events in Anchorage, including concerts, festivals, outdoor activities and signature celebrations.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 3
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.tripadvisor.com/Attractions-g60880-Activities-Anchorage_Alaska.html",
+      "display_link": "https://www.tripadvisor.com › ... › Anchorage",
+      "title": "THE 15 BEST Things to Do in Anchorage (2025)",
+      "description": "Top Attractions in Anchorage · 1. Alaska Railroad · 4.6. (3,037). Scenic Railroads · 2. Alaska Wildlife Conservation Center · 4.5. (3,968) · 3. Anchorage Museum.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Events,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 3
+        }
+      ],
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://www.eventbrite.com/d/ak--anchorage/calendar-2025/",
+      "display_link": "https://www.eventbrite.com › ... › Calendar 2025 Events",
+      "title": "Discover Calendar 2025 Events & Activities in Anchorage, AK",
+      "description": "Calendar 2025 events in Anchorage, AK · Business · Science & Tech · Music · Film & Media · Performing & Visual Arts · Fashion · Health · Sports & Fitness ...",
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://www.yelp.com/search?find_desc=Fun+Activities&find_loc=Anchorage%2C+AK",
+      "display_link": "https://www.yelp.com › search › find_loc=Anchorage,+AK",
+      "title": "Top 10 Best Fun Activities Near Anchorage, Alaska",
+      "description": "1. Vortex VR. 4.8 (5 reviews). Arcades · 2. Castle On O'malley. 3.8 (16 reviews). Amusement Parks · 3. The Alaska Museum of Science & Nature. 4.7 (10 reviews).",
+      "extensions": [
+        {
+          "type": "rating",
+          "rating": 4.4,
+          "reviews_cnt": 2057,
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 3
+        }
+      ],
+      "rank": 4,
+      "global_rank": 4
+    },
+    {
+      "link": "https://www.alaska.org/advice/alaska-in-november",
+      "display_link": "https://www.alaska.org › advice › alaska-in-november",
+      "title": "Alaska in November | Things to Do and Places to See",
+      "description": "Take an exclusive Alaska Native Heritage Excursion with Salmon Berry Tours, visit the Anchorage Museum at Rasmussen Center, or check out the Aviation Museum.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 6
+        }
+      ],
+      "rank": 5,
+      "global_rank": 5
+    },
+    {
+      "link": "https://www.travelalaska.com/destinations/cities-towns/anchorage",
+      "display_link": "https://www.travelalaska.com › destinations › cities-towns",
+      "title": "Anchorage, AK | Things to do, Recreation, & ...",
+      "description": "Anchorage is a top destination in both summer and winter, with activities, festivals, tours, and amenities available year-round. PARKS & OUTDOOR RECREATION.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 3
+        }
+      ],
+      "rank": 6,
+      "global_rank": 6
+    },
+    {
+      "link": "https://thearcofanchorage.org/special-events/",
+      "display_link": "https://thearcofanchorage.org › special-events",
+      "title": "Annual Special Events in Anchorage, Alaska",
+      "description": "From lively activities, themed dinners, and festive parties to engaging weekly classes, there's always something happening for everyone.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "Games",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "places",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 8
+        }
+      ],
+      "rank": 7,
+      "global_rank": 7
+    },
+    {
+      "link": "https://www.expedia.com/Things-To-Do-In-Anchorage.d178230.Travel-Guide-Activities",
+      "display_link": "https://www.expedia.com › ... › Alaska",
+      "title": "Things to Do in Anchorage in 2025",
+      "description": "Discover things to do in Anchorage - find the best activities, must-visit attractions, and unforgettable tours & experiences on Expedia.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Health,",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Board",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "November",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 6
+        }
+      ],
+      "rank": 8,
+      "global_rank": 8
+    },
+    {
+      "link": "https://www.meetup.com/find/us--ak--anchorage/",
+      "display_link": "https://www.meetup.com › find › us--ak--anchorage",
+      "title": "Events in Anchorage, Alaska",
+      "description": "Find events in Anchorage, Alaska to connect with people who share your interests. Whatever your interest, Meetup helps you connect with like-minded people.",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Outdoor activities",
+          "link": "https://www.meetup.com/find/us--ak--anchorage/outdoor-activities/",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Meet new friends",
+          "link": "https://www.meetup.com/find/us--ak--anchorage/meet-new-friends/",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Networking",
+          "link": "https://www.meetup.com/find/us--ak--anchorage/networking/",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Sports & Hobbies",
+          "link": "https://www.meetup.com/find/us--ak--anchorage/sports-and-hobbies/",
+          "rank": 4
+        }
+      ],
+      "rank": 9,
+      "global_rank": 9
+    },
+    {
+      "link": "https://www.muni.org/50/Pages/Events.aspx",
+      "display_link": "https://www.muni.org › Pages › Events",
+      "title": "50 Events",
+      "description": "Events. ​From family-friendly outdoor experiences and storytelling features in iconic venues to neighborhood celebrations down the street, the Municipality ...",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "Mental",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Startups,",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Games",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "attractions",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "places",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "things",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "do",
+          "rank": 8
+        },
+        {
+          "type": "missing",
+          "text": "22,",
+          "rank": 9
+        },
+        {
+          "type": "missing",
+          "text": "23,",
+          "rank": 10
+        }
+      ],
+      "rank": 10,
+      "global_rank": 10
+    }
+  ],
+  "images": [],
+  "current_page": 1,
+  "related": [
+    {
+      "text": "Fun things to do in Anchorage for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Fun+things+to+do+in+Anchorage+for+adults&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAgsEAE",
+      "rank": 1,
+      "global_rank": 11
+    },
+    {
+      "text": "Downtown Anchorage events Today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Downtown+Anchorage+events+Today&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAhDEAE",
+      "rank": 2,
+      "global_rank": 12
+    },
+    {
+      "text": "Anchorage events Calendar",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Anchorage+events+Calendar&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAhJEAE",
+      "rank": 3,
+      "global_rank": 13
+    },
+    {
+      "text": "Unique things to do in Anchorage",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Unique+things+to+do+in+Anchorage&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAhLEAE",
+      "rank": 4,
+      "global_rank": 14
+    },
+    {
+      "text": "Downtown Anchorage events next 7 Days",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Downtown+Anchorage+events+next+7+Days&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAg-EAE",
+      "rank": 5,
+      "global_rank": 15
+    },
+    {
+      "text": "Downtown Anchorage events this weekend",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Downtown+Anchorage+events+this+weekend&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAg3EAE",
+      "rank": 6,
+      "global_rank": 16
+    },
+    {
+      "text": "Things to do in downtown Anchorage",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+downtown+Anchorage&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAg0EAE",
+      "rank": 7,
+      "global_rank": 17
+    },
+    {
+      "text": "Things to do in Anchorage today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Anchorage+today&sa=X&ved=2ahUKEwjIua6m0YSRAxXuLLkGHfe2EkQQ1QJ6BAgxEAE",
+      "rank": 8,
+      "global_rank": 18
+    }
+  ],
+  "ai_overview": null
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Falls Park",
+        "type": "activity",
+        "location": "900 N Phillips Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5445, "lng": -96.7313},
+        "start_time": "2025-11-22T09:00:00.000Z",
+        "end_time": "2025-11-22T10:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "Falls Park Visitor Center", "email": "info@fallspark.com", "phone": "(605) 367-4885"},
+        "description": "Explore the beautiful waterfalls and walking trails in this iconic park.",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g54805-d145428-Reviews-Falls_Park-Sioux_Falls_South_Dakota.html"
+    },
+    {
+        "name": "SculptureWalk",
+        "type": "activity",
+        "location": "Downtown Sioux Falls, SD",
+        "coordinates": {"lat": 43.5450, "lng": -96.7300},
+        "start_time": "2025-11-22T11:00:00.000Z",
+        "end_time": "2025-11-22T12:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "SculptureWalk", "email": "info@sculpturewalksiouxfalls.com", "phone": "(605) 271-6363"},
+        "description": "A year-round outdoor art exhibit featuring stunning sculptures throughout downtown.",
+        "url": "https://www.sculpturewalksiouxfalls.com/"
+    },
+    {
+        "name": "E-Sports Tournament",
+        "type": "event",
+        "location": "Sioux Falls Arena, 1201 N West Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5485, "lng": -96.7301},
+        "start_time": "2025-11-22T13:00:00.000Z",
+        "end_time": "2025-11-22T17:00:00.000Z",
+        "duration_minutes": 240,
+        "contact": {"name": "Sioux Falls E-Sports", "email": "events@sfesports.com", "phone": "(605) 555-0199"},
+        "description": "Join the local E-Sports tournament featuring popular games and competitive teams.",
+        "url": "https://www.siouxfallsevents.com/"
+    },
+    {
+        "name": "Networking Lunch",
+        "type": "event",
+        "location": "Falls Overlook Cafe, 825 N Phillips Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5460, "lng": -96.7308},
+        "start_time": "2025-11-22T12:00:00.000Z",
+        "end_time": "2025-11-22T13:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "Sioux Falls Young Professionals", "email": "contact@sfyp.com", "phone": "(605) 555-0123"},
+        "description": "Network with local professionals while enjoying lunch with a view of Falls Park.",
+        "url": "https://siouxfallsypn.com/events/"
+    },
+    {
+        "name": "Opera Night",
+        "type": "event",
+        "location": "Sioux Falls Symphony, 1231 N Main Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5510, "lng": -96.7272},
+        "start_time": "2025-11-22T19:00:00.000Z",
+        "end_time": "2025-11-22T21:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Sioux Falls Symphony", "email": "info@siouxfallsymphony.org", "phone": "(605) 367-6000"},
+        "description": "Enjoy a captivating evening of opera performed by talented local artists.",
+        "url": "https://siouxfallsymphony.org/"
+    },
+    {
+        "name": "Book Club Meetup",
+        "type": "event",
+        "location": "Siouxland Libraries, 200 N Dakota Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5490, "lng": -96.7306},
+        "start_time": "2025-11-23T10:00:00.000Z",
+        "end_time": "2025-11-23T11:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "Siouxland Libraries", "email": "info@siouxlandlib.org", "phone": "(605) 367-8720"},
+        "description": "Join fellow book enthusiasts for a discussion on this month's selected title.",
+        "url": "https://siouxlandlib.org/"
+    },
+    {
+        "name": "Expert Panel on E-Sports",
+        "type": "event",
+        "location": "Sioux Falls Convention Center, 1201 N West Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5485, "lng": -96.7301},
+        "start_time": "2025-11-23T12:00:00.000Z",
+        "end_time": "2025-11-23T13:30:00.000Z",
+        "duration_minutes": 90,
+        "contact": {"name": "E-Sports Professionals", "email": "info@esportsprofessionals.com", "phone": "(605) 555-0145"},
+        "description": "A panel discussion featuring industry experts discussing trends in E-Sports.",
+        "url": "https://www.siouxfallevents.com/"
+    },
+    {
+        "name": "Outdoor Adventure at Palisades State Park",
+        "type": "activity",
+        "location": "25495 485th Ave, Garretson, SD 57030",
+        "coordinates": {"lat": 43.5562, "lng": -96.5324},
+        "start_time": "2025-11-23T15:00:00.000Z",
+        "end_time": "2025-11-23T18:00:00.000Z",
+        "duration_minutes": 180,
+        "contact": {"name": "Palisades State Park", "email": "info@palisadesstatepark.com", "phone": "(605) 594-3824"},
+        "description": "Enjoy hiking and the stunning views of the cliffs and river in this beautiful park.",
+        "url": "https://gfp.sd.gov/palisades-state-park/"
+    },
+    {
+        "name": "Networking Mixer",
+        "type": "event",
+        "location": "Falls Overlook Cafe, 825 N Phillips Ave, Sioux Falls, SD 57104",
+        "coordinates": {"lat": 43.5460, "lng": -96.7308},
+        "start_time": "2025-11-23T19:00:00.000Z",
+        "end_time": "2025-11-23T21:00:00.000Z",
+        "duration_minutes": 120,
+        "contact": {"name": "Sioux Falls Young Professionals", "email": "contact@sfyp.com", "phone": "(605) 555-0123"},
+        "description": "An evening mixer for young professionals to connect and collaborate.",
+        "url": "https://siouxfallsypn.com/events/"
+    }
+]

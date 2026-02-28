@@ -1,0 +1,68 @@
+[2025-11-22T01:23:39.378Z] 
+📥 Request ID: 1763774619378
+[2025-11-22T01:23:39.379Z] 📥 Request: Oklahoma City, OK / Mountains, Ballet, Board Games, Professional Development, Learning
+[2025-11-22T01:23:39.379Z] 
+📍 Generating itinerary for Mountains, Ballet, Board Games, Professional Development, Learning in Oklahoma City, OK
+[2025-11-22T01:23:39.383Z] 🔍 Searching activities: Oklahoma City, OK Mountains, Ballet, Board Games, Professional Development, Learning attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:23:41.042Z] 
+================================================================================
+[2025-11-22T01:23:41.042Z] 🔍 ACTIVITY SEARCH
+[2025-11-22T01:23:41.042Z] Query: Oklahoma City, OK Mountains, Ballet, Board Games, Professional Development, Learning attractions activities places to visit things to do November 22, 2025 to November 23, 2025
+[2025-11-22T01:23:41.042Z] Results count: 10
+[2025-11-22T01:23:41.042Z] ================================================================================
+
+[2025-11-22T01:23:41.043Z] 📁 Full search results saved to: search_activity_2025-11-22T01-23-39-378Z_1763774619378.json
+[2025-11-22T01:23:41.043Z] 🔍 Searching events: Oklahoma City, OK Mountains, Ballet, Board Games, Professional Development, Learning networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:23:45.726Z] 
+================================================================================
+[2025-11-22T01:23:45.727Z] 🔍 EVENT SEARCH
+[2025-11-22T01:23:45.728Z] Query: Oklahoma City, OK Mountains, Ballet, Board Games, Professional Development, Learning networking events conferences meetups competitions November 22, 2025 to November 23, 2025
+[2025-11-22T01:23:45.728Z] Results count: 10
+[2025-11-22T01:23:45.728Z] ================================================================================
+
+[2025-11-22T01:23:45.729Z] 📁 Full search results saved to: search_event_2025-11-22T01-23-39-378Z_1763774619378.json
+[2025-11-22T01:23:47.340Z] 
+📄 Scraping [1/6]: https://www.tripadvisor.ca/Attractions-g28957-Activities-Oklahoma.html
+[2025-11-22T01:23:47.341Z] Type: activity
+[2025-11-22T01:23:47.341Z] Content length: 97743 characters
+[2025-11-22T01:23:50.132Z] 
+📄 Scraping [2/6]: https://www.expedia.ca/Things-To-Do-In-Oklahoma-City.d602972.Travel-Guide-Activities
+[2025-11-22T01:23:50.133Z] Type: activity
+[2025-11-22T01:23:50.133Z] Content length: 37701 characters
+[2025-11-22T01:23:52.145Z] 
+📄 Scraping [3/6]: https://downtownokc.com/events/
+[2025-11-22T01:23:52.146Z] Type: activity
+[2025-11-22T01:23:52.146Z] Content length: 5422 characters
+[2025-11-22T01:23:54.031Z] 
+📄 Scraping [4/6]: https://www.okcballet.org/
+[2025-11-22T01:23:54.031Z] Type: event
+[2025-11-22T01:23:54.031Z] Content length: 11245 characters
+[2025-11-22T01:23:57.151Z] 
+📄 Scraping [5/6]: https://www.eventbrite.ie/d/ok--oklahoma-city/professional-development/
+[2025-11-22T01:23:57.152Z] Type: event
+[2025-11-22T01:23:57.152Z] Content length: 53158 characters
+[2025-11-22T01:24:01.836Z] 
+📄 Scraping [6/6]: https://courses.online.colostate.edu/
+[2025-11-22T01:24:01.837Z] Type: event
+[2025-11-22T01:24:01.837Z] Content length: 17768 characters
+[2025-11-22T01:24:01.837Z] 
+✅ Successfully scraped 6 pages
+[2025-11-22T01:24:01.838Z] 
+================================================================================
+[2025-11-22T01:24:01.838Z] 🤖 AI PROMPT
+[2025-11-22T01:24:01.838Z] Prompt length: 13766 characters
+[2025-11-22T01:24:01.838Z] ================================================================================
+
+[2025-11-22T01:24:01.838Z] 📁 Full AI prompt saved to: ai_prompt_2025-11-22T01-23-39-378Z_1763774619378.txt
+[2025-11-22T01:24:38.534Z] 
+================================================================================
+[2025-11-22T01:24:38.535Z] 🤖 AI RESPONSE
+[2025-11-22T01:24:38.535Z] Response length: 6444 characters
+[2025-11-22T01:24:38.535Z] ================================================================================
+
+[2025-11-22T01:24:38.536Z] 📁 Full AI response saved to: ai_response_2025-11-22T01-23-39-378Z_1763774619378.txt
+[2025-11-22T01:24:38.536Z] 
+✅ Final itinerary generated with 10 items
+[2025-11-22T01:24:38.543Z] 
+📦 Complete log data saved to: itinerary_2025-11-22T01-23-39-378Z_1763774619378.json
+[2025-11-22T01:24:38.543Z] 📂 All logs saved in: /Users/liuqiming/Desktop/YiVerse/naviya/lib/itinerary-server/logs

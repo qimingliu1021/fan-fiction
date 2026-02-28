@@ -1,0 +1,256 @@
+You are an itinerary planning AI. Based on the scraped web data below, create a structured itinerary for a Mountains, Parties, Gaming, Professional Development, Learning in Dallas, TX.
+
+Requirements:
+- Create activities and events for these SPECIFIC dates:
+  * Start: Saturday, November 22, 2025
+  * End: Sunday, November 23, 2025
+- 6-10 professional activities (attractions, activities, places to visit, things to do)
+- 5-10 networking/professional events (conferences, meetups, competitions, skill presentations)
+- Each item must have:
+  * name: Activity/event name
+  * type: "activity" or "event"
+  * location: Full address
+  * coordinates: {lat, lng} (estimate if not available)
+  * start_time: ISO 8601 format (MUST be between 2025-11-22T05:00:00.000Z and 2025-11-24T04:59:59.999Z)
+  * end_time: ISO 8601 format (same date as start_time)
+  * duration_minutes: Number
+  * contact: {name, email, phone} (extract or generate realistic ones)
+  * description: Brief description
+  * url: Source URL
+
+CRITICAL: All start_time and end_time values MUST be within the date range provided above.
+Distribute items across the date range with realistic timing (9 AM - 9 PM).
+If scraped content doesn't have exact dates, adjust them to fit within the provided date range.
+
+Scraped Data:
+
+[1] ACTIVITY - https://www.visitdallas.com/blog/what-to-do-in-november-in-dallas/
+                 Things to Do & Events in Dallas in November 2025 | Visit Dallas                                    
+
+[Skip to content](#main)
+
+[![Visit Dallas logo on a plain background](https://visit-dallas.s3.amazonaws.com/images/logos/visit-dallas-logo-2024.svg?v=1711591863)](https://www.visitdallas.com/)
+
+*   [Things to do](https://www.visitdallas.com/things-to-do/)
+*   [Events](https://www.visitdallas.com/events/)
+*   [Food & Drink](https://www.visitdallas.com/food-drink/)
+*   [Explore](https://www.visitdallas.com/explore/)
+*   [Nightlife](https://www.visitdallas.com/nightlife/)
+*   [Sports](https://www.visitdallas.com/sports-recreation/)
+*   [Plan](https://www.visitdallas.com/plan/)
+*   [Meet](https://www.visitdallas.com/meetings-events/)
+*   [Hotel Offers](https://www.visitdallas.com/plan/where-to-stay/hotel-offers/)
+
+[67°F](/plan/weather/)
+
+[
+
+0
+
+Saved
+
+](/saved-items/)
+
+*   [Meeting Incentives](https://www.visitdallas.com/meetings-events/incentives/)
+*   [Store](https://shop.visitdallas.com/)
+*   [Merry Mile](https://www.visitdallas.com/food-drink/margarita-mile/)
+*   [Blog](https://www.visitdallas.com/blog/)
+*   [Travel Trade](https://www.visitdallas.com/plan/travel-trade/)
+*   [Press](https://www.visitdallas.com/about/press/)
+*   [Members](https://www.visitdallas.com/members/)
+*   [Accessibility](https://www.visitdallas.com/explore/accessibility/)
+
+Navigation
+
+[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)](https://www.visitdallas.com/)
+
+*   [Things to do](https://www.visitdallas.com/things-to-do/)
+    
+    *   [Attractions](https://www.visitdallas.com/things-to-do/attractions/)
+    *   [Family Fun](https://www.visitdallas.com/things-to-do/family-fun/)
+    *   [Arts & Culture](https://www.visitdallas.com/things-to-do/arts/)
+    *   [Shopping](https://www.visitdallas.com/things-to-do/shopping/)
+    *   [Outdoors](https://
+
+
+[2] ACTIVITY - https://www.yelp.com/search?find_desc=Fun+Activities&find_loc=Dallas%2C+TX
+         TOP 10 BEST Fun Activities in Dallas, TX - Updated 2025 - Yelp     
+
+[Yelp](/)
+
+Yelp for Business
+
+[
+
+Write a Review
+
+
+
+
+
+](/writeareview)
+
+Start a Project
+
+Log In
+
+Sign Up
+
+1.  [Restaurants](/search?find_desc=Restaurants&find_loc=Dallas%2C+TX)
+    
+2.  [Home & Garden](/search?find_desc=Home+%26+Garden&find_loc=Dallas%2C+TX)
+    
+3.  [Auto Services](/search?find_desc=Auto+Services&find_loc=Dallas%2C+TX)
+    
+4.  [Health & Beauty](/search?find_desc=Health+%26+Beauty&find_loc=Dallas%2C+TX)
+    
+5.  [Travel & Activities](/search?find_desc=Travel+%26+Activities&find_loc=Dallas%2C+TX)
+    
+6.  More
+    
+7.  More
+    
+
+Filters
+
+Price
+
+$$$$$$$$$$
+
+Suggested
+
+Open Now 
+
+\--:--
+
+Good for Kids
+
+Dogs Allowed
+
+Open to All
+
+Offers Military Discount
+
+Good for Groups
+
+Category
+
+Bubble Soccer
+
+Challenge Courses
+
+Team Building Activities
+
+Escape Games
+
+Aerial Tours
+
+Virtual Reality Centers
+
+See all
+
+Features
+
+Free Wi-Fi
+
+Open At 
+
+\--- --:--
+
+Accepts Credit Cards
+
+Request a Quote
+
+Online Booking
+
+Gender Neutral Restrooms
+
+See all
+
+Distance
+
+Bird's-eye View
+
+Driving (5 mi.)
+
+Biking (2 mi.)
+
+Walking (1 mi.)
+
+Within 4 blocks
+
+[Active Life](/search?find_desc=Active+Life&find_loc=Dallas%2C+TX)Fun Activities
+
+# Top 10 Best Fun Activities Near Dallas, Texas
+
+Sort:Recommended
+
+All
+
+Price
+
+Open NowGood for KidsDogs AllowedOpen to AllOffers Military Discount
+
+*   ## Sponsored Results
+    
+
+*   [![Legacy Archery](https://s3-media0.fl.yelpcdn.com/bphoto/1eDBxaGdltF61GWQBexxxw/348s.jpg "Legacy Archery")](/adredir?ad_business_id=8b8V9jPL6MyOgk0kMtoGqg&campaign_id=214376970&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Flegacy-archery-fort-worth&request_id=e439955b4702ec9f&signature=b4552f74166af7d0d263b53b3a721acc1eb6ce90cfb9a91e7a45dd165975b429&slot=0)
+    
+    ### [Legacy Archery](/adredir?ad_business_id=8b8V9jPL6MyOgk0kMtoGqg&campaign_id=214376970&click_origin=search_results&placement=vertical_0&placement_slot=0&redire
+
+
+[3] ACTIVITY - https://www.tripadvisor.com/Attractions-g55711-Activities-Dallas_Texas.html
+THE 15 BEST Things to Do in Dallas (2025) - Must-See Attractions
+
+![Advertisement](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)
+
+Skip to main content
+
+[![Tripadvisor](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)](/)
+
+[Rewards](/Rewards)
+
+Discover
+
+Trips
+
+Review
+
+USD[
+
+Sign in
+
+](/RegistrationController?flow=sign_up_and_save&returnTo=%2FAttractions-g55711-Activities-Dallas_Texas.html&fullscreen=true&flowOrigin=login&hideNavigation=true&isLithium=true)
+
+[Dallas](/ClientLink?value=dFF4Xy9Ub3VyaXNtLWc1NTcxMS1EYWxsYXNfVGV4YXMtVmFjYXRpb25zLmh0bWxfYXNz)[Hotels](/ClientLink?value=am9nXy9Ib3RlbHMtZzU1NzExLURhbGxhc19UZXhhcy1Ib3RlbHMuaHRtbF9Jd2w=)[Things to Do](/ClientLink?value=c1lnXy9BdHRyYWN0aW9ucy1nNTU3MTEtQWN0aXZpdGllcy1EYWxsYXNfVGV4YXMuaHRtbF91MkM=)[Restaurants](/ClientLink?value=ak0wXy9SZXN0YXVyYW50cy1nNTU3MTEtRGFsbGFzX1RleGFzLmh0bWxfdXcz)[Cruises](/Cruises)[Forums](/ClientLink?value=ODZlXy9TaG93Rm9ydW0tZzU1NzExLURhbGxhc19UZXhhcy5odG1sX1daTQ==)
+
+[United States](/Tourism-g191-United_States-Vacations.html)
+
+[Texas (TX)](/Tourism-g28964-Texas-Vacations.html)
+
+[Dallas](/Tourism-g55711-Dallas_Texas-Vacations.html)
+
+Things to Do in Dallas
+
+# 
+
+Things to Do in Dallas, TX - Dallas Attractions
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9b/2f/74/dallas.jpg?w=600&h=500&s=1)
+
+# Top Things to Do in Dallas
+
+Check out must-see sights and activities:  
+[Dallas Arboretum & Botanical Gardens](/Attraction_Review-g55711-d140769-Reviews-Dallas_Arboretum_Botanical_Gardens-Dallas_Texas.html), [The Sixth Floor Museum at Dealey Plaza](/Attraction_Review-g55711-d106016-Reviews-The_Sixth_Floor_Museum_at_Dealey_Plaza-Dallas_Texas.html), [City Tours](/Attractions-g55711-Activities-c42-t224-Dallas_Texas.html), [Specialty Museums](/Attractions-g55711-Activities-c49-t161-Dallas_Texas.html). For personalized recommendations, try our AI trip-planning product.
+
+[
+
+Build your trip
+
+](TripBuilder?geo=55711)
+
+Powered by AI
+
+## Explore p
+
+Return ONLY valid JSON array with exactly 10-20 items.

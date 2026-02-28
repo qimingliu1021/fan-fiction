@@ -1,0 +1,320 @@
+{
+  "organic": [
+    {
+      "link": "https://www.catchdesmoines.com/events/",
+      "display_link": "https://www.catchdesmoines.com › events",
+      "title": "Greater Des Moines Events | Find Sports, Concerts & ...",
+      "description": "Looking for events in Des Moines? View our events calendar to find information on local events like the Iowa State Fair, Drake Relays, concerts and ...",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Annual Events & Festivals",
+          "link": "https://www.catchdesmoines.com/events/annual-events-festivals/",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Arts and Culture",
+          "link": "https://www.catchdesmoines.com/arts-and-culture/",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Annual Sports Events",
+          "link": "https://www.catchdesmoines.com/events/annual-sport-events/",
+          "rank": 3
+        },
+        {
+          "type": "site_link",
+          "text": "Free Events",
+          "link": "https://www.catchdesmoines.com/free-events/",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "E-",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "meetups",
+          "rank": 7
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.eventbrite.com/d/ia--west-des-moines/november-22/",
+      "display_link": "https://www.eventbrite.com › ... › November 22 Events",
+      "title": "November 22 events in West des Moines, IA",
+      "description": "November 22 events in West des Moines, IA · Business · Science & Tech · Music · Film & Media · Performing & Visual Arts · Fashion · Health · Sports & Fitness ...See more",
+      "rank": 2,
+      "global_rank": 2
+    },
+    {
+      "link": "https://khak.com/november-2025-events-eastern-iowa/",
+      "display_link": "https://khak.com › november-2025-events-eastern-iowa",
+      "title": "A Huge List of November 2025 Events Across Eastern Iowa",
+      "description": "Here's a rundown of big events happening in Eastern Iowa in November 2025, broken down into the following categories: Linn County; Johnson ...See more",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 24, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 3,
+      "global_rank": 3
+    },
+    {
+      "link": "https://bravogreaterdesmoines.org/calendar/",
+      "display_link": "https://bravogreaterdesmoines.org › calendar",
+      "title": "Calendar - Bravo Greater Des Moines",
+      "description": "The calendar can focus on timely events, concerts, performances, festivals, openings, and educational opportunities.See more",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "E-",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "Sports",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "networking",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "conferences",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "meetups",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 7
+        }
+      ],
+      "rank": 4,
+      "global_rank": 4
+    },
+    {
+      "link": "https://www.meetup.com/find/us--ia--des-moines/",
+      "display_link": "https://www.meetup.com › find › us--ia--des-moines",
+      "title": "Events in Des Moines, Iowa",
+      "description": "Find events in Des Moines, Iowa to connect with people who share your interests. Whatever your interest, Meetup helps you connect with like-minded people.",
+      "extensions": [
+        {
+          "type": "site_link",
+          "text": "Meet new friends",
+          "link": "https://www.meetup.com/find/us--ia--des-moines/meet-new-friends/",
+          "rank": 1
+        },
+        {
+          "type": "site_link",
+          "text": "Networking",
+          "link": "https://www.meetup.com/find/us--ia--des-moines/networking/",
+          "rank": 2
+        },
+        {
+          "type": "site_link",
+          "text": "Outdoor activities",
+          "link": "https://www.meetup.com/find/us--ia--des-moines/outdoor-activities/",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "Mountains,",
+          "rank": 4
+        },
+        {
+          "type": "missing",
+          "text": "Theater,",
+          "rank": 5
+        },
+        {
+          "type": "missing",
+          "text": "E-",
+          "rank": 6
+        },
+        {
+          "type": "missing",
+          "text": "conferences",
+          "rank": 7
+        },
+        {
+          "type": "missing",
+          "text": "competitions",
+          "rank": 8
+        }
+      ],
+      "rank": 5,
+      "global_rank": 5
+    },
+    {
+      "link": "https://vendelux.com/blog/sports-conferences/",
+      "display_link": "https://vendelux.com › Blog",
+      "title": "Sports Conferences Event Guide for 2025",
+      "description": "In this guide, expect to explore the most anticipated conferences of 2025, complete with travel stops, key themes and unique opportunities that await attendees.See more",
+      "rank": 6,
+      "global_rank": 6
+    },
+    {
+      "link": "https://alumni.grinnell.edu/events/young-alumni-socials",
+      "display_link": "https://alumni.grinnell.edu › events › young-alumni-socials",
+      "title": "2025 Young Alumni Socials",
+      "description": "Young Alumni Socials are happy hour-style events hosted by young alumni in partnership with the Office of Development and Alumni Relations.",
+      "rank": 7,
+      "global_rank": 7
+    },
+    {
+      "link": "https://desmoinesmom.com/things-to-do-in-des-moines-in-november/",
+      "display_link": "https://desmoinesmom.com › Blog",
+      "title": "Things to do in Des Moines in November 2025",
+      "description": "Enjoy the season with our guide to family-friendly events and activities happening in Des Moines in November 2025.",
+      "extensions": [
+        {
+          "inline": true,
+          "type": "text",
+          "text": "Oct 30, 2025",
+          "rank": 1
+        }
+      ],
+      "rank": 8,
+      "global_rank": 8
+    },
+    {
+      "link": "https://clinton.presidentiallibraries.us/items/show/39449?output=omeka-xml",
+      "display_link": "https://clinton.presidentiallibraries.us › items › sh...",
+      "title": "https://clinton.presidentiallibraries.us/items/show/39449 ...",
+      "description": "Des Moines, Iowa. Newspaper Monday Lead Tuesday Lead Washington Post Clinton ... Iowa for a conference on rural America. \"They spread hate. They leave ...See more",
+      "rank": 9,
+      "global_rank": 9
+    }
+  ],
+  "images": [
+    "https://namiiowa.org/get-involved/nami-iowa-events/annual-conference/",
+    "https://iowaleague.org/workshops-events/annual-conference/",
+    "https://www.technologyiowa.org/event/2025-iowa-technology-summit/"
+  ],
+  "current_page": 1,
+  "related": [
+    {
+      "items": [
+        {
+          "text": "Gray's Lake Park",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Gray%27s+Lake+Park&stick=H4sIAAAAAAAAAOMwVOLSz9U3yDYuMkq3_MXIsIGF4RULDxeS4CsWbi5OEDfD0DS9Ei5pZBaflmcClzQpyygvg0sm51XlGMfDJU2LS3JNX7HwcfHop-sbGlUUVhpmZBi9YuHl4gYJlGSlx1caZSH46TkZ5Um5cO1p2WZVFotYBdyLEivVixV8ErNTFQISi7JvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAXgktar1AAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-EAo",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWpLDrQVWSXDFY7CldzDGlKN-6m-EKWUu1XWjstXKwMOJJZWC0Dy&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWpLDrQVWSXDFY7CldzDGlKN-6m-EKWUu1XWjstXKwMOJJZWC0Dy&s=0",
+          "rank": 1
+        },
+        {
+          "text": "Blank Park Zoo",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Blank+Park+Zoo&stick=H4sIAAAAAAAAAOMwVOLUz9U3yDA0Ta_8xciwgYXhFQsPFxdILNu4yCjd8hULNxdCCVzSyCw-Lc8ELmlSllFeBpdMzqvKMY6HS5oWl-SavmLh4-LRT9c3NKoorDTMyDB6xcLLxQ0SKMlKj680ykLw03MyypNy4drTss2qLBax8jnlJOZlKwQkFmUrROXn32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAsThGw_IAAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-EA8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0MLVfGtgK3tbRVhA146glUEFr7yWiZ2pU9yinsiJ91kmY4kuxV51&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0MLVfGtgK3tbRVhA146glUEFr7yWiZ2pU9yinsiJ91kmY4kuxV51&s=0",
+          "rank": 2
+        },
+        {
+          "text": "Des Moines Civic Center",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+Civic+Center&stick=H4sIAAAAAAAAAOMwVOLSz9U3MDKLT8sz-cXIsIGF4RULDxdYMNu4yCjd8hULNxcniJthaJpeCZeE6IBLmpRllJfBJZPzqnKM4-GSpsUluaavWPi4ePTT9Q2NKgorDTMyjF6x8HJxgwRKstLjK42yEPz0nIzypFy49rRssyqLRaziLqnFCr75mXlAyjmzLDNZwTk1ryS16BabJMPuRR0_WVz3G260NN64SezxdvZf7n9r02asXMQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAlJfDl_wAAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-EBQ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXS1Gf8s80Uu2cKFjTI0kEZcNv-HKG9fYwO1paRBT3cVh6N8oO2YlX&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXS1Gf8s80Uu2cKFjTI0kEZcNv-HKG9fYwO1paRBT3cVh6N8oO2YlX&s=0",
+          "rank": 3
+        },
+        {
+          "text": "Des Moines Art Center",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+Art+Center&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCnLKC_7xciwgYXhFQsPFxdILNu4yCjd8hULNxdYSYahaXolXNLILD4tzwQuCdYPl0zOq8oxjodLmhaX5Jq-YuHj4tFP1zc0qiisNMzIMHrFwsvFDRIoyUqPrzTKQvDTczLKk3Lh2tOyzaosFrGKuqQWK_jmZ-YBKceiEgXn1LyS1KJbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAO7YD3T5AAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-EBk",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKc7RPPpRfiKwcsVRDBDopN5knCZg7-Z0sPRF&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKc7RPPpRfiKwcsVRDBDopN5knCZg7-Z0sPRF&s=0",
+          "rank": 4
+        },
+        {
+          "text": "Hoyt Sherman Place",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Hoyt+Sherman+Place&stick=H4sIAAAAAAAAAOMwVOLSz9U3SM6ryjGO_8XIsIGF4RULDxdYMNu4yCjd8hULNxcniJthaJpeCZc0MotPyzOBS5qUZZSXwSUhxsElTYtLck1fsfBx8ein6xsaVRRWGmZkGL1i4eXiBgmUZKXHVxplIfjpORnlSblw7WnZZlUWi1iFPPIrSxSCM1KLchPzFAJyEpNTb7FJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAHgpPnx9wAAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-EB4",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpsWbkrKbsZ5IqBCfChXRLdtoLbAXRmptcsfppELNEWVveabdwHyQ3&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpsWbkrKbsZ5IqBCfChXRLdtoLbAXRmptcsfppELNEWVveabdwHyQ3&s=0",
+          "rank": 5
+        },
+        {
+          "text": "Greater Des Moines Botanical Garden",
+          "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Greater+Des+Moines+Botanical+Garden&stick=H4sIAAAAAAAAAOMwVOLUz9U3MC0uyTX9xciwgYXhFQsPFxdILNu4yCjd8hULNxdYSYahaXolXNLILD4tzwQuaVKWUV4Gl0zOq8oxjodLgg1_xcLHxaOfrm9oVFFYaZiRYfSKhZeLGyRQkpUeX2mUheCn52SUJ-XCtadlm1VZLGJVdi9KTSxJLVJwSS1W8M3PzANSTvkliXmZyYk5Cu6JRSmpebfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAuAyZdQcBAAA&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQs9oBKAB6BAg-ECM",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsOAUngFJoE_lSVRCHr1k9VnkhtzZojxwdumxC_clQ5Fpe_l0VhmF&s=0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsOAUngFJoE_lSVRCHr1k9VnkhtzZojxwdumxC_clQ5Fpe_l0VhmF&s=0",
+          "rank": 6
+        }
+      ],
+      "rank": 1,
+      "global_rank": 13
+    },
+    {
+      "text": "Des Moines events calendar",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhZEAE",
+      "rank": 2,
+      "global_rank": 14
+    },
+    {
+      "text": "Des Moines events calendar this Month",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar+this+Month&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhaEAE",
+      "rank": 3,
+      "global_rank": 15
+    },
+    {
+      "text": "Events in Des Moines today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Events+in+Des+Moines+today&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhcEAE",
+      "rank": 4,
+      "global_rank": 16
+    },
+    {
+      "text": "Des Moines events calendar this weekend",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+calendar+this+weekend&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhTEAE",
+      "rank": 5,
+      "global_rank": 17
+    },
+    {
+      "text": "Des Moines events next 3 days",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Des+Moines+events+next+3+days&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhWEAE",
+      "rank": 6,
+      "global_rank": 18
+    },
+    {
+      "text": "Things to do in Des Moines this weekend for adults",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Things+to+do+in+Des+Moines+this+weekend+for+adults&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhXEAE",
+      "rank": 7,
+      "global_rank": 19
+    },
+    {
+      "text": "Outdoor festivals in Iowa This Weekend",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Outdoor+festivals+in+Iowa+This+Weekend&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhVEAE",
+      "rank": 8,
+      "global_rank": 20
+    },
+    {
+      "text": "Iowa events today",
+      "link": "https://www.google.com/search?sca_esv=6c99d299773109c4&hl=en&q=Iowa+events+today&sa=X&ved=2ahUKEwi_lqnA0oSRAxXinf0HHRyDBysQ1QJ6BAhYEAE",
+      "rank": 9,
+      "global_rank": 21
+    }
+  ],
+  "ai_overview": null
+}
